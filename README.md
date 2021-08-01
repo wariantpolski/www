@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Opowiadanie Wariant Polski
 
-You can use the [editor on GitHub](https://github.com/wariantpolski/www/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+To opowiadanie Science Fiction, które ma na celu przedstawienie bardziej lub mniej 
+Prawdopodobnych wydarzeń, które. mogły by mieć miejsce w Polsce, pod koniec roku 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fantastyka naukowa (ang. science fiction, w skrócie sci-fi lub SF) 
+gatunek literacki, filmowy oraz gier komputerowych o fabule osnutej na przewidywanych osiągnięciach nauki i techniki oraz ukazującej ich wpływ na życie jednostki lub społeczeństwa[1][2]. W świecie przedstawionym utworów nie występują elementy cudowności, a także przestrzega się zasad prawdopodobieństwa[1]. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zdarzenia
+Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w różnych miejscach świata, aby czytelnik rozumiał kontekst i wysokie prawdopodobieństwo wystąpienia ich właśnie w tym roku w Polsce.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#wariantpolski #2022 #cyberwar
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+w kontekście wirusa atakującego drogi oddechowe
 
-[Link](url) and ![Image](src)
-```
+Jakie scenariusze były by sprzyjające w przejęciu kontroli nad terenem wisły?
+Sporo grup społecznych a nawet samorządy tracą na obecnej sytuacji, więc w ich interesie jest zmiana.![grafik](https://user-images.githubusercontent.com/5669657/127780266-3b5de2eb-e817-4282-8ea5-96ab0651b8c8.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wariantpolski/www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
