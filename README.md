@@ -18,5 +18,4 @@ Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w róż
 w kontekście wirusa atakującego drogi oddechowe
 
 Jakie scenariusze były by sprzyjające w przejęciu kontroli nad terenem wisły?
-Sporo grup społecznych a nawet samorządy tracą na obecnej sytuacji, więc w ich interesie jest zmiana.![grafik](https://user-images.githubusercontent.com/5669657/127780266-3b5de2eb-e817-4282-8ea5-96ab0651b8c8.png)
-
+Sporo grup społecznych a nawet samorządy tracą na obecnej sytuacji, więc w ich interesie jest zmiana.
