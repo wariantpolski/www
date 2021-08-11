@@ -32,6 +32,13 @@ Fale kolejnych wariantów stają się falami zgonów
 okazuje się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko tracą odporność i umierają 
 + ta interakcja cześniej nie była znana, gdyż preparaty są w fazie testowania.
 
+### Segregacja
+
+Sukces polityki segregacji na polu ograniczania wirusa wolności przyczynił się do wynalezienia nowych kategorii zbrodni, które wymagają resocjalizacji,
+dlatego tak bardzo potrzebne są ośrodki dla podejrzanych o wariant polski wirusa, który nie dość, że zagraża zdrowiu to jeszcze narracji propagandowej.
+
+Partia uzasadnia kolejną większą dziurę budżetową oraz kolejne kredyty na pokolenia bardzo starannie.
+Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to było".
 
 
 ### Żywność
@@ -51,6 +58,8 @@ okazuje się, że większość pacjentów, która zaczęła przyjmować leki na 
 
 + PVA + blockchain + private5g
 + PVA + crypto + IoT + LoRaWAN
+
+
 
 
 ## Grupy społeczne
