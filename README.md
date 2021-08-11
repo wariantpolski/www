@@ -6,7 +6,11 @@ Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w róż
 
 ## Wątek główny
 
-Wątkiem głównym opowieści Wariant Polski jest wirus atakujący drogi oddechowe.
+Wątkiem głównym opowieści Wariant Polski czyli wirus atakujący umysł, zmuszając do refleksji po latach reżimowej walki z wiatrakami napędzanymi wiatrem propagandy.
+Ten wiatr nie słabnie, napędza gospodarkę krajów do sotosowania najnowszych rozwiązań technologicznych, tzw "human centric", aby żaden człowiek nie był skazany na samotność żyjąc w szczęściu systemowych rozwiązań na każdy problem.
+
+Inżyniera społeczna dla każdego: Society 5.0
+
 W zasadzie to tylko pretekst do otwarcia puszki pandory w Polsce.
 
 Jakie scenariusze były by sprzyjające w przejęciu kontroli nad terenem Wisły?
@@ -55,6 +59,15 @@ Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to był
 + Mobilne Fabryki
 
 ### Bankowość, transfery
+
+Gospodarka, której krwiobieg istnieje poza oczami systemu.
+
++ lokalne waluty
++ wymiana barterowa
++ lokalne elektrownie
++ lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
+
+Rozwiązania
 
 + PVA + blockchain + private5g
 + PVA + crypto + IoT + LoRaWAN
