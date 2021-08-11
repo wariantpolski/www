@@ -17,7 +17,8 @@ Walka o zachowanie siebie, swoich wartości każdego dnia to horyzont wojen jaki
 ## Wątek główny
 
 Wątkiem głównym opowieści Wariant Polski czyli wirus atakujący umysł, zmuszając do refleksji po latach reżimowej walki z wiatrakami napędzanymi wiatrem propagandy.
-Ten wiatr nie słabnie, napędza gospodarkę krajów do sotosowania najnowszych rozwiązań technologicznych, tzw "human centric", aby żaden człowiek nie był skazany na samotność żyjąc w szczęściu systemowych rozwiązań na każdy problem.
+
+Ten wiatr nie słabnie, napędza gospodarkę krajów do sotosowania najnowszych rozwiązań technologicznych, tzw. "human centric", aby żaden człowiek nie był skazany na samotność żyjąc w szczęściu systemowych rozwiązań na każdy problem.
 
 Inżyniera społeczna dla każdego: Society 5.0
 
