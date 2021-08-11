@@ -18,21 +18,36 @@ Warto przeprowadzić symulację w kontekście tych wszystkich niezadowolonych, k
 ## Opór społeczny
 
 
+### Zdrowie Polaków
+
+Fale kolejnych wariantów stają się falami zgonów 
+
++ fala śmierci po podaniu jednej z kolejnych "szczepionek", okazuje się, że większość pacjentów, która zaczęła przyjmować określone leki na inne zachorowania szybko tracą odpornoś. Wcześniej nie była to znana interakcja, gdyż stale preparaty są w fazie testowania.
+
+
+
 ### Rolnicy
+
 + nieurodzaj
 + nowe podatki
 + zmiana systemu ubezpieczeń
++ Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
 
 
 ### Przedsiębiorcy
 
++ upadające biznesy przenoszą się za granicę
++ coraz więcej alternatyw dla restrykcji i ograniczeń z PL
 
 ### Urzędnicy
++ zmiana modelu i form zatrudniania, wyższe pensje 
++ Więcej kooperacji z korporacjami, delegacja pracowników z krajów spoza EU
 
 
 ### Służby specjalne
-
-
++ reorganizacja
++ nowe 
++ ograniczenie działa rządu
 
 ### Przeprowadzka wojsk amerykańskich a wariant polski
 
