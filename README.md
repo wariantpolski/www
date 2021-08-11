@@ -62,8 +62,8 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 
 ## Zdarzenia zdalnie sterowane
 
-+ pożary
-+ powodzie
++ pożary pofragmentowanych lasów
++ powodzie obszarów strategicznych
 + eksplozje, zatrucie powietrza
 + odkrycie radioaktywnych chemicznych śmieci
 + cyberataki
