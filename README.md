@@ -1,4 +1,4 @@
-# Opowiadanie Wariant Polski
+# [Opowiadanie Wariant Polski](https://www.wariantpolski.pl/)
 
 To opowiadanie Science Fiction, które ma na celu przedstawienie bardziej lub mniej prawdopodobnych wydarzeń, które mogły by mieć miejsce w Polsce do końca roku 2021 i ich kontynuacji w 2022
 Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w różnych miejscach świata, aby czytelnik rozumiał kontekst i wysokie prawdopodobieństwo wystąpienia ich właśnie w tym roku w Polsce.
