@@ -30,13 +30,24 @@ zapraszam do lektury...
 
 ## Zasoby
 
-### Zdrowie
+### Zdrowie Fizyczne
 
 Fale kolejnych wariantów stają się falami zgonów 
 
 + fala śmierci po podaniu jednego z kolejnych nieprzetstowanych preparatów, zwanych "szczepionkami", 
 okazuje się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko tracą odporność i umierają 
 + ta interakcja cześniej nie była znana, gdyż preparaty są w fazie testowania.
+
+### Zdrowie psychiczne
+
+rozbudzanie różnych rządz poprzez działania populistyczne w skali kraju nie mają takiej skuteczności
+jak selektywne działania speronalizawne indywidualnie.
+
+Dużo się mówi o "zrównoważeniu”, w kontekście Society 5.0, będziemy równoważyć człowieka.
+Mówimy tu o kontroli, o ograniczeniach, zakazach.
+
+Wolny człowiek to przeszłość, najbardziej zrównoważony człowiek to ten, który służy nowemu ładowi, jest wierny i oddany zasadom i filozofiomm jemu podsuwanymi nie raz na życie, ale codziennie, zamiast czekać na nagrodę w raju otrzyma go tu na ziemi, jeśli tylko będzie odpowiednio zrównoważony...
+
 
 ### Segregacja
 
