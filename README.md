@@ -12,7 +12,7 @@ Czekają nas nowe rozwiązania systemowe, które są poza możliwościami zmiany
 Najbliższa dekada to powódź, która zabierze to co mamy i znamy, wymiesza i wyleje na obszary przyszłości, a człwiek będzie musiał się zaadoptować i żyć.
 
 
-Walka o zachowanie siebie, swoich wartości każdego dnia to horyznt wojen jakie będziemy toczyć, warto się przyjrzeć temu co nas czeka, by przejść te drogę z najmniejszymi stratami...
+Walka o zachowanie siebie, swoich wartości każdego dnia to horyzont wojen jakie będziemy toczyć, warto się przyjrzeć temu co nas czeka, by przejść te drogę z najmniejszymi stratami...
 
 ## Wątek główny
 
