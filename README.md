@@ -16,7 +16,8 @@ Warto przeprowadzić symulację w kontekście tych wszystkich niezadowolonych, k
 
 Teraźniejszość jest oparta o pojedyncze sojusze, 
 dlatego też, że jest to tak krucha konstrukcja czekają nas ciekawe zmiany, 
-oto jak wygląda przyszłość zbudowana na nawozie wiary i nadzieji, zapraszam do lektury...
+oto jak wygląda przyszłość zbudowana na nawozie wiary, nadzieji i pogardzie,
+zapraszam do lektury...
 
 
 ## Opór społeczny
@@ -116,3 +117,8 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 + 2021
 + 2022 
 + cyberwar
+
+
+
+---
++ [edit](https://github.com/wariantpolski/www/edit/main/README.md)
