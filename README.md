@@ -220,6 +220,8 @@ niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będz
 
 wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwoli nam zapomnieć o tym że jesteśmy rzeczą w Internecie Rzeczy (IoT - Internet of Things)
 
+Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a najlepiej być bezemisyjna, inaczej będzie poddana utylizacji, zrozumiano?
+
 
 ### blockchain
 
