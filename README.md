@@ -6,7 +6,8 @@ Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w róż
 
 ## Wątek główny
 
-Wątkiem głównym opowieści Wariant Polski jest wirus atakujący drogi oddechowe
+Wątkiem głównym opowieści Wariant Polski jest wirus atakujący drogi oddechowe.
+W zasadzie to tylko pretekst do otwarcia puszki pandory w Polsce.
 
 Jakie scenariusze były by sprzyjające w przejęciu kontroli nad terenem Wisły?
 
@@ -18,6 +19,9 @@ Warto przeprowadzić symulację w kontekście tych wszystkich niezadowolonych, k
 
 
 ### Rolnicy
++ nieurodzaj
++ nowe podatki
++ zmiana systemu ubezpieczeń
 
 
 ### Przedsiębiorcy
@@ -40,8 +44,9 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 
 + pożary
 + powodzie
-+ eksplozje
-
++ eksplozje, zatrucie powietrza
++ odkrycie radioaktywnych chemicznych śmieci
++ cyberataki
 
 ### Białoruś
 
