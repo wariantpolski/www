@@ -20,13 +20,11 @@ oto jak wygląda przyszłość zbudowana na nawozie wiary, nadzieji i pogardzie,
 zapraszam do lektury...
 
 
-## Opór społeczny
-
-+ aktywisci
-+ lobbysci
 
 
-### Zdrowie Polaków
+## Zasoby
+
+### Zdrowie
 
 Fale kolejnych wariantów stają się falami zgonów 
 
@@ -34,13 +32,32 @@ Fale kolejnych wariantów stają się falami zgonów
 
 
 
-### Rolnicy
+### Żywność
 
 + nieurodzaj
 + nowe podatki
 + zmiana systemu ubezpieczeń
 + Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
 
+
+### Energetyka i przemysł
+
++ Farmy fotowoltaiczne poza systemem
++ Mobilne Fabryki
+
+### Bankowość, transfery
+
++ PVA + blockchain + private5g
++ PVA + crypto + IoT + LoRaWAN
+
+
+## Grupy społeczne
+
+
+### Opór społeczny
+
++ aktywisci
++ lobbysci
 
 ### Przedsiębiorcy
 
