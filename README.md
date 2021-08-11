@@ -4,12 +4,15 @@ Zanim zaczniemy dyskutować o Polsce 2030, zacznijmy od początku...
 
 To opowiadanie Science Fiction, które ma na celu przedstawienie bardziej lub mniej prawdopodobnych wydarzeń, które mogły by mieć miejsce w Polsce począwszy od 2022 roku.
 Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w różnych miejscach świata, aby czytelnik rozumiał kontekst i wysokie prawdopodobieństwo wystąpienia ich właśnie w tym roku w Polsce.
+
 To nie ma przesłania, raczej jest analiza tego co się dzieje, nie ma dobrego zakończenia, bo w życiu "jest jak jest" i warto wiedzieć na co się przygotować, co robić dziś aby jutro okazało się lepsze niż dzisiaj.
 
-Największe znaczenie mają rozwiązania systemowe, które są poza możliwościami zmiany jednostki, dlatego warto ważyć to co dla każdego indywidualnie jest istotne.
-Najbliższa dekada to powódź, która zbeirze to co znamy, wymiesza i wyleje na obszary przyszłości, będziemy musieli z tym żyć.
+Czekają nas nowe rozwiązania systemowe, które są poza możliwościami zmiany jednostki, dlatego warto ważyć to co dla każdego indywidualnie jest istotne.
 
-Walka o zachowanie siebie każdego dnia to horyznt wojen jakie będziemy toczyć, warto się przyjrzeć temu co nas czeka, by przejść te drogę z najmniejszymi stratami.
+Najbliższa dekada to powódź, która zabierze to co mamy i znamy, wymiesza i wyleje na obszary przyszłości, a człwiek będzie musiał się zaadoptować i żyć.
+
+
+Walka o zachowanie siebie, swoich wartości każdego dnia to horyznt wojen jakie będziemy toczyć, warto się przyjrzeć temu co nas czeka, by przejść te drogę z najmniejszymi stratami...
 
 ## Wątek główny
 
