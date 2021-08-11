@@ -3,6 +3,7 @@
 Zanim zaczniemy dyskutować o Polsce 2030, zacznijmy od początku...
 
 To opowiadanie Science Fiction, które ma na celu przedstawienie bardziej lub mniej prawdopodobnych wydarzeń, które mogły by mieć miejsce w Polsce począwszy od 2022 roku.
+
 Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w różnych miejscach świata, aby czytelnik rozumiał kontekst i wysokie prawdopodobieństwo wystąpienia ich właśnie w Polsce.
 
 To nie ma przesłania, raczej jest analiza tego co się dzieje, nie ma dobrego zakończenia, bo w życiu "jest jak jest" i warto wiedzieć na co się przygotować, co robić dziś aby jutro okazało się lepsze niż dzisiaj.
@@ -198,6 +199,20 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 + zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
 
 
+# Pomysł na opowiadanie
+
+inspiracją są ostatnie lata, które są bogate w doświadczenia, każdy z nas, nasi bliscy, mamy swoje przemyślenia, którymi dzielimy się z otoczeniem.
+Co będzie dalej, za kilka lat?
+
+Przyszłość do została zaplanowana tak do 2020 jak i do 2030, 2050 roku.
+Więcej na stronie: [horyzont2030](https://www.horyzont2030.pl/)
+
+W zasadzie są to plany wielkich organizacji, są tam nawet zaplanowane wydarzenia oporu, zamieszek, buntów ludzi, którzy się na to nie godzą.
+Warto przyjrzeć się temu i zaplanować więcej alternatyw niż te dopuszczane i głoszone w propagandzie.
+
+Temu służy opowiadanie, pobudzonej refleksji do weryfikacji i realizacji.
+
+Tego życzę każdemu...
 
 
 ### hashtagi:
