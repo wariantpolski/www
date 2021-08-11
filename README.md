@@ -10,8 +10,7 @@ To nie ma przesłania, raczej jest analiza tego co się dzieje, nie ma dobrego z
 
 Czekają nas nowe rozwiązania systemowe, które są poza możliwościami zmiany jednostki, dlatego warto ważyć to co dla każdego indywidualnie jest istotne.
 
-Najbliższa dekada to powódź, która zabierze to co mamy i znamy, wymiesza i wyleje na obszary przyszłości, a człwiek będzie musiał się zaadoptować i żyć.
-
+Najbliższa dekada to powódź, która zabierze to co znamy, wymiesza i wyleje na obszary przyszłości a człowiek będzie musiał się zaadoptować i żyć, bo alternatywa istnieje tylko dla architektów tego stanu.
 
 Walka o zachowanie siebie, swoich wartości każdego dnia to horyzont wojen jakie będziemy toczyć, warto się przyjrzeć temu co nas czeka, by przejść te drogę z najmniejszymi stratami...
 
@@ -214,6 +213,10 @@ Temu służy opowiadanie, pobudzonej refleksji do weryfikacji i realizacji.
 
 Tego życzę każdemu...
 
+## Planowany koniec
+
+Opowiadanie jest w trakcie edycji, ma zawierać więcej danych, cytaty, wplecioną akcję, w tej chwili to szkic.
+Planowanie zakończenie to koniec roku 2021
 
 ### hashtagi:
 
