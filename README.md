@@ -22,6 +22,9 @@ zapraszam do lektury...
 
 ## Opór społeczny
 
++ aktywisci
++ lobbysci
+
 
 ### Zdrowie Polaków
 
@@ -105,9 +108,6 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 
 + wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
 + zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
-
-
-
 
 
 
