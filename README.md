@@ -68,6 +68,13 @@ Partia uzasadnia kolejną większą dziurę budżetową oraz kolejne kredyty na 
 Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to było".
 
 
+### Utylizacja
+
+Dziel, rządź i utylizuj (bez CO2).
+Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek mogą być niedopuszczone do użytku.
+Teraz czekamy na cudo techniki, który pozwoli nam utylizować w zgodzie z naturą.
+
+
 ### Żywność
 
 + nieurodzaj, nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
@@ -126,8 +133,6 @@ operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludz
 
 
 ## Grupy społeczne
-
-wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwoli nam zapomnieć o tym że jesteśmy rzeczą w Internecie Rzeczy (IoT - Internet of Things)
 
 
 ### Opór społeczny
@@ -209,7 +214,12 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 
 ## Technologia 
 
-niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0, w której będziemy podlegać maszynom poprzez integrację
+### Niewolnictwo X.0
+
+niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez integrację
+
+wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwoli nam zapomnieć o tym że jesteśmy rzeczą w Internecie Rzeczy (IoT - Internet of Things)
+
 
 ### blockchain
 
@@ -223,7 +233,8 @@ Niech robią to mądrzejsi a my prosty ludz zajmijmy się tym co umiemy najlepie
 
 ### Sądownictwo
 
-W kontekście blockchainu sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny
+W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w lublinie, które chętnie wysyłają komorników tym, którzy widnieją, niezależnie od prawa i sprawiedliwości.
+
 
 # O opowiadaniu
 
