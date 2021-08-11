@@ -198,7 +198,24 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 + zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
 
 
-# Pomysł na opowiadanie
+## Technologia 
+
+niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0, w której będziemy podlegać maszynom poprzez integrację
+
+### blockchain
+
+łańcuch potrzebny niewolnikom do kontroli ich poczynań
+Przechowując nie tylko aktualne i przeszłe zdarzenia ale też zapisanie kontraktów, które dopiero zostaną zrealizowane.
+Perfekcyjne rozwiązanie dla Panów, którzy cenią sobie planowanie.
+
+Dlatego też gotówka nie jest potrzebna, bo tylko by mąciła wątpiącym.
+Kiedyś może i Twoja przyszłość była zapisana w gwiazdach, teraz pora zejść na ziemię do otchłani blockchainu, gdzie przyszłość każdego jest wyryta w tablicach kontraktów, po co planować?
+Niech robią to mądrzejsi a my prosty ludz zajmijmy się tym co umiemy najlepiej, pracą na rzecz systemu, on "zrobi" za nas resztę!
+
+
+# O opowiadaniu
+
+## Pomysł
 
 inspiracją są ostatnie lata, które są bogate w doświadczenia, każdy z nas, nasi bliscy, mamy swoje przemyślenia, którymi dzielimy się z otoczeniem.
 Co będzie dalej, za kilka lat?
@@ -218,12 +235,18 @@ Tego życzę każdemu...
 Opowiadanie jest w trakcie edycji, ma zawierać więcej danych, cytaty, wplecioną akcję, w tej chwili to szkic.
 Planowanie zakończenie to koniec roku 2021
 
-### hashtagi:
+## Słowa kluczowe,  hashtagi
 
-+ wariantpolski
-+ 2021
-+ 2022 
++ wariant polski
++ rok 2019
++ rok 2022 
 + cyberwar
++ society 5.0
++ industry 4.0
++ blockchain
++ agenda 2030
++ agenda 2040
++ agenda 2050
 
 
 
