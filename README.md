@@ -59,7 +59,18 @@ Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to był
 + Farmy fotowoltaiczne poza systemem
 + Mobilne Fabryki
 
-### Bankowość, transfery
+### Bankowość
+
+Tylko zmiana jest pewna, finansowanie zmian, wojen, spekulacji to zadanie dla banków, dlatego są tak potrzebne...
+
+Banki zostały oskarżone o udział w finansowaniu terroryzmu.
+
+Pozew wniosły rodziny poległych i ranni w wyniku zamachów w Afganistanie. Kilkaset osób oskarża banki, o to że świadomie świadczyły usługi na rzecz firm handlujących z terrorystami lub powiązanych z nimi.
+
+Jeden z banków pobierał od niektórych klientów, znacznie wyższe opłaty za realizację transakcji, które posiadały cechy transakcji podejrzanych i w ogóle nie powinny zostać zrealizowane.
+
+
+### Lokalne transfery
 
 Gospodarka, której krwiobieg istnieje poza oczami systemu.
 
