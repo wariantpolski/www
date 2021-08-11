@@ -49,9 +49,8 @@ Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to był
 
 ### Żywność
 
-+ nieurodzaj
-+ nowe podatki
-+ zmiana systemu ubezpieczeń
++ nieurodzaj, nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
++ coraz mniejszcze przychody, więc nowe podatki
 + Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
 
 
@@ -75,6 +74,16 @@ Rozwiązania
 + PVA + crypto + IoT + LoRaWAN
 
 
+### Praca, czas, energia
+
+Wbrew tym, którzy mówią, że czas jest najważniejszy, jest coś bardziej istotnego, energia, wzór na pracę: 
+
+    PRACA = ENERGIA * CZAS 
+
+Dlatego zmierzamy do Society5.0 gdzie energia ludzka będzie kontrolowana w bardziej dosadny sposób
+Cykl życia człowieka będzie udoskonalany, tak aby żadna energia się nie zmarnowała, a obciążenia wynikające z utrzymania nieproduktywnych dla systemu będą optymalizowane, tak jak obecnie mamy aborcję aby skrócić życie nienarodzonym i eutanazję aby skrócić odlicanie czasu do śmierci, przychodzą kolejne rozwiązania 
+operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
+
 
 
 ## Grupy społeczne
@@ -84,6 +93,10 @@ Rozwiązania
 
 + aktywisci
 + lobbysci
+
+### Zatrudnieni i niezatrudnieni
+
++ zmiana systemu ubezpieczeń, bo kto ma płacić na nieproduktywnych?
 
 ### Przedsiębiorcy
 
