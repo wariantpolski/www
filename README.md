@@ -233,7 +233,7 @@ Niech robią to mądrzejsi a my prosty ludz zajmijmy się tym co umiemy najlepie
 
 ### Sądownictwo
 
-W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w lublinie, które chętnie wysyłają komorników tym, którzy widnieją, niezależnie od prawa i sprawiedliwości.
+W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w Lublinie, które chętnie wysyłają komorników t dane są w bazie danych, wyrok dociera na adres zamieszkania, nikt nie polemizuje z tym co jest prawdą, zwłaszcza, że Ci, którzy nie mieszkają już pod adresem nie mają ani wiedzy ani prawa do obronu, tym gorzej dla prawa...
 
 
 # O opowiadaniu
