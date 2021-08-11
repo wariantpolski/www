@@ -14,6 +14,10 @@ Jakie scenariusze były by sprzyjające w przejęciu kontroli nad terenem Wisły
 Sporo grup społecznych a nawet samorządy tracą na obecnej sytuacji, więc w ich interesie jest zmiana.
 Warto przeprowadzić symulację w kontekście tych wszystkich niezadowolonych, którzy w tej opowieści zachowali by się jak wojownicy wolności, a nie bierni niewolnicy.
 
+Teraźniejszość jest oparta o pojedyncze sojusze, 
+dlatego też, że jest to tak krucha konstrukcja czekają nas ciekawe zmiany, 
+oto jak wygląda przyszłość zbudowana na nawozie wiary i nadzieji, zapraszam do lektury...
+
 
 ## Opór społeczny
 
