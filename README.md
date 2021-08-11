@@ -47,9 +47,10 @@ Fale kolejnych wariantów stają się falami zgonów
 okazuje się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko tracą odporność i umierają 
 + ta interakcja cześniej nie była znana, gdyż preparaty są w fazie testowania.
 
+
 ### Zdrowie psychiczne
 
-rozbudzanie różnych rządz poprzez działania populistyczne w skali kraju nie mają takiej skuteczności
+Rozbudzanie żądz poprzez działania populistyczne w skali globu i kraju nie mają takiej skuteczności
 jak selektywne działania spersonalizowane dla każdego indywidualnie.
 
 Dużo się mówi o "zrównoważeniu”, w kontekście Society 5.0, będziemy równoważyć człowieka.
