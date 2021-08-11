@@ -68,13 +68,14 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 + odkrycie radioaktywnych chemicznych śmieci
 + cyberataki
 
+
 ### Białoruś
 
 
 ### Ukraina
 
 
-###
+### Polityka rządu, państwo położonego w Palestynie
 
 
 ## Kryzyzs 2022
