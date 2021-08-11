@@ -3,7 +3,7 @@
 Zanim zaczniemy dyskutować o Polsce 2030, zacznijmy od początku...
 
 To opowiadanie Science Fiction, które ma na celu przedstawienie bardziej lub mniej prawdopodobnych wydarzeń, które mogły by mieć miejsce w Polsce począwszy od 2022 roku.
-Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w różnych miejscach świata, aby czytelnik rozumiał kontekst i wysokie prawdopodobieństwo wystąpienia ich właśnie w tym roku w Polsce.
+Wątki są ubogacone o wydarzenia, które miały miejsce w przeszłości w różnych miejscach świata, aby czytelnik rozumiał kontekst i wysokie prawdopodobieństwo wystąpienia ich właśnie w Polsce.
 
 To nie ma przesłania, raczej jest analiza tego co się dzieje, nie ma dobrego zakończenia, bo w życiu "jest jak jest" i warto wiedzieć na co się przygotować, co robić dziś aby jutro okazało się lepsze niż dzisiaj.
 
