@@ -28,7 +28,9 @@ zapraszam do lektury...
 
 Fale kolejnych wariantów stają się falami zgonów 
 
-+ fala śmierci po podaniu jednej z kolejnych "szczepionek", okazuje się, że większość pacjentów, która zaczęła przyjmować określone leki na inne zachorowania szybko tracą odpornoś. Wcześniej nie była to znana interakcja, gdyż stale preparaty są w fazie testowania.
++ fala śmierci po podaniu jednego z kolejnych nieprzetstowanych preparatów, zwanych "szczepionkami", 
+okazuje się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko tracą odporność i umierają 
++ ta interakcja cześniej nie była znana, gdyż preparaty są w fazie testowania.
 
 
 
