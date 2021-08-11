@@ -49,7 +49,7 @@ okazuje się, że większość pacjentów, która zaczęła przyjmować leki na 
 ### Zdrowie psychiczne
 
 rozbudzanie różnych rządz poprzez działania populistyczne w skali kraju nie mają takiej skuteczności
-jak selektywne działania speronalizawne indywidualnie.
+jak selektywne działania spersonalizowane dla każdego indywidualnie.
 
 Dużo się mówi o "zrównoważeniu”, w kontekście Society 5.0, będziemy równoważyć człowieka.
 Mówimy tu o kontroli, o ograniczeniach, zakazach.
