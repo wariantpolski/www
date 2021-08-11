@@ -231,7 +231,9 @@ Perfekcyjne rozwiązanie dla Panów, którzy cenią sobie planowanie.
 
 Dlatego też gotówka nie jest potrzebna, bo tylko by mąciła wątpiącym.
 Kiedyś może i Twoja przyszłość była zapisana w gwiazdach, teraz pora zejść na ziemię do otchłani blockchainu, gdzie przyszłość każdego jest wyryta w tablicach kontraktów, po co planować?
-Niech robią to mądrzejsi a my prosty ludz zajmijmy się tym co umiemy najlepiej, pracą na rzecz systemu, on "zrobi" za nas resztę!
+
+Niech robią to mądrzejsi, a my?
+My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi" za nas resztę!
 
 ### Sądownictwo
 
