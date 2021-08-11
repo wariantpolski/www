@@ -108,17 +108,26 @@ Rozwiązania
 
 ### Praca, czas, energia
 
-Wbrew tym, którzy mówią, że czas jest najważniejszy, jest coś bardziej istotnego, energia, wzór na pracę: 
+Zastanawiasz się jak pomóc klimatowi? 
+zużywaj mniej zasobów!
+
+Wielu mówi, że czas jest najważniejszy, jest coś jednak bardziej istotnego... energia
+
+Wzór na pracę wyjaśnia w jakim kierunku idziemy:
 
     PRACA = ENERGIA * CZAS 
 
-Dlatego zmierzamy do Society5.0 gdzie energia ludzka będzie kontrolowana w bardziej dosadny sposób
-Cykl życia człowieka będzie udoskonalany, tak aby żadna energia się nie zmarnowała, a obciążenia wynikające z utrzymania nieproduktywnych dla systemu będą optymalizowane, tak jak obecnie mamy aborcję aby skrócić życie nienarodzonym i eutanazję aby skrócić odlicanie czasu do śmierci, przychodzą kolejne rozwiązania 
+Zmierzamy do systemów, które pozwolą kontrolować zasoby i zużywaną energię.
+Zaczęło się od ochrony klimatu a zakończy do ostatniego żywego człowieka, który jest przekonany, że jest aż tak istonty dla klimatu.
+W międzyczasie będziemy realizować ideę Society5.0 gdzie energia ludzka będzie monitorowana i kontrolowana bezpośrednio.
+
+Cykl pracy i życia człowieka będzie udoskonalany, tak aby żadna energia się nie zmarnowała, a obciążenia wynikające z utrzymania nieproduktywnych dla systemu będą optymalizowane, tak jak obecnie mamy aborcję aby skrócić życie nienarodzonym i eutanazję aby skrócić odlicanie czasu do śmierci, przychodzą kolejne rozwiązania 
 operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
 
 
-
 ## Grupy społeczne
+
+wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwoli nam zapomnieć o tym że jesteśmy rzeczą w Internecie Rzeczy (IoT - Internet of Things)
 
 
 ### Opór społeczny
