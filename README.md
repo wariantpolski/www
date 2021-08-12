@@ -173,6 +173,7 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 + odkrycie radioaktywnych chemicznych śmieci
 + cyberataki
 
+## Państwa w Europie i poza nią
 
 ### Białoruś
 
@@ -181,6 +182,22 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 
 
 ### Polityka rządu, państwo położonego w Palestynie
+
+
+
+## Miasta w Polsce
+
+Upadek polskich miasteczek? Recenzja książki „Zapaść” – Paweł Jaczewski
+https://www.paweljaczewski.pl/upadek-polskich-miasteczek-recenzja-ksiazki-zapasc/
+
+### Cytaty
+
+Miasta zapaści zamieszkuje dzisiaj trochę ponad pięć milionów ludzi. Według prognoz jedynie w trzech ośrodkach: Ełku, Bytowie i Pułtusku, będzie ich przybywało. Blisko połowa miast straci do 2030 roku więcej niż jedną dziesiątą mieszkańców.
+
+Znajomy lekarz opowiadał mi taką historię: przyjął starszą pacjentkę, miała ponad 80 lat. Zrobił jej podstawowe badania, ale był też potrzebny specjalista, więc dał jej skierowanie. Po całym dyżurze, już pod wieczór, wychodzi z pracy i widzi, że ta babcia siedzi na krześle przy drzwiach wyjściowych. Najpierw ją minął, ale wrócił, bo zdziwił się, co ona tam jeszcze robi, skoro przyjął ją przed południem. Zapytał, a ona, że terminy są na przyszły rok, bo w tym już się skończył, ale jak zostanie na noc, to będzie pierwsza w kolejce do rejestracji i wtedy doktor ją przyjmie. Znajomy zapytał, czy nie lepiej wrócić do domu i przyjść wcześnie rano, to powiedziała, że już nie ma czym wrócić, a rano nie będzie czym dojechać. Musiała więc czekać do następnego dnia, z tego całą noc na dworze, bo przecież zamykają. To był ciepły wrzesień, ale zimą też czekają.
+    
+Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka, któremu można by pomóc w działającym systemie bez trudu można pomóc, do lekarza specjalisty, jeśli wiem, że spędzi następne miesiące w kolejce. Czasami mówię pacjentom wprost: albo pójdą prywatnie, albo mogą iść na SOR, a ja im doradzę, bo mają powiedzieć, żeby ich przyjęto. Owszem, spędzą tam nawet dwadzieścia godzin, ale zrobią im wszystkie badania. Często tłumaczę: chyba lepsze te dwadzieścia godzin na SOR-ze niż pół roku w kolejce. Biedniejsi nie mają pieniędzy, więc idą na SOR.
+
 
 
 ## Kryzyzs 2022
