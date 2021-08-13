@@ -268,7 +268,7 @@ W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontro
 
 https://www.bbc.com/news/world-latin-america-57762246
 
-07 LIPCA 2021 zamordowano prezydenta Haiti
+### 07 LIPCA 2021 zamordowano prezydenta Haiti
 
 "Mr Moïse, 53, was shot dead inside his home in the Pelerin 5 neighbourhood, in the hills above Port au Prince. Police say the murder happened at 01:00 local time (05:00 GMT) on 7 July. "
 
@@ -285,6 +285,21 @@ Podejmowane są wszelkie środki, aby zagwarantować ciągłość państwa i chr
 Warto zauważyć, że prezydent Moise NIE zgadzał się z całym nonsensem lockdownów i przymusu noszenia masek.
 
 Kiedy został ZABTY, pierwszą rzeczą, którą nakazano, było to, aby ludzie nosili maski w miejscach publicznych.
+
+
+### 17 marca 2021 Tanzański prezydent John Magufuli zmarł w wieku 61 lat.
+
+Według oficjalnego komunikatu do zgonu doszło w tanzańskiej stolicy Dar-es-Salaam, a przyczyną był „atak serca”. W kraju zarządzono 14-dniową żałobę narodową, a wszystkie flagi mają zostać opuszczone do połowy masztu.
+
+Nie ma oficjalnego potwierdzenia, że Magufuli rzeczywiście zmarł z powodu COVID-19. Wysokiej rangi przedstawiciele tanzańskich władz zaprzeczali, że prezydent zakaził się koronawirusem. Ale ponieważ twierdzili też ciągle, że „cieszy się dobrym zdrowiem”, to ich zapewnienia są podawane w coraz większą wątpliwość.
+
+https://www.euractiv.pl/section/bezpieczenstwo-i-obrona/news/tanzania-preyzdent-smierc-pandemia-koronawirus-covid-john-magufuli/
+
+### W lutym 2021 zmarł wiceprezydent zanzibarskich władz autonomicznych, 77-letni Maalim Seif Sharif Hamad. 
+
+Choć oficjalnie nigdy nie podano przyczyny jego śmierci, to jednak członkowie jego najbliższej rodziny potwierdzili zagranicznym mediom, że polityk zmarł na COVID-19.
+
+https://www.euractiv.pl/section/bezpieczenstwo-i-obrona/news/tanzania-preyzdent-smierc-pandemia-koronawirus-covid-john-magufuli/
 
 
 
