@@ -58,9 +58,13 @@ Mówimy tu o kontroli, o ograniczeniach, zakazach.
 
 Wolny człowiek to przeszłość, najbardziej zrównoważony człowiek to ten, który służy nowemu ładowi, jest wierny, oddany zasadom i filozofiom.
 
-Zdobywanie pokarmu, uczenie się przeżycia w warunkach naturalnych to zapomniana historia,
+Zdobywanie pokarmu, uczenie się przeżycia w warunkach naturalnych to zapomniana historia.
 Od zawsze potrzebowaliśmy kogoś, kto wie lepiej, codziennie, tak, by nie stracić w tym zrównoważonym dla nas świecie ani Joule-a energii na myślenie.
-Nowy ład i nowy świat a wnim nowy człowiek, który zamiast czekać na nagrodę w raju otrzyma ją tu na ziemi, jeśli tylko będzie odpowiednio zrównoważony...
+
+Nowy ład i nowy świat a w nim nowy człowiek.
+
+Taki człowiek nie czeka na nagrodę w raju, bo została przygotowana tu i teraz na ziemi.
+Otrzyma ją, jeśli tylko będzie odpowiednio zrównoważony...
 
 
 ### Segregacja
