@@ -62,7 +62,7 @@ Wolny człowiek to przeszłość, najbardziej zrównoważony człowiek to ten, k
 ### Segregacja
 
 Sukces polityki segregacji na polu ograniczania wirusa wolności przyczynił się do wynalezienia nowych kategorii zbrodni, które wymagają resocjalizacji,
-dlatego tak bardzo potrzebne są ośrodki dla podejrzanych o wariant polski wirusa, który nie dość, że zagraża zdrowiu to jeszcze narracji propagandowej.
+dlatego tak bardzo potrzebne są ośrodki dla podejrzanych o wariant polski wirusa, który nie dość, że zagraża zdrowiu niewolnika to jeszcze narracji propagandowej.
 
 Partia uzasadnia kolejną większą dziurę budżetową oraz kolejne kredyty na pokolenia bardzo starannie.
 Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to było".
