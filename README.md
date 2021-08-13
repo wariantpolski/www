@@ -41,7 +41,7 @@ zapraszam do lektury...
 
 ### Zdrowie Fizyczne
 
-Fale kolejnych wariantów stają się falami zgonów 
+Fale kolejnych wariantów stają się falami zgonów:
 
 + fala śmierci po podaniu jednego z kolejnych nieprzetstowanych preparatów, zwanych "szczepionkami", 
 okazuje się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko tracą odporność i umierają 
@@ -56,7 +56,11 @@ jak selektywne działania spersonalizowane dla każdego indywidualnie.
 Dużo się mówi o "zrównoważeniu”, w kontekście Society 5.0, będziemy równoważyć człowieka.
 Mówimy tu o kontroli, o ograniczeniach, zakazach.
 
-Wolny człowiek to przeszłość, najbardziej zrównoważony człowiek to ten, który służy nowemu ładowi, jest wierny i oddany zasadom i filozofiomm jemu podsuwanymi nie raz na życie, ale codziennie, zamiast czekać na nagrodę w raju otrzyma go tu na ziemi, jeśli tylko będzie odpowiednio zrównoważony...
+Wolny człowiek to przeszłość, najbardziej zrównoważony człowiek to ten, który służy nowemu ładowi, jest wierny, oddany zasadom i filozofiom.
+
+Zdobywanie pokarmu, uczenie się przeżycia w warunkach naturalnych to zapomniana historia,
+Od zawsze potrzebowaliśmy kogoś, kto wie lepiej, codziennie, tak, by nie stracić w tym zrównoważonym dla nas świecie ani Joule-a energii na myślenie.
+Nowy ład i nowy świat a wnim nowy człowiek, który zamiast czekać na nagrodę w raju otrzyma ją tu na ziemi, jeśli tylko będzie odpowiednio zrównoważony...
 
 
 ### Segregacja
