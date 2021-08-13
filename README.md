@@ -264,6 +264,30 @@ My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi"
 W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w Lublinie, które chętnie wysyłają komorników t dane są w bazie danych, wyrok dociera na adres zamieszkania, nikt nie polemizuje z tym co jest prawdą, zwłaszcza, że Ci, którzy nie mieszkają już pod adresem nie mają ani wiedzy ani prawa do obronu, tym gorzej dla prawa...
 
 
+## Zdarzenia na świecie
+
+https://www.bbc.com/news/world-latin-america-57762246
+
+07 LIPCA 2021 zamordowano prezydenta Haiti
+
+"Mr Moïse, 53, was shot dead inside his home in the Pelerin 5 neighbourhood, in the hills above Port au Prince. Police say the murder happened at 01:00 local time (05:00 GMT) on 7 July. "
+
+Prezydent Haiti Jovenal Moise został zamordowany około pierwszej w nocy z wtorku 6 lipca na środę 7 lipca 2021 r.
+
+Grupa niezidentyfikowanych osób, z których część mówiła po hiszpańsku, zaatakowała prywatną rezydencję prezydenta Republiki Haiti i ZAMORDOWAŁA Głowę Państwa.
+
+Pierwsza Dama Haiti również została ranna strzałem z broni palnej.
+
+Premier ai, dr Claude Joseph wezwał ludność do spokoju. Sytuacja bezpieczeństwa w kraju jest pod kontrolą Haitańskiej Policji Narodowej i Haitańskich Sił Zbrojnych.
+
+Podejmowane są wszelkie środki, aby zagwarantować ciągłość państwa i chronić Naród.
+
+Warto zauważyć, że prezydent Moise NIE zgadzał się z całym nonsensem lockdownów i przymusu noszenia masek.
+
+Kiedy został ZABTY, pierwszą rzeczą, którą nakazano, było to, aby ludzie nosili maski w miejscach publicznych.
+
+
+
 # O opowiadaniu
 
 ## Pomysł
