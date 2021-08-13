@@ -71,14 +71,13 @@ Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to był
 ### Utylizacja
 
 Dziel, rządź i utylizuj (bez CO2).
-Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek mogą być niedopuszczone do użytku.
-Teraz czekamy na cudo techniki, który pozwoli nam utylizować w zgodzie z naturą.
+Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek nie mogą być dopuszczone do użytku, dlatego tak bardzo potzebujemy technologii segregacji tych, którzy są przeznaczeni do utylizacji, czekamy na cudo techniki, które pozwoli na utylizowację w zgodzie z naturą.
 
 
 ### Żywność
 
-+ nieurodzaj, nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
-+ coraz mniejszcze przychody, więc nowe podatki
+#### nieurodzaj 
+nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
 + Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
 
 
@@ -203,7 +202,7 @@ Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka,
 ## Kryzyzs 2022
 
 + spadek złotówki miesiąc po miesiącu kilkadziesiąt procent, długofalowo zwiększanie się deficytu.
-
++ coraz mniejszcze przychody, więc nowe podatki
 
 ### Budowanie łanucha dostaw poza rządem na zasadach EU
 
