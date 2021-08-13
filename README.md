@@ -266,9 +266,7 @@ W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontro
 
 ## Zdarzenia na świecie
 
-https://www.bbc.com/news/world-latin-america-57762246
-
-### 07 LIPCA 2021 zamordowano prezydenta Haiti
+### 07 LIPCA 2021 zamordowano prezydenta Haiti (53 lata)
 
 "Mr Moïse, 53, was shot dead inside his home in the Pelerin 5 neighbourhood, in the hills above Port au Prince. Police say the murder happened at 01:00 local time (05:00 GMT) on 7 July. "
 
@@ -286,8 +284,10 @@ Warto zauważyć, że prezydent Moise NIE zgadzał się z całym nonsensem lockd
 
 Kiedy został ZABTY, pierwszą rzeczą, którą nakazano, było to, aby ludzie nosili maski w miejscach publicznych.
 
+https://www.bbc.com/news/world-latin-america-57762246
 
-### 17 marca 2021 Tanzański prezydent John Magufuli zmarł w wieku 61 lat.
+
+### 17 marca 2021 zmarł tanzański prezydent John Magufuli (61 lat)
 
 Według oficjalnego komunikatu do zgonu doszło w tanzańskiej stolicy Dar-es-Salaam, a przyczyną był „atak serca”. W kraju zarządzono 14-dniową żałobę narodową, a wszystkie flagi mają zostać opuszczone do połowy masztu.
 
