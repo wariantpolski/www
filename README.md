@@ -205,7 +205,8 @@ Jeden z przykładów:
     podjąć decyzję o współpracy.
     W innej sytuacji było by to zgłoszone jako oszóstwo 
     a żołnierz nie tylko by stracił pracę 
-    ale i poniósł koszty kary oraz brak pracy w wojsku i w ogóle.
+    ale i poniósł koszty kary oraz brak pracy w wojsku a także,
+    w organizacjach powiązanych z rządem.
 
 Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka.
 Być może jest to nauka na przyszłość, by od razu przejść do partyzantki i podjąć trud  budowy realnej alternatywy, nie godząc się na destrukcyjne kompromisy.
