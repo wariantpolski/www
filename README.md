@@ -193,14 +193,18 @@ Jeden z przykładów:
 
     Podczas stworzenia sytaucji bezalternatywnej przez rząd, 
     wielu żołnierzy zgodziło się na przyjęcie QRkodu bez szczepienia, 
-    co zaowocowało utrzymaniem korzyści płynących z zatrudnienia i dalszemu rozwojowi i awansom.
+    co zaowocowało utrzymaniem korzyści płynących z zatrudnienia 
+    i dalszemu rozwojowi i awansom.
 
     Jednak po kilknastu miesiącach od tego zdarzenia w momencie, gdy 
-    wymagane były nowe QRkody na kolejny okres, została zainicjowana możliwośc głębszej współpracy.
-    Tutaj nie każdy się mógł zgodzić, ale z powodu wcześniej przyjętego QRkodu
-    zostało udokumentowane fałszerstwo 
-    i ten argument pomógł zastanawiajacym się żołnierzom podjąć decyzję o współpracy.
-    W innej sytuacji było by to zgłoszone jako oszóstwo a żołnierz nie tylko by stracił pracę 
+    wymagane były nowe QRkody na kolejny okres, została zainicjowana 
+    możliwośc głębszej współpracy.
+    Tutaj nie każdy się mógł zgodzić, ale 
+    z powodu wcześniej przyjętego QRkodu zostało udokumentowane fałszerstwo 
+    i ten argument pomógł zastanawiajacym się żołnierzom 
+    podjąć decyzję o współpracy.
+    W innej sytuacji było by to zgłoszone jako oszóstwo 
+    a żołnierz nie tylko by stracił pracę 
     ale i poniósł koszty kary oraz brak pracy w wojsku i w ogóle.
 
 Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka.
