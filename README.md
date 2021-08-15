@@ -212,6 +212,22 @@ Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka
 Być może jest to nauka na przyszłość, by od razu przejść do partyzantki i podjąć trud  budowy realnej alternatywy, nie godząc się na destrukcyjne kompromisy.
 
 
+## Nowy ład, nowy rząd
+
+Nowy ład zmienia sposób funkcjonowania całego państwa,
+zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary dystrybucji technologii,
+wyższe koszty usług rządowych w obszarach związanych z nauką i edukacją stwarza odpowiednie warunki większym korporacjom na umocnienie pozycji monopolistycznych.
+
+Przykłady obecnie to między innymi firmy francuskie i niemieckie, które nie muszą walczyć o konkurencyjność w warunkach, które zapewnia im rząd Polski.
+A dopiero początek...
+
+
+Skomplikowane podatki to tylko zasłona dla korzyści, które odnoszą obce korporacje w kluczowych dla gospodarki obszarach,
+przykłady z rolnictwem, górnictwem, czy wiele fabryk, które są montownią.
+
+Wobec takiej sytuacji naturalne private 5g i public 5g zostanie zaadaptowane dla obu grup/kast.
+
+
 
 ## Zdarzenia zdalnie sterowane
 
@@ -306,6 +322,8 @@ My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi"
 ### Sądownictwo
 
 W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w Lublinie, które chętnie wysyłają komorników t dane są w bazie danych, wyrok dociera na adres zamieszkania, nikt nie polemizuje z tym co jest prawdą, zwłaszcza, że Ci, którzy nie mieszkają już pod adresem nie mają ani wiedzy ani prawa do obronu, tym gorzej dla prawa...
+
+
 
 
 ## Zdarzenia na świecie
