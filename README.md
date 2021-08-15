@@ -139,13 +139,16 @@ Cykl pracy i życia człowieka będzie udoskonalany, tak aby żadna energia się
 operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
 
 
-## Grupy społeczne
-
 
 ### Opór społeczny
 
 + aktywisci
 + lobbysci
+
+
+
+## Grupy społeczne
+
 
 ### Zatrudnieni i niezatrudnieni
 
@@ -155,6 +158,11 @@ operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludz
 
 + upadające biznesy przenoszą się za granicę
 + coraz więcej alternatyw dla restrykcji i ograniczeń z PL
++ Polska jednosoobwa działalność gospodarcza JDG ma duży udział w podatkach, do 2022 roku opłacało się płacić z milionowych podatków ok. 20%
+jednak płacenie składek i inne niekorzystne prawa wprowadzane z tzw Nowym ładem zmuszają obecnie te firmy do optymalizacji podatkowej i z tego powdu zamiast wzrostu w 2023 będą jeszcze mniejsze wpływy z powodu zmian.
++ wiele firm wyemigruje razem z rodzinami, być może też zachęci to pracowników tych firm, którzy często rozliczają się na JDG do emigracji.
+Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
+
 
 ### Urzędnicy
 + zmiana modelu i form zatrudniania, wyższe pensje 
@@ -171,6 +179,12 @@ operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludz
 w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że co do jednego jest zarażony, w dodatko to oni są autorami, bo robili to podobnie jak tortury w Klewkach poza prawem ale w porozumieniu z partią rządzącą.
 
 
+## Filary bezpieczeństwa
+
+
+### Zdrowie
+
+
 
 ## Zdarzenia zdalnie sterowane
 
@@ -179,6 +193,9 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 + eksplozje, zatrucie powietrza
 + odkrycie radioaktywnych chemicznych śmieci
 + cyberataki
+
+
+
 
 ## Państwa w Europie i poza nią
 
@@ -207,7 +224,7 @@ Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka,
 
 
 
-## Kryzyzs 2022
+## Kryzys 2022
 
 + spadek złotówki miesiąc po miesiącu kilkadziesiąt procent, długofalowo zwiększanie się deficytu.
 + coraz mniejszcze przychody, więc nowe podatki
