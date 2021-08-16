@@ -197,8 +197,8 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 ### Tarcza antyrakietowa
 
 W kraju w którym trudno o ochronę przed cyberbezpieczeństwem nawet najlepsza ochrona z powietrza niepodoła
-POdobnie jak w kraju, który w 39 miał śladowe ilości samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
-
+Podobnie jak w kraju, który w '39 miał śladowe ilości samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
+Historia nie lubi się powtarzać, po prostu nie ma inne wyjścia...
 
 
 ### Zdrowie
