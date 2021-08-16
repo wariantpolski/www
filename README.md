@@ -229,7 +229,7 @@ Możemy spać spokojnie...
 
 ### Przeprowadzka wojsk amerykańskich a wariant polski
 
-Talibowie nie mogą narzkeać na sytuację w Afganistanie, podobnie nie będą narzekali Ci, którzy chcą zwiększyć wpływy w Polsce.
+Talibowie nie mogą narzekać na sytuację w Afganistanie, podobnie nie będą narzekali Ci, którzy chcą zwiększyć wpływy w Polsce.
 Kiedyś tam w 2022 roku na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że prawie każdy ich żołnierz jest zarażony i są dowody na to, że amerykanie są autorami wirusa, ... historia jak z Klewkami, poza prawem ale w porozumieniu z partią rządzącą.
 Walizki wypełnione dolarami gdzieś się zawieruszyły tak jak i interesy polskie i Polaków.
 
