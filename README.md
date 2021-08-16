@@ -399,6 +399,9 @@ Chwytliwa marketingowo nazwa, każdy chce być fit, zwłaszcza do 55 (lat).
 całkowitej neutralności – zero CO2 netto w 2050 roku.
 Tak jak wcześniejsze dokumenty składa się z ogromnej ilości biurokratyczno-prawniczego tekstu mającego obecnie prawie 4000 stron, co jest całkowicie niezrozumiałe dla większości społeczeństwa i ekspertów a na pewno dla polityków.
 
+Koniec sprzedaży samochodów o napędzie klasycznym w 2035, redukcji o 55 procent emisji CO2 w nowych silnikach spalinowych do 2030 i koniec pięć lat później. 
+Europa przechodzi na samochody elektryczne i wodorowe, czyli w pełni zeroemisyjne pojazdy. 
+ 
 
 ### Kontrola klimatu
 
