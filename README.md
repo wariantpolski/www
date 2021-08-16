@@ -382,6 +382,7 @@ Jakie niesie to ze sobą skutki?
 
 ### Przygotowania
 
+
 Nowy europejski dokument „Fit For 55”, to nie tylko kolejna koncepcja nowego świata i nowego stylu życia. 
 Przypomina to wszystkie poprzednie wizje i koncepcje takie jak "20-20-20", "pakiet zimowy" czy też "Green Deal".
 
@@ -402,6 +403,14 @@ Dzięki istniejącej infrastrukturze naziemnej i ziemnej, możemy punktowo kontr
 Finalnie starania okazują się kosztowniejsze i bezskuteczne, ale walczymy, walczymy do ostatniego ziemianina, póki my żyjemy ...
 
 W tle powstają pomysły emigracji na inną planetę, a równocześnie powstają ekspedycje ds. eksploracji otchłani ziemskich, szaleńtwa nie ma końca.
+
+
+### Rezultaty
+
+
+Jak zawsze w krytycznych chwilach dla ludzkości, jakoś przypadkiem, bogaci stali się bogatsi a "klasa średnia" pozostała średnia dzielnie ponosząc wszystkie koszty, dlatego tak waże jest by przypominać im, jak bardzo są potrzebni... aż do śmierci przed emeryturą, inaczej mogło by to być uznane za egoizm.
+
+Lawina zmian, którą uruchomiło na początek dążenie do ograniczania emisji CO2 dla ratowania klimatu, rozpoczęła również kolejną rewolucję przemysłową i telekomunikacyjną, nowe sposoby porozumiewania się, kontroli ciała i umysłu pozwoliły na uspokojenie rządz i skupienie się na celach globalnych architektów. 
 
 
 ### Wnioski
