@@ -14,6 +14,7 @@ Najbliższa dekada to powódź, która zabierze to co znamy, wymiesza i wyleje n
 
 Walka o zachowanie siebie, swoich wartości każdego dnia to horyzont wojen jakie będziemy toczyć, warto się przyjrzeć temu co nas czeka, by przejść te drogę z najmniejszymi stratami...
 
+
 ## Wątek główny
 
 Wątkiem głównym opowieści Wariant Polski czyli wirus atakujący umysł, zmuszając do refleksji po latach reżimowej walki z wiatrakami napędzanymi wiatrem propagandy.
@@ -169,10 +170,10 @@ Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek nie mog
 
 ### Przedsiębiorcy
 
-+ upadające biznesy przenoszą się za granicę
-+ coraz więcej alternatyw dla restrykcji i ograniczeń z PL
-+ Polska jednosoobwa działalność gospodarcza JDG ma duży udział w podatkach, do 2022 roku opłacało się płacić z milionowych podatków ok. 20%
-jednak płacenie składek i inne niekorzystne prawa wprowadzane z tzw Nowym ładem zmuszają obecnie te firmy do optymalizacji podatkowej i z tego powdu zamiast wzrostu w 2023 będą jeszcze mniejsze wpływy z powodu zmian.
++ Polacy i polskie biznesy przenoszą się za granicę
++ Pojawia się coraz więcej alternatyw dla restrykcji i ograniczeń z PL
++ Do 2022 polskie jednosoobwe działalności gospodarcze (JDG) miały duży udział w podatkach, dopóki nie przekraczały pewnej granicy opłacało się je płacić, wraz z nowym ładem nastał czas optymalizacji podatkowej i z tego powdu zamiast wzrostu mamy pogłebiony kryzys.
++ 
 + wiele firm wyemigruje razem z rodzinami, być może też zachęci to pracowników tych firm, którzy często rozliczają się na JDG do emigracji.
 Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
 
