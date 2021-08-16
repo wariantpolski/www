@@ -385,7 +385,7 @@ Jakie niesie to ze sobą skutki?
 Po latach starań obniżenia CO2 nadal notujemy wzrost temperatury.
 
 Mamy do czynienia ze skutkami w postaci anomalii pogodowych, wobec czego tworzy się organizacja klimatyczna 
-mająca podobnie jak NZO,WHO, pomóc całej ziemskiej społeczności.
+mająca podobnie jak ONZ,WHO, pomóc całej ziemskiej społeczności.
 
 Dzięki istniejącej infrastrukturze naziemnej i ziemnej, możemy punktowo kontrolować sytuację, jednak pogoda pozostaje nieprzeiwdywalna, jakby na złość pogarsza sytuację, czyżby matka natura była mądrzejsza od sztucznej inteligencji?
 Finalnie starania okazują się kosztowniejsze i bezskuteczne, ale walczymy, walczymy do ostatniego ziemianina, póki my żyjemy ...
