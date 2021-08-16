@@ -425,7 +425,13 @@ Europa przechodzi na samochody elektryczne i wodorowe, czyli w pełni zeroemisyj
 
 Po latach starań obniżenia CO2 nadal notujemy wzrost temperatury.
 
-Mamy do czynienia ze skutkami w postaci anomalii pogodowych, wobec czego tworzy się organizacja klimatyczna 
+Ponadto ograniczanie emisji CO2 nie wystarczy, aby zahamować zmianę klimatu. 
+Szacuje się, że w ciągu 20 lat od trafienia do atmosfery cząsteczki metanu ma ona ponad 80-krotnie większe oddziaływanie na klimat niż CO2. 
+Z kolei redukcja globalnych emisji metanu o 45 proc. do 2030 r. to szansa na ograniczenie ocieplenia w kolejnej dekadzie o 0,3 st. C.
+
+### Skutki
+
+Mamy również co jakiś czas do czynienia z anomaliami pogodowymi, wobec czego tworzy się organizacja klimatyczna 
 mająca podobnie jak ONZ,WHO, pomóc całej ziemskiej społeczności.
 
 Dzięki istniejącej infrastrukturze naziemnej i ziemnej, możemy punktowo kontrolować sytuację, jednak pogoda pozostaje nieprzeiwdywalna, jakby na złość pogarsza sytuację, czyżby matka natura była mądrzejsza od sztucznej inteligencji?
@@ -434,9 +440,9 @@ Finalnie starania okazują się kosztowniejsze i bezskuteczne, ale walczymy, wal
 W tle powstają pomysły emigracji na inną planetę, a równocześnie powstają ekspedycje ds. eksploracji otchłani ziemskich, szaleńtwa nie ma końca.
 
 
-### Rezultaty
+### Rozwiązania
 
-Koszty transformacji będą ogromne.
+Koszty transformacji są ogromne.
 Co jest przewidziane w "Fit For 55".
 Ubóstwo i konieczność solidarności, prowadzi do stworzonia Społecznego Funduszu na Rzecz Klimatu.
 
@@ -452,9 +458,15 @@ Polską gospodarkę czeka kolejny raz długa samotna walka, za które zapłacą 
 
 Tak jak w postpandemicznych czasach konieczne było skrócenie łańcuchów dostaw, co doporwadziło do wzmocnienia lokalnego rynku.
 Tak wtedy powstałe fabryki będą istniały dalej tylko, gdy będą zielone.
-Trudno jednak być konkurencyjnym i zielonym, utrzymując cenę, więc finalnie zapłacą klienci
-Powstają oczywiście nowe technologie, automatyzacja obniża koszty, ale stajemy wobec historycznego wyzwania, gdzie nie będzie liczyć się niski koszt pracy a  dobre wykształcenie, punktacja w systemie oceny, regulacje prawne zależne już nie od opcji politycznych wybieranych raz na 4 lata a niewybieralnych magnatów Big Tech, lobbujących od dekad.
-To wszystko upraszcza też życie człowieka, nareszcie może się zając nic nie robieniem, zwłaszcza gdy przebywa na kwarantannie, proste życie z dotacjami, kolejne fale zapomóg i darmowych pieniędzy, może nawet gwarantowany dochód, życie na kredyt...
+
+Trudno jednak być konkurencyjnym i zielonym, utrzymując cenę, więc finalnie coraz wyższe koszty obniżają warunki bytowe ludzkości.
+
+Powstają oczywiście nowe technologie, automatyzacja obniża koszty, ale już nie liczy się niski koszt pracy a dobre wykształcenie, punktacja w systemie oceny, regulacje prawne zależne już nie od opcji politycznych wybieranych raz na 4 lata a niewybieralnych magnatów Big Tech, lobbujących od dekad, wpływających na życie miliardów poprzez globalną sieć organizacji i kontrolowanych przez nich technologii.
+
+
+To wszystko upraszcza też życie człowieka, nareszcie może się zając nic nie robieniem, zwłaszcza podczas przymusowej kwarantanny.
+Proste życie z dotacjami, fale zapomóg i darmowych pieniędzy, może nawet gwarantowany dochód, życie na kredyt...
+
 
 
 ### Wnioski
