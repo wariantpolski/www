@@ -81,7 +81,8 @@ Otrzyma ją, jeśli tylko będzie odpowiednio zrównoważony...
 ### Żywność
 
 #### nieurodzaj 
-nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
+
+Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
 + Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
 
 
@@ -324,8 +325,8 @@ Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka,
 
 ## Kryzys 2022
 
-Ewoucja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
-Wojny ekonomiczne, cyberataki, bioatacki, ...
+Ewoulcja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
+Wojny ekonomiczne, cyberataki, bioataki, ...
 
 ### PLNy
 
@@ -378,6 +379,18 @@ Jakie niesie to ze sobą skutki?
 
 
 ## Technologia 
+
+### Kontrola klimatu
+
+Po latach starań obniżenia CO2 nadal notujemy wzrost temperatury.
+
+Mamy do czynienia ze skutkami w postaci anomalii pogodowych, wobec czego tworzy się organizacja klimatyczna 
+mająca podobnie jak NZO,WHO, pomóc całej ziemskiej społeczności.
+
+Dzięki istniejącej infrastrukturze naziemnej i ziemnej, możemy punktowo kontrolować sytuację, jednak pogoda pozostaje nieprzeiwdywalna, jakby na złość pogarsza sytuację, czyżby matka natura była mądrzejsza od sztucznej inteligencji?
+Finalnie starania okazują się kosztowniejsze i bezskuteczne, ale walczymy, walczymy do ostatniego ziemianina, póki my żyjemy ...
+
+W tle powstają pomysły emigracji na inną planetę, a równocześnie powstają ekspedycje ds. eksploracji otchłani ziemskich, szaleńtwa nie ma końca.
 
 ### Niewolnictwo X.0
 
