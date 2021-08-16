@@ -377,9 +377,18 @@ Jakie niesie to ze sobą skutki?
 + wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
 + zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
 
+
+
+
 ## Taki mamy KLIMAT
 
-
+Ogromny wysiłek i koszty ponoszone przez społeczeństwo uzasadnia się obecnie zmianą klimatu i koniecznością ratowania świata.
+Przecież zmiany klimatu są widoczne gołym okiem, zwłascza w ciągu roku, nie bez przyczyny nazwaliśmy je porami roku.
+Wobec czego trudno jest je kwestionować.
+Konieczna wobec tego jest zmiana też przyzwyczajeń społeczeństwa, zrezygnowania z dotychczasowego konsumpcjonizmu i bezustannego wzrostu zapotrzebowania na zasoby, które przecież są ograniczone.
+Naturalne samoograniczanie wchodzi na wyższy poziom, nie każdy przecież umie się ograniczyć a to grzech.
+Post wraca do łask, oszczędność stała się celem samym w sobie, jesteśmy obrońcami natury do naszego ostatniego tchu...
+ 
 ### Przygotowania
 
 
@@ -418,6 +427,8 @@ Lawina zmian, którą uruchomiło na początek dążenie do ograniczania emisji 
 Tak jak ONZ pobiera podatek od ochrony, tak i WHO narzuca swoją narrację poprzez finansowanie od decydentów.
 Potrzebne są jednak kolejne globalne organizacje, których koncepcje są rozwijane na ważnych spotkaniach takich jak World Economic Forum.
 Potrzebne są nowe podatki, aby ocalić naturę...
+
+
 
 
 ## Technologia 
