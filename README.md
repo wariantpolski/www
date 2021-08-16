@@ -323,7 +323,12 @@ Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję,
 
 ### Polityka rządu, państwo położonego w Palestynie
 
-Wyniszczające wojny prowadzą do emigracji
+Trzeba przebrnąć przez historię Hebrajczyków, Syjonu, ruchów emigracyjnych, rozsianych więzów krwi, podstaw kulturowych, nawyków i zasad. 
+Wtedy można konstatować na temat rangi oddziaływania i głównych obszarów strategicznych. 
+Te ostatnie koncentruje się na prawie, ekonomii, medycynie, środkach przekazu i wojskowości. 
+Wszystkie są fundamentami w globalnym oddziaływaniu politycznym. 
+
+Skutek: wyniszczające wojny konwencjonalne, bio- i cybernetyczne prowadzące do emigracji
 
 
 ## Miasta w Polsce
