@@ -80,6 +80,24 @@ Otrzyma ją, jeśli tylko będzie odpowiednio zrównoważony...
 
 ### Żywność
 
+Inflacja w Polsce najwyższa od dekady. 
+
+Paliwa - 30 proc.
+Drób - 22 proc.
+Meble - 9 proc.
+Turystyka zorganizowana - 9 proc.
+Ceny w hotelach i restauracjach - 6 proc.
+
+To skala wzrostu cen niektórych towarów i usług w 2020.
+Wszystkie te podwyżki (obniżek było jak na lekarstwo) złożyły się na 5-procentową, najwyższą od dekady, inflację.
+
+według danych NBP podaż pieniądza rok do roku (M3) wzrosła o prawie 30%, druga przyczyna to tzw. Zielony Ład.
+Zakażmy chowu klatkowego i mięso poszybuje nie +20% a +200%.
+Wykorzystamy sprawdzone rozwiązania: kartki, żeby się ludzie nie pozabijali...
+Wobec takiego scenariusza będziemy rozważać produkcję sztucznego mięsa...
+
+https://next.gazeta.pl/next/7,151003,27461253,inflacja-w-polsce-najwyzsza-od-dekady-co-drozeje-coz-wlasciwie.html
+
 #### nieurodzaj 
 
 Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
