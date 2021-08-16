@@ -309,10 +309,9 @@ Wojny ekonomiczne, cyberataki, bioatacki, ...
 
 ### PLNy
 
-Świeżo wydrukowane Banknoty 200, 500, 1000PLN nie pachną bogactwem,
-Rzeczywista inflacja nie słucha się tabelek ministrów
+Świeżo wydrukowane Banknoty 200, 500, 1000PLN nie pachną bogactwem, bo rzeczywista inflacja nie słucha się tabelek ministrów.
 
-Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej strony brak możliwości stworzenia szybkiej alternatywy porpzpez politykę lockdown-u.
+Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej strony brak alternatywy poprzez blokadę polityką lockdown-ową.
 
 Taki mamy klimat, w sam raz do kryzysu na dekadę a może i dwie...
 
