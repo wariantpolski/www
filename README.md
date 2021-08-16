@@ -207,12 +207,13 @@ Historia nie lubi się powtarzać, po prostu nie ma inne wyjścia...
 Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   Problemami , które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
 - brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
 - braki ilościowe w tym co było
-- i błędna koncepcja użycia lotnictwa ( oni mieli Guderiana i Mansteina, a my Rydza-Śmigłego, a jak wiadomo z Rydzem nie można było wygrać ) .
 
 
 ### Przeprowadzka wojsk amerykańskich a wariant polski
 
-w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że co do jednego jest zarażony, w dodatko to oni są autorami, bo robili to podobnie jak tortury w Klewkach poza prawem ale w porozumieniu z partią rządzącą.
+Talibowie nie mogą narzkeać na sytuację w Afganistanie, podobnie nie będą narzekali Ci, którzy chcą zwiększyć wpływy w Polsce.
+Kiedyś tam w 2022 roku na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że prawie każdy ich żołnierz jest zarażony, w dodatku są dowody na to, że to oni są autorami, historia ja z Klewkami, poza prawem ale w porozumieniu z partią rządzącą.
+Walizki wypełnione dolarami gdzieś się zawieruszyły tak jak interesy polskie i Polaków.
 
 
 ### Zdrowie
@@ -292,11 +293,11 @@ https://www.paweljaczewski.pl/upadek-polskich-miasteczek-recenzja-ksiazki-zapasc
 
 ### Cytaty
 
-Miasta zapaści zamieszkuje dzisiaj trochę ponad pięć milionów ludzi. Według prognoz jedynie w trzech ośrodkach: Ełku, Bytowie i Pułtusku, będzie ich przybywało. Blisko połowa miast straci do 2030 roku więcej niż jedną dziesiątą mieszkańców.
+"Miasta zapaści zamieszkuje dzisiaj trochę ponad pięć milionów ludzi. Według prognoz jedynie w trzech ośrodkach: Ełku, Bytowie i Pułtusku, będzie ich przybywało. Blisko połowa miast straci do 2030 roku więcej niż jedną dziesiątą mieszkańców.
 
 Znajomy lekarz opowiadał mi taką historię: przyjął starszą pacjentkę, miała ponad 80 lat. Zrobił jej podstawowe badania, ale był też potrzebny specjalista, więc dał jej skierowanie. Po całym dyżurze, już pod wieczór, wychodzi z pracy i widzi, że ta babcia siedzi na krześle przy drzwiach wyjściowych. Najpierw ją minął, ale wrócił, bo zdziwił się, co ona tam jeszcze robi, skoro przyjął ją przed południem. Zapytał, a ona, że terminy są na przyszły rok, bo w tym już się skończył, ale jak zostanie na noc, to będzie pierwsza w kolejce do rejestracji i wtedy doktor ją przyjmie. Znajomy zapytał, czy nie lepiej wrócić do domu i przyjść wcześnie rano, to powiedziała, że już nie ma czym wrócić, a rano nie będzie czym dojechać. Musiała więc czekać do następnego dnia, z tego całą noc na dworze, bo przecież zamykają. To był ciepły wrzesień, ale zimą też czekają.
     
-Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka, któremu można by pomóc w działającym systemie bez trudu można pomóc, do lekarza specjalisty, jeśli wiem, że spędzi następne miesiące w kolejce. Czasami mówię pacjentom wprost: albo pójdą prywatnie, albo mogą iść na SOR, a ja im doradzę, bo mają powiedzieć, żeby ich przyjęto. Owszem, spędzą tam nawet dwadzieścia godzin, ale zrobią im wszystkie badania. Często tłumaczę: chyba lepsze te dwadzieścia godzin na SOR-ze niż pół roku w kolejce. Biedniejsi nie mają pieniędzy, więc idą na SOR.
+Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka, któremu można by pomóc w działającym systemie bez trudu można pomóc, do lekarza specjalisty, jeśli wiem, że spędzi następne miesiące w kolejce. Czasami mówię pacjentom wprost: albo pójdą prywatnie, albo mogą iść na SOR, a ja im doradzę, bo mają powiedzieć, żeby ich przyjęto. Owszem, spędzą tam nawet dwadzieścia godzin, ale zrobią im wszystkie badania. Często tłumaczę: chyba lepsze te dwadzieścia godzin na SOR-ze niż pół roku w kolejce. Biedniejsi nie mają pieniędzy, więc idą na SOR."
 
 
 
