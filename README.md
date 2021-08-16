@@ -44,9 +44,17 @@ zapraszam do lektury...
 
 Fale kolejnych wariantów stają się falami zgonów:
 
-+ fala śmierci po podaniu jednego z kolejnych nieprzetstowanych preparatów, zwanych "szczepionkami", 
-okazuje się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko tracą odporność i umierają 
-+ ta interakcja cześniej nie była znana, gdyż preparaty są w fazie testowania.
+Jak już do wiekszości ludzi zaszczepionych dotarł fakt, że stali się ofiarami eksperymentu. 
+na skutek masowego zapadania na choroby autoimunologiczne było już za późno by pomóc...
+Nastąpiła fala śmierci po podaniu jednego z kolejnych nieprzetstowanych preparatów, 
+
+Okazało się, że większość pacjentów, która zaczęła przyjmować leki na pewne zachorowania szybko traciła odporność i umierali w bólach, gdyż lekarze nie wiedzieli jak mogą im pomóc, nie znając wytycznych co do tego, gdyż każdy z pozytywnym testem był kierowany bezpośrednio po badaniu z poczekalni do umieralni.
+
+Koszt pochówku wzrósł wobec tego postanowiono stworzyć procedury utylizacji ciał bezpośrednio w kontenereach stojących przy szpitalach, w tak zwanych mobilnych krematoriach.
+
+Tak jak przy wcześniejszych publicznych zarobiły osoby powiązane z partią rządzącą.
+
+Dodatkowo zwiększono budżet na tzw. zasiłek pogrzebowy.
 
 
 ### Zdrowie psychiczne
