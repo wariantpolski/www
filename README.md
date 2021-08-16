@@ -377,8 +377,19 @@ Jakie niesie to ze sobą skutki?
 + wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
 + zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
 
+## Taki mamy KLIMAT
 
-## Technologia 
+
+### Przygotowania
+
+Nowy europejski dokument „Fit For 55”, to nie tylko kolejna koncepcja nowego świata i nowego stylu życia. 
+Przypomina to wszystkie poprzednie wizje i koncepcje takie jak "20-20-20", "pakiet zimowy" czy też "Green Deal".
+
+Chwytliwa marketingowo nazwa, każdy chce być fit, zwłaszcza do 55 (lat).
+"fit dla 55” oznacza drogę do osiągnięcia europejskiego celu redukcji CO2 (55 procent w 2030 roku) a potem "neutrality”, czyli
+całkowitej neutralności – zero CO2 netto w 2050 roku.
+Tak jak wcześniejsze dokumenty składa się z ogromnej ilości biurokratyczno-prawniczego tekstu mającego obecnie prawie 4000 stron, co jest całkowicie niezrozumiałe dla większości społeczeństwa i ekspertów a na pewno dla polityków.
+
 
 ### Kontrola klimatu
 
@@ -391,6 +402,16 @@ Dzięki istniejącej infrastrukturze naziemnej i ziemnej, możemy punktowo kontr
 Finalnie starania okazują się kosztowniejsze i bezskuteczne, ale walczymy, walczymy do ostatniego ziemianina, póki my żyjemy ...
 
 W tle powstają pomysły emigracji na inną planetę, a równocześnie powstają ekspedycje ds. eksploracji otchłani ziemskich, szaleńtwa nie ma końca.
+
+
+### Wnioski
+
+Tak jak ONZ pobiera podatek od ochrony, tak i WHO narzuca swoją narrację poprzez finansowanie od decydentów.
+Potrzebne są jednak kolejne globalne organizacje, których koncepcje są rozwijane na ważnych spotkaniach takich jak World Economic Forum.
+Potrzebne są nowe podatki, aby ocalić naturę...
+
+
+## Technologia 
 
 ### Niewolnictwo X.0
 
