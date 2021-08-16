@@ -428,6 +428,16 @@ Jak zawsze w krytycznych chwilach dla ludzkości, jakoś przypadkiem, bogaci sta
 
 Lawina zmian, którą uruchomiło na początek dążenie do ograniczania emisji CO2 dla ratowania klimatu, rozpoczęła również kolejną rewolucję przemysłową i telekomunikacyjną, nowe sposoby porozumiewania się, kontroli ciała i umysłu pozwoliły na uspokojenie rządz i skupienie się na celach globalnych architektów. 
 
+W 15 lat transport przygotuje się na całkowitą elektryfikację lub wodoryzację.
+Co zostanie z polskiego przemysłu motoryzacyjnego?
+Polską gospodarkę czeka kolejny raz długa samotna walka, za które zapłacą dzielni obywatele.
+
+Tak jak w postpandemicznych czasach konieczne było skrócenie łańcuchów dostaw, co doporwadziło do wzmocnienia lokalnego rynku.
+Tak wtedy powstałe fabryki będą istniały dalej tylko, gdy będą zielone.
+Trudno jednak być konkurencyjnym i zielonym, utrzymując cenę, więc finalnie zapłacą klienci
+Powstają oczywiście nowe technologie, automatyzacja obniża koszty, ale stajemy wobec historycznego wyzwania, gdzie nie będzie liczyć się niski koszt pracy a  dobre wykształcenie, punktacja w systemie oceny, regulacje prawne zależne już nie od opcji politycznych wybieranych raz na 4 lata a niewybieralnych magnatów Big Tech, lobbujących od dekad.
+To wszystko upraszcza też życie człowieka, nareszcie może się zając nic nie robieniem, zwłaszcza gdy przebywa na kwarantannie, proste życie z dotacjami, kolejne fale zapomóg i darmowych pieniędzy, może nawet gwarantowany dochód, życie na kredyt...
+
 
 ### Wnioski
 
