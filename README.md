@@ -67,19 +67,6 @@ Taki człowiek nie czeka na nagrodę w raju, bo została przygotowana tu i teraz
 Otrzyma ją, jeśli tylko będzie odpowiednio zrównoważony...
 
 
-### Segregacja
-
-Sukces polityki segregacji na polu ograniczania wirusa wolności przyczynił się do wynalezienia nowych kategorii zbrodni, które wymagają resocjalizacji,
-dlatego tak bardzo potrzebne są ośrodki dla podejrzanych o wariant polski wirusa, który nie dość, że zagraża zdrowiu niewolnika to jeszcze narracji propagandowej.
-
-Partia uzasadnia kolejną większą dziurę budżetową oraz kolejne kredyty na pokolenia bardzo starannie.
-Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to było".
-
-
-### Utylizacja
-
-Dziel, rządź i utylizuj (bez CO2).
-Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek nie mogą być dopuszczone do użytku, dlatego tak bardzo potzebujemy technologii segregacji tych, którzy są przeznaczeni do utylizacji, czekamy na cudo techniki, które pozwoli na utylizowację w zgodzie z naturą.
 
 
 ### Żywność
@@ -146,6 +133,32 @@ operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludz
 + lobbysci
 
 
+### Cenzura
+
+Przesuwanie granicy cenzury owocuje również zwiększaniem się zakresu tematów tabu a co za tym idzie obojętnością.
+Podczas gdy w "dawnych czasach" granicę stanowiła natura, tak teraz ograniczeniem jest polityka i to nie nawet polityka rządu.
+Obecnie granice tworzą korporacje, rząd jest tylko jednym z narzędzi represji.
+
+Dlatego dla tych, któ©zy szukają nisz do zagspodarowania eldorado potrafi pjawiać się i znikać błyskawicznie, wystarczy odpowiednio się przygotować,
+kontakty między ludzkie nadal są kluczowe, dlatego bardzo potrzebne są nowe platformy komunikacji i tak bardzo doceniane są te, które
+poprzez obnażanie tematów tabu są cytowane w pop-mediach.
+
+
+### Segregacja
+
+Sukces polityki segregacji na polu ograniczania wirusa wolności przyczynił się do wynalezienia nowych kategorii zbrodni, które wymagają resocjalizacji,
+dlatego tak bardzo potrzebne są ośrodki dla podejrzanych o wariant polski wirusa, który nie dość, że zagraża zdrowiu niewolnika to jeszcze narracji propagandowej.
+
+Partia uzasadnia kolejną większą dziurę budżetową oraz kolejne kredyty na pokolenia bardzo starannie.
+Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to było".
+
+
+### Utylizacja
+
+Dziel, rządź i utylizuj (bez CO2).
+Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek nie mogą być dopuszczone do użytku, dlatego tak bardzo potzebujemy technologii segregacji tych, którzy są przeznaczeni do utylizacji, czekamy na cudo techniki, które pozwoli na utylizowację w zgodzie z naturą.
+
+
 
 ## Grupy społeczne
 
@@ -180,6 +193,12 @@ w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwow
 
 
 ## Filary bezpieczeństwa
+
+### Tarcza antyrakietowa
+
+W kraju w którym trudno o ochronę przed cyberbezpieczeństwem nawet najlepsza ochrona z powietrza niepodoła
+POdobnie jak w kraju, który w 39 miał śladowe ilości samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
+
 
 
 ### Zdrowie
