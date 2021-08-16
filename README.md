@@ -204,16 +204,17 @@ Podobnie jak w kraju, który w '39 nie miał nowoczesnych samolotów, co na tamt
 
     Historia nie lubi się powtarzać, po prostu nie ma innego wyjścia...
 
-Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   Problemami , które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
-- brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
-- braki ilościowe w tym co było
+Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   
+Problemami, które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
++ brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
++ braki ilościowe w tym co było
 
 
 ### Przeprowadzka wojsk amerykańskich a wariant polski
 
 Talibowie nie mogą narzkeać na sytuację w Afganistanie, podobnie nie będą narzekali Ci, którzy chcą zwiększyć wpływy w Polsce.
-Kiedyś tam w 2022 roku na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że prawie każdy ich żołnierz jest zarażony, w dodatku są dowody na to, że to oni są autorami, historia ja z Klewkami, poza prawem ale w porozumieniu z partią rządzącą.
-Walizki wypełnione dolarami gdzieś się zawieruszyły tak jak interesy polskie i Polaków.
+Kiedyś tam w 2022 roku na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że prawie każdy ich żołnierz jest zarażony i są dowody na to, że amerykanie są autorami wirusa, ... historia jak z Klewkami, poza prawem ale w porozumieniu z partią rządzącą.
+Walizki wypełnione dolarami gdzieś się zawieruszyły tak jak i interesy polskie i Polaków.
 
 
 ### Zdrowie
@@ -316,6 +317,7 @@ Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej stron
 Taki mamy klimat, w sam raz do kryzysu na dekadę a może i dwie...
 
 ### Dlaczego nieruchomości?
+
 Wartość nieruchomości nie wzrasta z powodu przyrostu ludności, więc dlaczego nagle staje się punktem numer jeden na liście zakupów tak wielu ?
 Dlaczego tak wielu upatruje bezpieczną przystań na czas kryzysu w budynkach?
 + Niepewność
