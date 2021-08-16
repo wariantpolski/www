@@ -198,8 +198,10 @@ Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
 
 ### historia z 39
 
-W kraju w którym trudno o ochronę przed cyberbezpieczeństwem nawet najlepsza ochrona z powietrza niepodoła
+W kraju w którym trudno o ochronę przed cyberatakami nawet najlepsza ochrona z powietrza niepodoła (tarcza antyrakietowa).
+
 Podobnie jak w kraju, który w '39 nie miał nowoczesnych samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
+
 Historia nie lubi się powtarzać, po prostu nie ma inne wyjścia...
 
 Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   Problemami , które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
