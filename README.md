@@ -182,23 +182,35 @@ Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
 + Więcej kooperacji z korporacjami, delegacja pracowników z krajów spoza EU
 
 
+## Filary bezpieczeństwa
+
+
 ### Służby specjalne
 + reorganizacja
 + nowe 
 + ograniczenie działa rządu
 
-### Przeprowadzka wojsk amerykańskich a wariant polski
-
-w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że co do jednego jest zarażony, w dodatko to oni są autorami, bo robili to podobnie jak tortury w Klewkach poza prawem ale w porozumieniu z partią rządzącą.
-
-
-## Filary bezpieczeństwa
 
 ### Tarcza antyrakietowa
 
++ jak jest obecnie
++ wersja realna i optymistyczna
+
+### historia z 39
+
 W kraju w którym trudno o ochronę przed cyberbezpieczeństwem nawet najlepsza ochrona z powietrza niepodoła
-Podobnie jak w kraju, który w '39 miał śladowe ilości samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
+Podobnie jak w kraju, który w '39 nie miał nowoczesnych samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
 Historia nie lubi się powtarzać, po prostu nie ma inne wyjścia...
+
+Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   Problemami , które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
+- brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
+- braki ilościowe w tym co było
+- i błędna koncepcja użycia lotnictwa ( oni mieli Guderiana i Mansteina, a my Rydza-Śmigłego, a jak wiadomo z Rydzem nie można było wygrać ) .
+
+
+### Przeprowadzka wojsk amerykańskich a wariant polski
+
+w opowieści SF "Wariant Polski" jest taka historia, jak na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że co do jednego jest zarażony, w dodatko to oni są autorami, bo robili to podobnie jak tortury w Klewkach poza prawem ale w porozumieniu z partią rządzącą.
 
 
 ### Zdrowie
