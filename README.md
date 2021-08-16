@@ -202,7 +202,7 @@ W kraju w którym trudno o ochronę przed cyberatakami nawet najlepsza ochrona z
 
 Podobnie jak w kraju, który w '39 nie miał nowoczesnych samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
 
-Historia nie lubi się powtarzać, po prostu nie ma inne wyjścia...
+    Historia nie lubi się powtarzać, po prostu nie ma innego wyjścia...
 
 Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   Problemami , które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
 - brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
