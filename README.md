@@ -209,6 +209,12 @@ Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotac
 Problemami, które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
 + brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
 + braki ilościowe w tym co było
+Ponadto polski przemysł produkował PZLP.24, który zamiast do polskiej armii trafiał do Bułgarii, Turcji, Rumunii czy Grecji. 
+Co produkuje Polski przemysł dzisiaj?
+Co można by było nazwać bronią przyszłości?
+Niestety prawie nic co wzbudziłoby zainteresowanie na świecie a polski eksport uzbrojenia jest niższy niż Białorusi czy innych sąsiadów.
+
+Możemy spać spokojnie...
 
 
 ### Przeprowadzka wojsk amerykańskich a wariant polski
