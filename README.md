@@ -287,7 +287,7 @@ Wobec takiej sytuacji naturalne private 5g i public 5g zostanie zaadaptowane dla
 + eksplozje, zatrucie powietrza
 + odkrycie radioaktywnych chemicznych śmieci
 + cyberataki
-
++ emigranci z południa i ze wschodu
 
 
 
@@ -295,12 +295,16 @@ Wobec takiej sytuacji naturalne private 5g i public 5g zostanie zaadaptowane dla
 
 ### Białoruś
 
+Jak niżej ...
 
 ### Ukraina
+
+Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję, niemcy i jeszcze jeden kraj...
 
 
 ### Polityka rządu, państwo położonego w Palestynie
 
+Wyniszczające wojny prowadzą do emigracji
 
 
 ## Miasta w Polsce
