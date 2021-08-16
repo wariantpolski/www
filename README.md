@@ -288,6 +288,22 @@ Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka,
 
 ## Kryzys 2022
 
+Ewoucja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
+Wojny ekonomiczne, cyberataki, bioatacki, ...
+
+### PLNy
+
+Świeżo wydrukowane Banknoty 200, 500, 1000PLN nie pachną bogactwem,
+Rzeczywista inflacja nie słucha się tabelek ministrów
+Wartość nieruchomości nie wzrasta z powodu przyrostu ludności, więc dlaczego nagle staje się punktem numer jeden na liście zakupów tak wielu ?
+
+Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej strony brak możliwości stworzenia szybkiej alternatywy porpzpez politykę lockdown-u.
+
+Taki mamy klimat, w sam raz do kryzysu na dekadę a może i dwie...
+
+
+### Scenariusz na 2022
+
 + spadek złotówki miesiąc po miesiącu kilkadziesiąt procent, długofalowo zwiększanie się deficytu.
 + coraz mniejszcze przychody, więc nowe podatki
 
