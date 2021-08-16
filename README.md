@@ -402,7 +402,9 @@ Jakie niesie to ze sobą skutki?
 
 Ogromny wysiłek i koszty ponoszone przez społeczeństwo uzasadnia się obecnie zmianą klimatu i koniecznością ratowania świata.
 Przecież zmiany klimatu są widoczne gołym okiem, tak jak pory roku.
-Wobec czego trudno jest je kwestionować, konieczna wobec tego jest zmiana też przyzwyczajeń społeczeństwa, zrezygnowania z dotychczasowego konsumpcjonizmu i bezustannego wzrostu zapotrzebowania na zasoby, które przecież są ograniczone.
+Wobec czego trudno jest je kwestionować, konieczna wobec tego jest zmiana przyzwyczajeń społeczeństwa, 
+zrezygnowanie z dotychczasowego konsumpcjonizmu i bezustannego wzrostu zapotrzebowania na zasoby, które przecież są ograniczone.
+
 Naturalne samo-ograniczanie wchodzi na wyższy poziom, nie każdy przecież umie się ograniczyć a to grzech.
 Post wraca do łask, oszczędność stała się celem samym w sobie, jesteśmy obrońcami natury do naszego ostatniego tchu...
  
