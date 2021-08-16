@@ -383,10 +383,9 @@ Jakie niesie to ze sobą skutki?
 ## Taki mamy KLIMAT
 
 Ogromny wysiłek i koszty ponoszone przez społeczeństwo uzasadnia się obecnie zmianą klimatu i koniecznością ratowania świata.
-Przecież zmiany klimatu są widoczne gołym okiem, zwłascza w ciągu roku, nie bez przyczyny nazwaliśmy je porami roku.
-Wobec czego trudno jest je kwestionować.
-Konieczna wobec tego jest zmiana też przyzwyczajeń społeczeństwa, zrezygnowania z dotychczasowego konsumpcjonizmu i bezustannego wzrostu zapotrzebowania na zasoby, które przecież są ograniczone.
-Naturalne samoograniczanie wchodzi na wyższy poziom, nie każdy przecież umie się ograniczyć a to grzech.
+Przecież zmiany klimatu są widoczne gołym okiem, tak jak pory roku.
+Wobec czego trudno jest je kwestionować, konieczna wobec tego jest zmiana też przyzwyczajeń społeczeństwa, zrezygnowania z dotychczasowego konsumpcjonizmu i bezustannego wzrostu zapotrzebowania na zasoby, które przecież są ograniczone.
+Naturalne samo-ograniczanie wchodzi na wyższy poziom, nie każdy przecież umie się ograniczyć a to grzech.
 Post wraca do łask, oszczędność stała się celem samym w sobie, jesteśmy obrońcami natury do naszego ostatniego tchu...
  
 ### Przygotowania
