@@ -295,11 +295,21 @@ Wojny ekonomiczne, cyberataki, bioatacki, ...
 
 Świeżo wydrukowane Banknoty 200, 500, 1000PLN nie pachną bogactwem,
 Rzeczywista inflacja nie słucha się tabelek ministrów
-Wartość nieruchomości nie wzrasta z powodu przyrostu ludności, więc dlaczego nagle staje się punktem numer jeden na liście zakupów tak wielu ?
 
 Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej strony brak możliwości stworzenia szybkiej alternatywy porpzpez politykę lockdown-u.
 
 Taki mamy klimat, w sam raz do kryzysu na dekadę a może i dwie...
+
+### Dlaczego nieruchomości?
+Wartość nieruchomości nie wzrasta z powodu przyrostu ludności, więc dlaczego nagle staje się punktem numer jeden na liście zakupów tak wielu ?
+Dlaczego tak wielu upatruje bezpieczną przystań na czas kryzysu w budynkach?
++ Niepewność
++ Niewiedza
++ Brak perspektyw w kraju tworzącym sieć skomplikowanych przepisów
+
+Jakie niesie to ze sobą skutki?
++ mrożenie gotówki czy to w banku czy w nieruchomosci czy w kryptowalutach nie sprzyja rozwojowi gospodarki/firm prywatnych.
++ Chęć zminimalizowania ryzyka w czasaie kryzysu, skutkuje zminimalizowaniem inwestycji a maksymalizowaniem metod przechowania wartości.
 
 
 ### Scenariusz na 2022
