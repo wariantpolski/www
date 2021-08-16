@@ -52,7 +52,7 @@ Okazało się, że większość pacjentów, która zaczęła przyjmować leki na
 
 Koszt pochówku wzrósł wobec tego postanowiono stworzyć procedury utylizacji ciał bezpośrednio w kontenereach stojących przy szpitalach, w tak zwanych mobilnych krematoriach.
 
-Tak jak przy wcześniejszych publicznych zarobiły osoby powiązane z partią rządzącą.
+Tak jak przy wcześniejszych zamówieniach publicznych zarobiły osoby powiązane z partią rządzącą i służbami obcych organizacji.
 
 Dodatkowo zwiększono budżet na tzw. zasiłek pogrzebowy.
 
