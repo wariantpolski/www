@@ -434,17 +434,6 @@ Jakie niesie to ze sobą skutki?
 + Chęć zminimalizowania ryzyka w czasaie kryzysu, skutkuje zminimalizowaniem inwestycji a maksymalizowaniem metod przechowania wartości.
 
 
-### Budowanie łanucha dostaw poza rządem na zasadach EU
-
-+ Wymiana handlowa noszona na fali industry 5.0 i society 5.0
-+ Nowe kanały płatności dostępne dla pracowników, bez udziału urzędów
-
-### Budowa Society 5.0 przez zagraniczne korporacje
-
-+ separacja rządu od społeczeństwa
-+ płatność bez uzycia PLN
-
-
 ### Osłabianie pozycji rządu poprzez szereg zdarzeń polityczno ekonomicznych
 
 + cyberataki
@@ -527,10 +516,28 @@ Gospodarka, której krwiobieg istnieje poza oczami systemu.
 + lokalne elektrownie
 + lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
 
-Rozwiązania
+### Energia
 
 + PVA + blockchain + private5g
 + PVA + crypto + IoT + LoRaWAN
+
+
+### Łancuch dostaw poza systemem
+
+Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
+
+
+### Lokalne waluty
+
+Nowe kanały płatności dostępne dla lokalnej społeczności jest dostępny od wielu lat, jednak teraz jest potrzebny bardziej niż wcześniej, z każdym kryzysem są dostępne coraz lepsze rozwiązania, wystarczy po nie sięgnąć
+
+
+### Budowa Society 5.0 przez prywatne organizacje
+
++ separacja społeczeństwa od systemu
++ barter i rozliczenia poza systemem
+
+
 
 
 ### Praca, czas, energia
