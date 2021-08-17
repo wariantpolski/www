@@ -57,6 +57,7 @@ Tak jak przy wcześniejszych zamówieniach publicznych zarobiły osoby powiązan
 Dodatkowo zwiększono budżet na tzw. zasiłek pogrzebowy.
 
 
+
 ### Zdrowie psychiczne
 
 Rozbudzanie żądz poprzez działania populistyczne w skali globu i kraju nie mają takiej skuteczności
@@ -77,88 +78,9 @@ Otrzyma ją, jeśli tylko będzie odpowiednio zrównoważony...
 
 
 
+## Człowiek
 
-### Żywność
-
-Inflacja w Polsce najwyższa od dekady. 
-
-Paliwa - 30 proc.
-Drób - 22 proc.
-Meble - 9 proc.
-Turystyka zorganizowana - 9 proc.
-Ceny w hotelach i restauracjach - 6 proc.
-
-To skala wzrostu cen niektórych towarów i usług w 2020.
-Wszystkie te podwyżki (obniżek było jak na lekarstwo) złożyły się na 5-procentową, najwyższą od dekady, inflację.
-
-według danych NBP podaż pieniądza rok do roku (M3) wzrosła o prawie 30%, druga przyczyna to tzw. Zielony Ład.
-Zakażmy chowu klatkowego i mięso poszybuje nie +20% a +200%.
-Wykorzystamy sprawdzone rozwiązania: kartki, żeby się ludzie nie pozabijali...
-Wobec takiego scenariusza będziemy rozważać produkcję sztucznego mięsa...
-
-https://next.gazeta.pl/next/7,151003,27461253,inflacja-w-polsce-najwyzsza-od-dekady-co-drozeje-coz-wlasciwie.html
-
-#### nieurodzaj 
-
-Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
-+ Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
-
-
-### Energetyka i przemysł
-
-+ Farmy fotowoltaiczne poza systemem
-+ Mobilne Fabryki
-
-### Bankowość
-
-Tylko zmiana jest pewna, finansowanie zmian, wojen, spekulacji to zadanie dla banków, dlatego są tak potrzebne...
-
-Banki zostały oskarżone o udział w finansowaniu terroryzmu.
-
-Pozew wniosły rodziny poległych i ranni w wyniku zamachów w Afganistanie. Kilkaset osób oskarża banki, o to że świadomie świadczyły usługi na rzecz firm handlujących z terrorystami lub powiązanych z nimi.
-
-Jeden z banków pobierał od niektórych klientów, znacznie wyższe opłaty za realizację transakcji, które posiadały cechy transakcji podejrzanych i w ogóle nie powinny zostać zrealizowane.
-
-
-### Lokalne transfery
-
-Gospodarka, której krwiobieg istnieje poza oczami systemu.
-
-+ lokalne waluty
-+ wymiana barterowa
-+ lokalne elektrownie
-+ lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
-
-Rozwiązania
-
-+ PVA + blockchain + private5g
-+ PVA + crypto + IoT + LoRaWAN
-
-
-### Praca, czas, energia
-
-Zastanawiasz się jak pomóc klimatowi? 
-zużywaj mniej zasobów!
-
-Wielu mówi, że czas jest najważniejszy, jest coś jednak bardziej istotnego... energia
-
-Wzór na pracę wyjaśnia w jakim kierunku idziemy:
-
-    PRACA = ENERGIA * CZAS 
-
-Zmierzamy do systemów, które pozwolą kontrolować zasoby i zużywaną energię.
-Zaczęło się od ochrony klimatu a zakończy do ostatniego żywego człowieka, który jest przekonany, że jest aż tak istonty dla klimatu.
-W międzyczasie będziemy realizować ideę Society5.0 gdzie energia ludzka będzie monitorowana i kontrolowana bezpośrednio.
-
-Cykl pracy i życia człowieka będzie udoskonalany, tak aby żadna energia się nie zmarnowała, a obciążenia wynikające z utrzymania nieproduktywnych dla systemu będą optymalizowane, tak jak obecnie mamy aborcję aby skrócić życie nienarodzonym i eutanazję aby skrócić odlicanie czasu do śmierci, przychodzą kolejne rozwiązania 
-operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
-
-
-
-### Opór społeczny
-
-+ aktywisci
-+ lobbysci
+Systemy Human Centric zadbają o nas lepiej niż byśmy mogli sobie wyobrazić, jak w roku 1984 "niewola czyni wolnym".
 
 
 ### Cenzura
@@ -172,6 +94,7 @@ kontakty między ludzkie nadal są kluczowe, dlatego bardzo potrzebne są nowe p
 poprzez obnażanie tematów tabu są cytowane w pop-mediach.
 
 
+
 ### Segregacja
 
 Sukces polityki segregacji na polu ograniczania wirusa wolności przyczynił się do wynalezienia nowych kategorii zbrodni, które wymagają resocjalizacji,
@@ -181,224 +104,13 @@ Partia uzasadnia kolejną większą dziurę budżetową oraz kolejne kredyty na 
 Wolność to frazes dla opowiadań SF dla przyszłych pokoleń, "kiedyś to było".
 
 
+
 ### Utylizacja
 
 Dziel, rządź i utylizuj (bez CO2).
 Piece z Obozów koncentracyjnych, nawet te najlepszych niemieckich marek nie mogą być dopuszczone do użytku, dlatego tak bardzo potzebujemy technologii segregacji tych, którzy są przeznaczeni do utylizacji, czekamy na cudo techniki, które pozwoli na utylizowację w zgodzie z naturą.
 
 
-
-## Grupy społeczne
-
-
-### Zatrudnieni i niezatrudnieni
-
-+ zmiana systemu ubezpieczeń, bo kto ma płacić na nieproduktywnych?
-
-### Przedsiębiorcy
-
-+ Polacy i polskie biznesy przenoszą się za granicę
-+ Pojawia się coraz więcej alternatyw dla restrykcji i ograniczeń z PL
-+ Do 2022 polskie jednosoobwe działalności gospodarcze (JDG) miały duży udział w podatkach, dopóki nie przekraczały pewnej granicy opłacało się je płacić, wraz z nowym ładem nastał czas optymalizacji podatkowej i z tego powdu zamiast wzrostu mamy pogłebiony kryzys.
-+ 
-+ wiele firm wyemigruje razem z rodzinami, być może też zachęci to pracowników tych firm, którzy często rozliczają się na JDG do emigracji.
-Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
-
-
-### Urzędnicy
-+ zmiana modelu i form zatrudniania, wyższe pensje 
-+ Więcej kooperacji z korporacjami, delegacja pracowników z krajów spoza EU
-
-
-## Filary bezpieczeństwa
-
-
-### Służby specjalne
-+ reorganizacja
-+ nowe 
-+ ograniczenie działa rządu
-
-
-### Tarcza antyrakietowa
-
-+ jak jest obecnie
-+ wersja realna i optymistyczna
-
-### historia z 39
-
-W kraju w którym trudno o ochronę przed cyberatakami nawet najlepsza ochrona z powietrza niepodoła (tarcza antyrakietowa).
-
-Podobnie jak w kraju, który w '39 nie miał nowoczesnych samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
-
-    Historia nie lubi się powtarzać, po prostu nie ma innego wyjścia...
-
-Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   
-Problemami, które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
-+ brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
-+ braki ilościowe w tym co było
-+ produkcja PZLP.24, zamiast do polskiej armii trafiała do Bułgarii, Turcji, Rumunii czy Grecji. 
-
-Co produkuje Polski przemysł dzisiaj?
-Co można by było nazwać bronią przyszłości?
-Niestety prawie nic co wzbudzałoby zainteresowanie na świecie a polski eksport uzbrojenia jest niższy niż Białorusi czy innych sąsiadów.
-
-Możemy spać spokojnie...
-
-
-### Przeprowadzka wojsk amerykańskich a wariant polski
-
-Talibowie nie mogą narzekać na sytuację w Afganistanie, podobnie nie będą narzekali Ci, którzy chcą zwiększyć wpływy w Polsce.
-Kiedyś tam w 2022 roku na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że prawie każdy ich żołnierz jest zarażony i są dowody na to, że amerykanie są autorami wirusa, ... historia jak z Klewkami, poza prawem ale w porozumieniu z partią rządzącą.
-Walizki wypełnione dolarami gdzieś się zawieruszyły tak jak i interesy polskie i Polaków.
-
-
-### Zdrowie
-
-
-### Armia
-
-podczas nielegalnych segregacji, ostracyzmu, obostrzeniach w Armii Polskiej doszło do naturalnego podziału, który też został naturalnie zagospodarowany przez obce służby specjalne.
-
-Jeden z przykładów:
-
-    Podczas stworzenia sytaucji bezalternatywnej przez rząd, 
-    wielu żołnierzy zgodziło się na przyjęcie QRkodu bez szczepienia, 
-    co zaowocowało utrzymaniem korzyści płynących z zatrudnienia 
-    i dalszemu rozwojowi i awansom.
-
-    Jednak po kilknastu miesiącach od tego zdarzenia w momencie, gdy 
-    wymagane były nowe QRkody na kolejny okres, została zainicjowana 
-    możliwośc głębszej współpracy.
-    Tutaj nie każdy się mógł zgodzić, ale 
-    z powodu wcześniej przyjętego QRkodu zostało udokumentowane fałszerstwo 
-    i ten argument pomógł zastanawiajacym się żołnierzom 
-    podjąć decyzję o współpracy.
-    W innej sytuacji było by to zgłoszone jako oszóstwo 
-    a żołnierz nie tylko by stracił pracę 
-    ale i poniósł koszty kary oraz brak pracy w wojsku a także,
-    w organizacjach powiązanych z rządem.
-
-Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka.
-Być może jest to nauka na przyszłość, by od razu przejść do partyzantki i podjąć trud  budowy realnej alternatywy, nie godząc się na destrukcyjne kompromisy.
-
-
-## Nowy ład, nowy rząd
-
-Nowy ład zmienia sposób funkcjonowania całego państwa,
-zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary dystrybucji technologii,
-wyższe koszty usług rządowych w obszarach związanych z nauką i edukacją stwarza odpowiednie warunki większym korporacjom na umocnienie pozycji monopolistycznych.
-
-Przykłady obecnie to między innymi firmy francuskie i niemieckie, które nie muszą walczyć o konkurencyjność w warunkach, które zapewnia im rząd Polski.
-A dopiero początek...
-
-
-Skomplikowane podatki to tylko zasłona dla korzyści, które odnoszą obce korporacje w kluczowych dla gospodarki obszarach,
-przykłady z rolnictwem, górnictwem, czy wiele fabryk, które są montownią.
-
-Wobec takiej sytuacji naturalne private 5g i public 5g zostanie zaadaptowane dla obu grup/kast.
-
-
-
-## Zdarzenia zdalnie sterowane
-
-+ pożary pofragmentowanych lasów
-+ powodzie obszarów strategicznych
-+ eksplozje, zatrucie powietrza
-+ odkrycie radioaktywnych chemicznych śmieci
-+ cyberataki
-+ emigranci z południa i ze wschodu
-
-
-
-## Państwa w Europie i poza nią
-
-### Białoruś
-
-Jak niżej ...
-
-### Ukraina
-
-Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję, niemcy i jeszcze jeden kraj...
-
-
-### Polityka rządu, państwo położonego w Palestynie
-
-Trzeba przebrnąć przez historię Hebrajczyków, Syjonu, ruchów emigracyjnych, rozsianych więzów krwi, podstaw kulturowych, nawyków i zasad. 
-Wtedy można konstatować na temat rangi oddziaływania i głównych obszarów strategicznych. 
-Te ostatnie koncentruje się na prawie, ekonomii, medycynie, środkach przekazu i wojskowości. 
-Wszystkie są fundamentami w globalnym oddziaływaniu politycznym. 
-
-Skutek: wyniszczające wojny konwencjonalne, bio- i cybernetyczne prowadzące do emigracji
-
-
-## Miasta w Polsce
-
-Upadek polskich miasteczek? Recenzja książki „Zapaść” – Paweł Jaczewski
-https://www.paweljaczewski.pl/upadek-polskich-miasteczek-recenzja-ksiazki-zapasc/
-
-### Cytaty
-
-"Miasta zapaści zamieszkuje dzisiaj trochę ponad pięć milionów ludzi. Według prognoz jedynie w trzech ośrodkach: Ełku, Bytowie i Pułtusku, będzie ich przybywało. Blisko połowa miast straci do 2030 roku więcej niż jedną dziesiątą mieszkańców.
-
-Znajomy lekarz opowiadał mi taką historię: przyjął starszą pacjentkę, miała ponad 80 lat. Zrobił jej podstawowe badania, ale był też potrzebny specjalista, więc dał jej skierowanie. Po całym dyżurze, już pod wieczór, wychodzi z pracy i widzi, że ta babcia siedzi na krześle przy drzwiach wyjściowych. Najpierw ją minął, ale wrócił, bo zdziwił się, co ona tam jeszcze robi, skoro przyjął ją przed południem. Zapytał, a ona, że terminy są na przyszły rok, bo w tym już się skończył, ale jak zostanie na noc, to będzie pierwsza w kolejce do rejestracji i wtedy doktor ją przyjmie. Znajomy zapytał, czy nie lepiej wrócić do domu i przyjść wcześnie rano, to powiedziała, że już nie ma czym wrócić, a rano nie będzie czym dojechać. Musiała więc czekać do następnego dnia, z tego całą noc na dworze, bo przecież zamykają. To był ciepły wrzesień, ale zimą też czekają.
-    
-Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka, któremu można by pomóc w działającym systemie bez trudu można pomóc, do lekarza specjalisty, jeśli wiem, że spędzi następne miesiące w kolejce. Czasami mówię pacjentom wprost: albo pójdą prywatnie, albo mogą iść na SOR, a ja im doradzę, bo mają powiedzieć, żeby ich przyjęto. Owszem, spędzą tam nawet dwadzieścia godzin, ale zrobią im wszystkie badania. Często tłumaczę: chyba lepsze te dwadzieścia godzin na SOR-ze niż pół roku w kolejce. Biedniejsi nie mają pieniędzy, więc idą na SOR."
-
-
-
-## Kryzys 2022
-
-Ewoulcja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
-Wojny ekonomiczne, cyberataki, bioataki, ...
-
-### PLNy
-
-Świeżo wydrukowane Banknoty 200, 500, 1000PLN nie pachną bogactwem, bo rzeczywista inflacja nie słucha się tabelek ministrów.
-
-Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej strony brak alternatywy poprzez blokadę polityką lockdown-ową.
-
-Taki mamy klimat, w sam raz do kryzysu na dekadę a może i dwie...
-
-### Dlaczego nieruchomości?
-
-Wartość nieruchomości nie wzrasta z powodu przyrostu ludności, więc dlaczego nagle staje się punktem numer jeden na liście zakupów tak wielu ?
-Dlaczego tak wielu upatruje bezpieczną przystań na czas kryzysu w budynkach?
-+ Niepewność
-+ Niewiedza
-+ Brak perspektyw w kraju tworzącym sieć skomplikowanych przepisów
-
-Jakie niesie to ze sobą skutki?
-+ mrożenie gotówki czy to w banku czy w nieruchomosci czy w kryptowalutach nie sprzyja rozwojowi gospodarki/firm prywatnych.
-+ Chęć zminimalizowania ryzyka w czasaie kryzysu, skutkuje zminimalizowaniem inwestycji a maksymalizowaniem metod przechowania wartości.
-
-
-### Scenariusz na 2022
-
-+ spadek złotówki miesiąc po miesiącu kilkadziesiąt procent, długofalowo zwiększanie się deficytu.
-+ coraz mniejszcze przychody, więc nowe podatki
-
-### Budowanie łanucha dostaw poza rządem na zasadach EU
-
-+ Wymiana handlowa noszona na fali industry 5.0 i society 5.0
-+ Nowe kanały płatności dostępne dla pracowników, bez udziału urzędów
-
-### Budowa Society 5.0 przez zagraniczne korporacje
-
-+ separacja rządu od społeczeństwa
-+ płatność bez uzycia PLN
-
-
-### Osłabianie pozycji rządu 2022 poprzez szereg zdarzeń polityczno ekonomicznych
-
-+ cyberataki
-+ upubliczniony aneks WSI
-+ nieformalne przejęcie polskich służb przez zewnętrzne organizacje 
-
-
-## One Ring to rule them all
-
-+ wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
-+ zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
 
 
 
@@ -485,6 +197,7 @@ Potrzebne są nowe podatki, aby ocalić naturę...
 
 
 
+
 ## Technologia 
 
 ### Niewolnictwo X.0
@@ -511,6 +224,335 @@ My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi"
 ### Sądownictwo
 
 W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w Lublinie, które chętnie wysyłają komorników t dane są w bazie danych, wyrok dociera na adres zamieszkania, nikt nie polemizuje z tym co jest prawdą, zwłaszcza, że Ci, którzy nie mieszkają już pod adresem nie mają ani wiedzy ani prawa do obronu, tym gorzej dla prawa...
+
+
+
+
+
+## Nowy ład, nowy rząd
+
+Nowy ład zmienia sposób funkcjonowania całego państwa,
+zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary dystrybucji technologii,
+wyższe koszty usług rządowych w obszarach związanych z nauką i edukacją stwarza odpowiednie warunki większym korporacjom na umocnienie pozycji monopolistycznych.
+
+Przykłady obecnie to między innymi firmy francuskie i niemieckie, które nie muszą walczyć o konkurencyjność w warunkach, które zapewnia im rząd Polski.
+A dopiero początek...
+
+
+Skomplikowane podatki to tylko zasłona dla korzyści, które odnoszą obce korporacje w kluczowych dla gospodarki obszarach,
+przykłady z rolnictwem, górnictwem, czy wiele fabryk, które są montownią.
+
+Wobec takiej sytuacji naturalne private 5g i public 5g zostanie zaadaptowane dla obu grup/kast.
+
+
+
+### Zatrudnieni i niezatrudnieni
+
++ zmiana systemu ubezpieczeń, bo kto ma płacić na nieproduktywnych?
+
+### Przedsiębiorcy
+
++ Polacy i polskie biznesy przenoszą się za granicę
++ Pojawia się coraz więcej alternatyw dla restrykcji i ograniczeń z PL
++ Do 2022 polskie jednosoobwe działalności gospodarcze (JDG) miały duży udział w podatkach, dopóki nie przekraczały pewnej granicy opłacało się je płacić, wraz z nowym ładem nastał czas optymalizacji podatkowej i z tego powdu zamiast wzrostu mamy pogłebiony kryzys.
++ 
++ wiele firm wyemigruje razem z rodzinami, być może też zachęci to pracowników tych firm, którzy często rozliczają się na JDG do emigracji.
+Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
+
+
+### Urzędnicy
++ zmiana modelu i form zatrudniania, wyższe pensje 
++ Więcej kooperacji z korporacjami, delegacja pracowników z krajów spoza EU
+
+
+
+
+## Filary bezpieczeństwa
+
+
+### Służby specjalne
++ reorganizacja
++ nowe 
++ ograniczenie działa rządu
+
+
+### Tarcza antyrakietowa
+
++ jak jest obecnie
++ wersja realna i optymistyczna
+
+### historia z 39
+
+W kraju w którym trudno o ochronę przed cyberatakami nawet najlepsza ochrona z powietrza niepodoła (tarcza antyrakietowa).
+
+Podobnie jak w kraju, który w '39 nie miał nowoczesnych samolotów, co na tamte czasy w obszarze Wisły było kluczowe.
+
+    Historia nie lubi się powtarzać, po prostu nie ma innego wyjścia...
+
+Stan liczebny polskiego lotnictwa był imponujący - mówi się o 1600 samolotach, jednak do walki można było użyć jedynie ok 400 z nich.   
+Problemami, które zaważyły najbardziej na działaniach lotnictwa w 1939 były:
++ brak nowoczesnego myśliwca - splot błędnych lub spóźnionych decyzji inwestycyjnych i zakupowych
++ braki ilościowe w tym co było
++ produkcja PZLP.24, zamiast do polskiej armii trafiała do Bułgarii, Turcji, Rumunii czy Grecji. 
+
+Co produkuje Polski przemysł dzisiaj?
+Co można by było nazwać bronią przyszłości?
+Niestety prawie nic co wzbudzałoby zainteresowanie na świecie a polski eksport uzbrojenia jest niższy niż Białorusi czy innych sąsiadów.
+
+Możemy spać spokojnie...
+
+
+### Przeprowadzka wojsk amerykańskich a wariant polski
+
+Talibowie nie mogą narzekać na sytuację w Afganistanie, podobnie nie będą narzekali Ci, którzy chcą zwiększyć wpływy w Polsce.
+Kiedyś tam w 2022 roku na pożegnanie zaserwowano amerykańskim wojskom #wariantpolski i jak już się wyprowadzili, ogłoszono światu, że prawie każdy ich żołnierz jest zarażony i są dowody na to, że amerykanie są autorami wirusa, ... historia jak z Klewkami, poza prawem ale w porozumieniu z partią rządzącą.
+Walizki wypełnione dolarami gdzieś się zawieruszyły tak jak i interesy polskie i Polaków.
+
+
+
+### Armia
+
+podczas nielegalnych segregacji, ostracyzmu, obostrzeniach w Armii Polskiej doszło do naturalnego podziału, który też został naturalnie zagospodarowany przez obce służby specjalne.
+
+Jeden z przykładów:
+
+    Podczas stworzenia sytaucji bezalternatywnej przez rząd, 
+    wielu żołnierzy zgodziło się na przyjęcie QRkodu bez szczepienia, 
+    co zaowocowało utrzymaniem korzyści płynących z zatrudnienia 
+    i dalszemu rozwojowi i awansom.
+
+    Jednak po kilknastu miesiącach od tego zdarzenia w momencie, gdy 
+    wymagane były nowe QRkody na kolejny okres, została zainicjowana 
+    możliwośc głębszej współpracy.
+    Tutaj nie każdy się mógł zgodzić, ale 
+    z powodu wcześniej przyjętego QRkodu zostało udokumentowane fałszerstwo 
+    i ten argument pomógł zastanawiajacym się żołnierzom 
+    podjąć decyzję o współpracy.
+    W innej sytuacji było by to zgłoszone jako oszóstwo 
+    a żołnierz nie tylko by stracił pracę 
+    ale i poniósł koszty kary oraz brak pracy w wojsku a także,
+    w organizacjach powiązanych z rządem.
+
+Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka.
+Być może jest to nauka na przyszłość, by od razu przejść do partyzantki i podjąć trud  budowy realnej alternatywy, nie godząc się na destrukcyjne kompromisy.
+
+
+
+## Zdarzenia zdalnie sterowane
+
++ pożary pofragmentowanych lasów
++ powodzie obszarów strategicznych
++ eksplozje, zatrucie powietrza
++ odkrycie radioaktywnych chemicznych śmieci
++ cyberataki
++ emigranci z południa i ze wschodu
+
+
+
+## Państwa w Europie i poza nią
+
+### Białoruś
+
+Jak niżej ...
+
+### Ukraina
+
+Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję, niemcy i jeszcze jeden kraj...
+
+
+### Polityka rządu, państwo położonego w Palestynie
+
+Trzeba przebrnąć przez historię Hebrajczyków, Syjonu, ruchów emigracyjnych, rozsianych więzów krwi, podstaw kulturowych, nawyków i zasad. 
+Wtedy można konstatować na temat rangi oddziaływania i głównych obszarów strategicznych. 
+Te ostatnie koncentruje się na prawie, ekonomii, medycynie, środkach przekazu i wojskowości. 
+Wszystkie są fundamentami w globalnym oddziaływaniu politycznym. 
+
+Skutek: wyniszczające wojny konwencjonalne, bio- i cybernetyczne prowadzące do emigracji
+
+
+## Miasta w Polsce
+
+Upadek polskich miasteczek? Recenzja książki „Zapaść” – Paweł Jaczewski
+https://www.paweljaczewski.pl/upadek-polskich-miasteczek-recenzja-ksiazki-zapasc/
+
+### Cytaty
+
+"Miasta zapaści zamieszkuje dzisiaj trochę ponad pięć milionów ludzi. Według prognoz jedynie w trzech ośrodkach: Ełku, Bytowie i Pułtusku, będzie ich przybywało. Blisko połowa miast straci do 2030 roku więcej niż jedną dziesiątą mieszkańców.
+
+Znajomy lekarz opowiadał mi taką historię: przyjął starszą pacjentkę, miała ponad 80 lat. Zrobił jej podstawowe badania, ale był też potrzebny specjalista, więc dał jej skierowanie. Po całym dyżurze, już pod wieczór, wychodzi z pracy i widzi, że ta babcia siedzi na krześle przy drzwiach wyjściowych. Najpierw ją minął, ale wrócił, bo zdziwił się, co ona tam jeszcze robi, skoro przyjął ją przed południem. Zapytał, a ona, że terminy są na przyszły rok, bo w tym już się skończył, ale jak zostanie na noc, to będzie pierwsza w kolejce do rejestracji i wtedy doktor ją przyjmie. Znajomy zapytał, czy nie lepiej wrócić do domu i przyjść wcześnie rano, to powiedziała, że już nie ma czym wrócić, a rano nie będzie czym dojechać. Musiała więc czekać do następnego dnia, z tego całą noc na dworze, bo przecież zamykają. To był ciepły wrzesień, ale zimą też czekają.
+    
+Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka, któremu można by pomóc w działającym systemie bez trudu można pomóc, do lekarza specjalisty, jeśli wiem, że spędzi następne miesiące w kolejce. Czasami mówię pacjentom wprost: albo pójdą prywatnie, albo mogą iść na SOR, a ja im doradzę, bo mają powiedzieć, żeby ich przyjęto. Owszem, spędzą tam nawet dwadzieścia godzin, ale zrobią im wszystkie badania. Często tłumaczę: chyba lepsze te dwadzieścia godzin na SOR-ze niż pół roku w kolejce. Biedniejsi nie mają pieniędzy, więc idą na SOR."
+
+
+
+
+
+
+
+## Kryzys
+
+Ewoulucja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
+Wojny ekonomiczne, cyberataki, bioataki, ...
+
+
+### Bankowość
+
+Tylko zmiana jest pewna, finansowanie zmian, wojen, spekulacji to zadanie dla banków, dlatego są tak potrzebne...
+
+Banki zostały oskarżone o udział w finansowaniu terroryzmu.
+
+Pozew wniosły rodziny poległych i ranni w wyniku zamachów w Afganistanie. Kilkaset osób oskarża banki, o to że świadomie świadczyły usługi na rzecz firm handlujących z terrorystami lub powiązanych z nimi.
+
+Jeden z banków pobierał od niektórych klientów, znacznie wyższe opłaty za realizację transakcji, które posiadały cechy transakcji podejrzanych i w ogóle nie powinny zostać zrealizowane.
+
+
+### Scenariusz 
+
++ spadek złotówki miesiąc po miesiącu kilkadziesiąt procent, długofalowo zwiększanie się deficytu.
++ coraz mniejszcze przychody, więc nowe podatki
+
+
+### PLNy
+
+Świeżo wydrukowane Banknoty 200, 500, 1000PLN nie pachną bogactwem, bo rzeczywista inflacja nie słucha się tabelek ministrów.
+
+Z jednej strony polityka niepewności, łatania kolejnych dziur, z drugiej strony brak alternatywy poprzez blokadę polityką lockdown-ową.
+
+Taki mamy klimat, w sam raz do kryzysu na dekadę a może i dwie...
+
+
+### Dlaczego nieruchomości?
+
+Wartość nieruchomości nie wzrasta z powodu przyrostu ludności, więc dlaczego nagle staje się punktem numer jeden na liście zakupów tak wielu ?
+Dlaczego tak wielu upatruje bezpieczną przystań na czas kryzysu w budynkach?
++ Niepewność
++ Niewiedza
++ Brak perspektyw w kraju tworzącym sieć skomplikowanych przepisów
+
+Jakie niesie to ze sobą skutki?
++ mrożenie gotówki czy to w banku czy w nieruchomosci czy w kryptowalutach nie sprzyja rozwojowi gospodarki/firm prywatnych.
++ Chęć zminimalizowania ryzyka w czasaie kryzysu, skutkuje zminimalizowaniem inwestycji a maksymalizowaniem metod przechowania wartości.
+
+
+### Budowanie łanucha dostaw poza rządem na zasadach EU
+
++ Wymiana handlowa noszona na fali industry 5.0 i society 5.0
++ Nowe kanały płatności dostępne dla pracowników, bez udziału urzędów
+
+### Budowa Society 5.0 przez zagraniczne korporacje
+
++ separacja rządu od społeczeństwa
++ płatność bez uzycia PLN
+
+
+### Osłabianie pozycji rządu poprzez szereg zdarzeń polityczno ekonomicznych
+
++ cyberataki
++ upubliczniony aneks WSI
++ nieformalne przejęcie polskich służb przez zewnętrzne organizacje 
+
+
+### One Ring to rule them all
+
++ wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
++ zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
+
+
+
+
+
+### Żywność
+
+Inflacja w Polsce najwyższa od dekady. 
+
+Paliwa - 30 proc.
+Drób - 22 proc.
+Meble - 9 proc.
+Turystyka zorganizowana - 9 proc.
+Ceny w hotelach i restauracjach - 6 proc.
+
+To skala wzrostu cen niektórych towarów i usług w 2020.
+Wszystkie te podwyżki (obniżek było jak na lekarstwo) złożyły się na 5-procentową, najwyższą od dekady, inflację.
+
+według danych NBP podaż pieniądza rok do roku (M3) wzrosła o prawie 30%, druga przyczyna to tzw. Zielony Ład.
+
+### Mięso
+
+Zakażmy chowu klatkowego i mięso poszybuje nie +20% a +200%.
+Wykorzystamy sprawdzone rozwiązania: kartki, żeby się ludzie nie pozabijali...
+
+Wobec takiego scenariusza będziemy rozważać produkcję sztucznego mięsa...
+
+https://next.gazeta.pl/next/7,151003,27461253,inflacja-w-polsce-najwyzsza-od-dekady-co-drozeje-coz-wlasciwie.html
+
+
+#### nieurodzaj 
+
+Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
++ Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
+
+
+
+
+
+
+## Opór społeczny
+
+
+### Grupy Społeczne
+
++ aktywisci
++ lobbysci
++ hakerzy
++ drony
++ prywatna infrastruktura 
+
+
+
+
+### Energetyka i przemysł
+
++ Farmy fotowoltaiczne poza systemem
++ Mobilne Fabryki
+
+
+
+
+### Lokalne transfery
+
+Gospodarka, której krwiobieg istnieje poza oczami systemu.
+
++ lokalne waluty
++ wymiana barterowa
++ lokalne elektrownie
++ lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
+
+Rozwiązania
+
++ PVA + blockchain + private5g
++ PVA + crypto + IoT + LoRaWAN
+
+
+### Praca, czas, energia
+
+Zastanawiasz się jak pomóc klimatowi? 
+zużywaj mniej zasobów!
+
+Wielu mówi, że czas jest najważniejszy, jest coś jednak bardziej istotnego... energia
+
+Wzór na pracę wyjaśnia w jakim kierunku idziemy:
+
+    PRACA = ENERGIA * CZAS 
+
+Zmierzamy do systemów, które pozwolą kontrolować zasoby i zużywaną energię.
+Zaczęło się od ochrony klimatu a zakończy do ostatniego żywego człowieka, który jest przekonany, że jest aż tak istonty dla klimatu.
+W międzyczasie będziemy realizować ideę Society5.0 gdzie energia ludzka będzie monitorowana i kontrolowana bezpośrednio.
+
+Cykl pracy i życia człowieka będzie udoskonalany, tak aby żadna energia się nie zmarnowała, a obciążenia wynikające z utrzymania nieproduktywnych dla systemu będą optymalizowane, tak jak obecnie mamy aborcję aby skrócić życie nienarodzonym i eutanazję aby skrócić odlicanie czasu do śmierci, przychodzą kolejne rozwiązania 
+operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
+
+
+
 
 
 
