@@ -187,12 +187,32 @@ To wszystko upraszcza też życie człowieka, nareszcie może się zając nic ni
 Proste życie z dotacjami, fale zapomóg i darmowych pieniędzy, może nawet gwarantowany dochód, życie na kredyt...
 
 
+## Globalne Organizacje
 
-### Wnioski
 
 Tak jak ONZ pobiera podatek od ochrony, tak i WHO narzuca swoją narrację poprzez finansowanie od decydentów.
 Potrzebne są jednak kolejne globalne organizacje, których koncepcje są rozwijane na ważnych spotkaniach takich jak World Economic Forum.
+
+### Klimat
+
 Potrzebne są nowe podatki, aby ocalić naturę...
+Nowa organizacja ma za zadanie kontrolowanie i pobieranie podatków z całego globu.
+
+
+### Cyberbezpieczeństwo
+
+Podatek od bezpieczeństwa, ochrona jak za dawncych lat...
+
+Czasy i zagrożenia się zmieniają.
+
+Autonomiczne pojazdy, drony, roboty to przyszłość, dlatego też giganci branży zdecydowali się na zacieśnienie współpracy w obszarze cyberbezpieczeństwa.
+W momencie, gdy w oprogramowaniu istnieje luki, może zostać wykorzystana przez podmioty trzecie do np. przejęcia kontroli nad pojazdem i doprowadzeniem do szkody.
+
+Na podstawie współpracy nieprawidłowości będą ujawniane i likwidowane dzięki aktualizacjom. 
+Firmy otrzymają także opis przykładowych metod cyberataków, zebranych podczas analizy incydentów z całego świata.
+
+Zlecenie sprawdzenia oprogramowania pod kątem luk i nieprawidłowości, przeprowadzona przez zewnętrzny podmiot, kosztuje tylko producentów samochodów od 1,8 do 2,7 mln dolarów rocznie. 
+Konsorcjum ma przyczynić się do zmniejszenia kosztów obsługi w obszarze cyberbezpieczeństwa co ma wpływ na zwiększenie jakości i niezawodności.  
 
 
 
@@ -642,3 +662,7 @@ Planowanie zakończenie to koniec roku 2021
 
 ---
 + [edit](https://github.com/wariantpolski/www/edit/main/README.md)
+
+```
+https://github.com/wariantpolski/www.git
+```
