@@ -246,6 +246,14 @@ My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi"
 W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w Lublinie, które chętnie wysyłają komorników t dane są w bazie danych, wyrok dociera na adres zamieszkania, nikt nie polemizuje z tym co jest prawdą, zwłaszcza, że Ci, którzy nie mieszkają już pod adresem nie mają ani wiedzy ani prawa do obronu, tym gorzej dla prawa...
 
 
+### Society 5.0
+
+To świat w ktorym nie ma prywatności, offline nie istnieje, wszyscy jesteśmy online, nawet wtedy, gdy nie mampy przy sobie urządzeń telekomunikacyjnych.
+Istniejemy w sieci bo jesteśmy w jej ramach, dopiero opuszczając teren na którym jest sieć 5g/6g mamy możliwość poczucia się offline.
+Obecnie to proste, wystarczy wyłączyć kilka urządzeń.
+
+Chcąc sie poruszać, uwierzytelnić, potwierdzić tożsamość zostajemy wpisani w ten czas i miejsce i już tego nie usuniemy.
+Każdy urzędnik oraz cybeprzestępca ma do tego dostęp.
 
 
 
