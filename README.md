@@ -550,6 +550,10 @@ Gospodarka, której krwiobieg istnieje poza oczami systemu.
 + PVA + crypto + IoT + LoRaWAN
 
 
+https://www.wnp.pl/energetyka/co2-po-60-euro-spelniaja-sie-najczarniejsze-scenariusze,490227.html
+
+
+
 ### Łancuch dostaw poza systemem
 
 Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
