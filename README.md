@@ -198,10 +198,14 @@ Potrzebne są jednak kolejne globalne organizacje, których koncepcje są rozwij
 Potrzebne są nowe podatki, aby ocalić naturę...
 Nowa organizacja ma za zadanie kontrolowanie i pobieranie podatków z całego globu.
 
+Zastanawiasz się jak pomóc klimatowi? 
+hasła propagandzstów w skrócie: zużywaj mniej zasobów albo gin!
+
 
 ### Cyberbezpieczeństwo
 
-Podatek od bezpieczeństwa, ochrona jak za dawncych lat...
+Podatek od bezpieczeństwa, ochrona jak za dawncych lat, gdy mafią tworzyły nie tylko korporacje i rządy ...
+
 
 Czasy i zagrożenia się zmieniają.
 
@@ -222,9 +226,9 @@ Konsorcjum ma przyczynić się do zmniejszenia kosztów obsługi w obszarze cybe
 
 ### Niewolnictwo X.0
 
-niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez integrację
+niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez głębszą integrację, 6g...
 
-wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwoli nam zapomnieć o tym że jesteśmy rzeczą w Internecie Rzeczy (IoT - Internet of Things)
+wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwala zapomnieć o tym że człowiek jest (też) rzeczą w Internecie Rzeczy (IoT - Internet of Things)
 
 Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a najlepiej być bezemisyjna, inaczej będzie poddana utylizacji, zrozumiano?
 
@@ -274,21 +278,28 @@ Wobec takiej sytuacji naturalne private 5g i public 5g zostanie zaadaptowane dla
 
 
 
-### Zatrudnieni i niezatrudnieni
+### Praca
 
++ Zatrudnieni i Niezatrudnieni
++ Produktywni i Nieproduktywni
 + zmiana systemu ubezpieczeń, bo kto ma płacić na nieproduktywnych?
+
+
 
 ### Przedsiębiorcy
 
 + Polacy i polskie biznesy przenoszą się za granicę
 + Pojawia się coraz więcej alternatyw dla restrykcji i ograniczeń z PL
 + Do 2022 polskie jednosoobwe działalności gospodarcze (JDG) miały duży udział w podatkach, dopóki nie przekraczały pewnej granicy opłacało się je płacić, wraz z nowym ładem nastał czas optymalizacji podatkowej i z tego powdu zamiast wzrostu mamy pogłebiony kryzys.
-+ 
-+ wiele firm wyemigruje razem z rodzinami, być może też zachęci to pracowników tych firm, którzy często rozliczają się na JDG do emigracji.
-Te zmiany  i inne przedstawione dalej pogłębią kryzys ekonomiczny Polski.
+
++ wiele firm, które nie mają alternatywy emigruje razem z rodzinami, być może też zachęci to pracowników tych firm, którzy często rozliczają się na JDG do emigracji.
+
+Te zmiany i inne przedstawione dalej pogłębiają kryzys ekonomiczny Polski, wzrosty notują najsilniejsi, Ci którzy piszą scenariusz lub chociażby trzymają kopię i znają kolejne kroki mogąc się dostosować, poozstali muszą czytać z ruchu warg ...
 
 
 ### Urzędnicy
+Gdz nadchodzi kryzys ekonomiczny są jeszcze bardziej potrzebni i kosztowni, bo kto bierze na poważnie rząd, który prowadzi do destrukcji?
+Dlatego dla wielu urzędników to czas na wzbogacenie się, wejście w rolę pana życia maluczkich/podatników, czekają ich zmiany na lepsze:
 + zmiana modelu i form zatrudniania, wyższe pensje 
 + Więcej kooperacji z korporacjami, delegacja pracowników z krajów spoza EU
 
@@ -513,10 +524,11 @@ Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza 
 
 
 
-## Opór społeczny
+## Rozwiązania
 
 
 ### Grupy Społeczne
+Dla jakich grup społecznych?
 
 + aktywisci
 + lobbysci
@@ -527,55 +539,61 @@ Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza 
 
 
 
-### Energetyka i przemysł
-
-+ Farmy fotowoltaiczne poza systemem
-+ Mobilne Fabryki
+### Energetyka
+Niezależność energetyczna każdej jednostki organizacyjnej:
 
 
+#### Farmy fotowoltaiczne poza systemem
+
++ PVA + blockchain + private5g
++ PVA + crypto + IoT + LoRaWAN
 
 
-### Lokalne transfery
 
-Gospodarka, której krwiobieg istnieje poza oczami systemu.
+
+
+###  Przemysł
+łańcuch dostaw poza systemem
+
+Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
+
+#### Mobilne Fabryki
+
++ w kontenerach zasilane przez PVA
++ w przyczepach/transporterach jako  niezależne moduły tworzące infrstrukturę dla produkcji lokalnie i tymczasowo w celu dorażnego uzupełnienia zasobów
+
+
+
+
+### Transfery
+
+Gospodarka lokalna w który działa w partyzancki i zdecentralizowany sposób, niezlażnie od systemu.
 
 + lokalne waluty
 + wymiana barterowa
 + lokalne elektrownie
 + lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
 
-### Energia
 
-+ PVA + blockchain + private5g
-+ PVA + crypto + IoT + LoRaWAN
-
-
-https://www.wnp.pl/energetyka/co2-po-60-euro-spelniaja-sie-najczarniejsze-scenariusze,490227.html
-
-
-
-### Łancuch dostaw poza systemem
-
-Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
-
-
-### Lokalne waluty
+#### Lokalne waluty
 
 Nowe kanały płatności dostępne dla lokalnej społeczności jest dostępny od wielu lat, jednak teraz jest potrzebny bardziej niż wcześniej, z każdym kryzysem są dostępne coraz lepsze rozwiązania, wystarczy po nie sięgnąć
 
 
+
+
 ### Budowa Society 5.0 przez prywatne organizacje
 
-+ separacja społeczeństwa od systemu
++ separacja lokalnych społeczeństw od systemu
 + barter i rozliczenia poza systemem
-
++ rozwój spersonalizowany dzięki AI
++ lokalne centra danych, offline, niezależne sieci od globalnego innternetu
 
 
 
 ### Praca, czas, energia
 
-Zastanawiasz się jak pomóc klimatowi? 
-zużywaj mniej zasobów!
+
 
 Wielu mówi, że czas jest najważniejszy, jest coś jednak bardziej istotnego... energia
 
@@ -670,14 +688,6 @@ Planowanie zakończenie to koniec roku 2021
 + agenda 2040
 + agenda 2050
 
-
-
----
-
-## Tom Sapletta
-+ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
-+ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
-+ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
 
 ---
