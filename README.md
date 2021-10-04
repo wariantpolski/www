@@ -266,13 +266,16 @@ Każdy urzędnik oraz cybeprzestępca ma do tego dostęp.
 
 
 
-## Nowy ład, nowy rząd
+## Nowy ład, stare metody
 
 Nowy ład zmienia sposób funkcjonowania całego państwa,
-zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary dystrybucji technologii,
-wyższe koszty usług rządowych w obszarach związanych z nauką i edukacją stwarza odpowiednie warunki większym korporacjom na umocnienie pozycji monopolistycznych.
+zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary dystrybucji wszystkiego od technologii do miejsca każdego człowieka w społeczeństwie poprzez segregację.
 
-Przykłady obecnie to między innymi firmy francuskie i niemieckie, które nie muszą walczyć o konkurencyjność w warunkach, które zapewnia im rząd Polski.
+Skutek?
+rządy stwarzają warunki większym korporacjom na umocnienie ich pozycji monopolistycznych.
+
+między innymi firmy francuskie i niemieckie, które nie muszą walczyć o konkurencyjność w warunkach, które zapewnia im rząd Polski.
+
 A dopiero początek...
 
 
