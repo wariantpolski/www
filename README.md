@@ -665,6 +665,7 @@ Silna jednostka to świadoma jednostka, rozumiejąca fizykę środowiska, w któ
 
 Kooperacja liderów w sferze edukacji jest z pewnością jednym z punktów wspólnych, które w obszarze wetware można wzmocnić w sferze merytorycznej bez wywoływania konfliktów w sferze rezultatów działań.
 
+pro2030.com to jeden z adresów dla piszących własne scenariusze.
 
 
 
