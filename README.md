@@ -36,6 +36,9 @@ oto jak wygląda przyszłość zbudowana na nawozie wiary, nadzieji i pogardzie,
 zapraszam do lektury...
 
 
+Jedną z cech tego opowiadania, jest wchodzenie w obszarz, które są poza okiem kamer propagandowych tv, bez zbędnej analizy dlaczego mamy taki stan rzeczy a skupianie się na tym jak rozwiązać te problemy cywilizacyjne, każdego eolnego człowieka.
+Podstawą działań ma być znajomość aktualnego stanu rzeczy a nie strach wywoływany niewiedzą, dobry plan zakłada scenariusz na rozdrożu, których jest tzm więcej im mniej mamy do powiedzenia i wolności.
+
 
 
 ## Zasoby
@@ -714,12 +717,18 @@ Co będzie dalej, za kilka lat?
 Przyszłość do została zaplanowana tak do 2020 jak i do 2030, 2050 roku.
 Więcej na stronie: [horyzont2030](https://www.horyzont2030.pl/)
 
+
 W zasadzie są to plany wielkich organizacji, są tam nawet zaplanowane wydarzenia oporu, zamieszek, buntów ludzi, którzy się na to nie godzą.
 Warto przyjrzeć się temu i zaplanować więcej alternatyw niż te dopuszczane i głoszone w propagandzie.
 
 Temu służy opowiadanie, pobudzonej refleksji do weryfikacji i realizacji.
 
 Tego życzę każdemu...
+
+Dla przeciwwagi powstaje strona forum ludzi wolnych, chcących pisać i realizować własne scenariusze: pro2030.com
+
+Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Society 5.0 to istotne kwestie jakie warto znać już dziś.
+
 
 ## Planowany koniec
 
