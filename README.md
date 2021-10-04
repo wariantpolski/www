@@ -36,8 +36,8 @@ oto jak wygląda przyszłość zbudowana na nawozie wiary, nadzieji i pogardzie,
 zapraszam do lektury...
 
 
-Jedną z cech tego opowiadania, jest wchodzenie w obszarz, które są poza okiem kamer propagandowych tv, bez zbędnej analizy dlaczego mamy taki stan rzeczy a skupianie się na tym jak rozwiązać te problemy cywilizacyjne, każdego eolnego człowieka.
-Podstawą działań ma być znajomość aktualnego stanu rzeczy a nie strach wywoływany niewiedzą, dobry plan zakłada scenariusz na rozdrożu, których jest tzm więcej im mniej mamy do powiedzenia i wolności.
+Jedną z cech tego opowiadania, jest wchodzenie w obszary poza okiem kamer propagandowych tv, bez analizowania przyczyn a skupianie się na rozwiązaniach wymienionych problemów cywilizacyjnych wolnego człowieka.
+Zakładam, że podstawą działań ma być znajomość aktualnego stanu rzeczy a nie strach wywoływany niewiedzą, dobry plan zakłada scenariusz na rozdrożu, których jest tzm więcej im mniej mamy do powiedzenia i wolności.
 
 
 
