@@ -581,15 +581,27 @@ Nowe kanały płatności dostępne dla lokalnej społeczności jest dostępny od
 
 
 
+### Komunikacja
 
-### Budowa Society 5.0 przez prywatne organizacje
+#### Budowa Society 5.0 przez prywatne organizacje
 
 + separacja lokalnych społeczeństw od systemu
+
+#### Rozliczenia
+
 + barter i rozliczenia poza systemem
-+ rozwój spersonalizowany dzięki AI
+
+#### Automatyzacja marketingu
+
++ rozwój spersonalizowanych kanałów komunikacji dzięki AI
+
+#### Data center
+
 + lokalne centra danych, offline, niezależne sieci od globalnego innternetu
 
 
+
+## Teoria
 
 ### Praca, czas, energia
 
