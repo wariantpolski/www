@@ -180,7 +180,9 @@ Tak wtedy powstałe fabryki będą istniały dalej tylko, gdy będą zielone.
 
 Trudno jednak być konkurencyjnym i zielonym, utrzymując cenę, więc finalnie coraz wyższe koszty obniżają warunki bytowe ludzkości.
 
-Powstają oczywiście nowe technologie, automatyzacja obniża koszty, ale już nie liczy się niski koszt pracy a dobre wykształcenie, punktacja w systemie oceny, regulacje prawne zależne już nie od opcji politycznych wybieranych raz na 4 lata a niewybieralnych magnatów Big Tech, lobbujących od dekad, wpływających na życie miliardów poprzez globalną sieć organizacji i kontrolowanych przez nich technologii.
+Powstają oczywiście nowe technologie, automatyzacja obniża koszty, ale już nie liczy się niski koszt pracy ani dobre wykształcenie a odpowiednie ukształtowanie i odzwierciedlająca to punktacja w systemie oceny obywatela.
+
+Regulacje prawne zależne już nie od opcji politycznych wybieranych raz na 4 lata a niewybieralnych magnatów Big Tech, lobbujących od dekad, wpływających na życie miliardów poprzez globalną sieć organizacji i kontrolowanych przez nich technologii.
 
 
 To wszystko upraszcza też życie człowieka, nareszcie może się zając nic nie robieniem, zwłaszcza podczas przymusowej kwarantanny.
@@ -308,8 +310,23 @@ Dlatego dla wielu urzędników to czas na wzbogacenie się, wejście w rolę pan
 
 ## Filary bezpieczeństwa
 
+Niezmiennie od czasu, miejsca i ustroju politycznego jedna zasada jest stała: wygrywa silniejszy
+Oferta silniejszego, niezależnie od tego czy to korporacje z USA/Chin/Niemiec jest taka, by grać tak jak nam zagrają.
+To co obiecują w zamian to miejsce niewolnika w szeregu, inaczej czeka nas los wroga.
+
+### Oferta
+
+na rok 2022 jest taka jak zawsze: dostosuj się lub zgin 
+wielcy tego świata narzucają tempo i kształt zmian a reszta może (bo przecież nie musi) to brać pod uwagę podlegając scenariuszowi pisanemu na każdą ewentualność.
+Alternatywą jest obrona, a więc wojna...
+
+Niezmiennie technologia jest narzędziem walki i dobrze posługiwać się nią w stopni pozwalającej na odparcie ataków na poziomie socjotechnicznym, mając na uwadze, że człowiek jest najsłabszym ogniwem.
+
+
+
 
 ### Służby specjalne
+
 + reorganizacja
 + nowe 
 + ograniczenie działa rządu
@@ -601,11 +618,14 @@ Nowe kanały płatności dostępne dla lokalnej społeczności jest dostępny od
 
 
 
-## Teoria
+
+
+## Teoria i Praktyka
+
+Rozumiejąc fizykę otoczenia łatwiej jest się w nim poruszać, mogąc planować kolejne kroki, będąc pewnym ich rezultatu.
+
 
 ### Praca, czas, energia
-
-
 
 Wielu mówi, że czas jest najważniejszy, jest coś jednak bardziej istotnego... energia
 
@@ -621,7 +641,26 @@ Cykl pracy i życia człowieka będzie udoskonalany, tak aby żadna energia się
 operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
 
 
+## Wetware
 
+### Scenariusze 
+
+To opowiadanie jest tłem dla scenariusza, który napisze każdy z czytelników, mając na uwadze fizykę otoczenia, nawet jeśli nie świadomie, to pewne jest że jutro nadejdzie, bo dzieje się to od zawsze.
+
+Dlatego warto budować tak, aby nawet jak jutro nie nadejdzie dla jednego z nas, inny mógł kontynuoować obronę człowieczeństwa, wolności i stworzonych dzieł za życia.
+
+Czas jest pewien, nie znamy tylko w nim naszego miejsca, nie znamy scenariuszy innych, dlatego tak ważne jest ich materializowanie, dzielenie się nimim z tymi, którzy mają te same waertości, bo one prowadzą często do tych samych logicznych wniosków.
+
+Pisanie scenariuszy dla całych społeczności jest niepotrzebne, tym zajmują się komuniści, każda wolna jednostka ma wystarczające zasoby, aby pisać własny, dlatego warto promować scenariusze każdego z nas, aby każdy miał szanse zmierzyć się z wieloma niewadomymi już teraz i ponosić mniejsze stratz, które dotyczą w kontekście lokalnej społeczności wielu, gdyż nie pozwalają na zagospodarowanie straconych zasobów.
+
+
+### Współpraca
+
+Z jednej strony każdy może zachować niezależność w realizacji własnego scenariusza a z drugiej strony może zwerzfikować dotychczasowe rezultaty i plany z tymi, którzy również je mają.
+
+Silna jednostka to świadoma jednostka, rozumiejąca fizykę środowiska, w którym działa.
+
+Kooperacja liderów w sferze edukacji jest z pewnością jednym z punktów wspólnych, które w obszarze wetware można wzmocnić w sferze merytorycznej bez wywoływania konfliktów w sferze rezultatów działań.
 
 
 
