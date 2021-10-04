@@ -648,7 +648,7 @@ operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludz
 
 ### Scenariusze 
 
-To opowiadanie jest tłem dla scenariusza, który napisze każdy z czytelników, mając na uwadze fizykę otoczenia, nawet jeśli nie świadomie, to pewne jest że jutro nadejdzie, bo dzieje się to od zawsze.
+To opowiadanie jest tłem dla scenariusza, który może napisać czytelnik, mając na uwadze fizykę otoczenia, nawet jeśli nie świadomie, to pewne jest że jutro nadejdzie, bo dzieje się to od zawsze.
 
 Dlatego warto budować tak, aby nawet jak jutro nie nadejdzie dla jednego z nas, inny mógł kontynuoować obronę człowieczeństwa, wolności i stworzonych dzieł za życia.
 
