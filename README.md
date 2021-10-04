@@ -662,7 +662,7 @@ Pisanie scenariuszy dla całych społeczności jest niepotrzebne, tym zajmują s
 
 ### Współpraca
 
-Z jednej strony każdy może zachować niezależność w realizacji własnego scenariusza a z drugiej strony może zwerzfikować dotychczasowe rezultaty i plany z tymi, którzy również je mają.
+Z jednej strony każdy może zachować niezależność w realizacji własnego scenariusza a z drugiej strony może zweryfikować dotychczasowe rezultaty i plany z tymi, którzy również je mają.
 
 Silna jednostka to świadoma jednostka, rozumiejąca fizykę środowiska, w którym działa.
 
