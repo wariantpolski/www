@@ -191,6 +191,18 @@ Regulacje prawne zależne już nie od opcji politycznych wybieranych raz na 4 la
 To wszystko upraszcza też życie człowieka, nareszcie może się zając nic nie robieniem, zwłaszcza podczas przymusowej kwarantanny.
 Proste życie z dotacjami, fale zapomóg i darmowych pieniędzy, może nawet gwarantowany dochód, życie na kredyt...
 
+### Fakty
+Cykliczność zmian klimatu.
+Fakty szczególnie dla tych, którzy dziwią się porom roku
+
+http://appinsys.com/globalwarming/PDO_AMO.htm
+https://www.researchgate.net/publication/279430462_Relationship_of_Multidecadal_Global_Temperatures_to_Multidecadal_Oceanic_Oscillations
+https://www.mdpi.com/2225-1154/6/4/82/htm
+https://www.nature.com/articles/srep29537
+http://klimarealistene.com/web-content/11IdentifyingNaturalContributionsToLateHoloceneClimateChange%20%20HumlumEtAl%20%20GlobalAndPlanetaryChange%201012pdf.pdf
+https://www.nsstc.uah.edu/climate/
+http://www.drroyspencer.com/wp-content/uploads/UAH_LT_1979_thru_September_2021_v6.jpg
+
 
 ## Globalne Organizacje
 
@@ -453,7 +465,7 @@ Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka,
 
 ## Kryzys
 
-Ewoulucja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
+Ewolucja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
 Wojny ekonomiczne, cyberataki, bioataki, ...
 
 
