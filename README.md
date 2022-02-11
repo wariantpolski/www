@@ -259,7 +259,7 @@ wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metod
 Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a najlepiej być bezemisyjna, inaczej będzie poddana utylizacji, zrozumiano?
 
 
-### blockchain
+### Blockchain
 
 łańcuch potrzebny niewolnikom do kontroli ich poczynań
 Przechowując nie tylko aktualne i przeszłe zdarzenia ale też zapisanie kontraktów, które dopiero zostaną zrealizowane.
@@ -270,6 +270,7 @@ Kiedyś może i Twoja przyszłość była zapisana w gwiazdach, teraz pora zejś
 
 Niech robią to mądrzejsi, a my?
 My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi" za nas resztę!
+
 
 ### Sądownictwo
 
@@ -364,7 +365,7 @@ Niezmiennie technologia jest narzędziem walki i dobrze posługiwać się nią w
 + jak jest obecnie
 + wersja realna i optymistyczna
 
-### historia z 39
+### historia z '39
 
 W kraju w którym trudno o ochronę przed cyberatakami nawet najlepsza ochrona z powietrza niepodoła (tarcza antyrakietowa).
 
@@ -441,6 +442,8 @@ Jak niżej ...
 ### Ukraina
 
 Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję, niemcy i jeszcze jeden kraj...
+
+Słowa powyżej były pisane w pierwszej połowie 2021 roku jeszcze zanim było wiadomo o kolejnej transzy terenów Ukrainy i przed przygranicznymi przepychankami oraz oficjalnym zacieśnieniu kooperacji Białorusi z Rosją.
 
 
 ### Polityka rządu, państwo położonego w Palestynie
