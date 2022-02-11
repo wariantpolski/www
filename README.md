@@ -443,7 +443,7 @@ Jak niżej ...
 
 Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję, niemcy i jeszcze jeden kraj...
 
-Słowa powyżej były pisane w pierwszej połowie 2021 roku jeszcze zanim było wiadomo o kolejnej transzy terenów Ukrainy i przed przygranicznymi przepychankami oraz oficjalnym zacieśnieniu kooperacji Białorusi z Rosją.
+Słowa powyżej były pisane w Sierpniu 2021 roku jeszcze zanim było wiadomo o kolejnej transzy terenów Ukrainy i przed przygranicznymi przepychankami oraz oficjalnym zacieśnieniu kooperacji Białorusi z Rosją.
 
 
 ### Polityka rządu, państwo położonego w Palestynie
