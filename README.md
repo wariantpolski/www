@@ -19,25 +19,29 @@ Walka o zachowanie siebie, swoich wartości każdego dnia to horyzont wojen jaki
 
 Wątkiem głównym opowieści Wariant Polski czyli wirus atakujący umysł, zmuszając do refleksji po latach reżimowej walki z wiatrakami napędzanymi wiatrem propagandy.
 
-Ten wiatr nie słabnie, napędza gospodarkę krajów do sotosowania najnowszych rozwiązań technologicznych, tzw. "human centric", aby żaden człowiek nie był skazany na samotność żyjąc w szczęściu systemowych rozwiązań na każdy problem.
+Ten wiatr nie słabnie, przyśpiesza mimo kryzysów, by przybliżyć nam piekła systemów "human centric", aby żaden człowiek nie był skazany na samotność żyjąc w szczęściu systemowych rozwiązań na każdy problem, zadba o to inżyniera społeczna dla każdego: Society 5.0
 
-Inżyniera społeczna dla każdego: Society 5.0
+Podsumujmy Polskę 2022:
++ w styczniu Nowy, lepszy ład, otwieramy portfele
++ w lutym otwaramy serca i domostwa,
++ w marcu ? jak się skończy to dopiszę, bo obawiam się, że będzie kumulacja puszek Pandory ...
 
-W zasadzie to tylko pretekst do otwarcia puszki pandory w Polsce.
-
-Jakie scenariusze były by sprzyjające w przejęciu kontroli nad terenem Wisły?
 
 Sporo grup społecznych a nawet samorządy tracą na obecnej sytuacji, więc w ich interesie jest zmiana.
-Warto przeprowadzić symulację w kontekście tych wszystkich niezadowolonych, którzy w tej opowieści zachowali by się jak wojownicy wolności, a nie bierni niewolnicy.
 
-Teraźniejszość jest oparta o pojedyncze sojusze, 
-dlatego też, że jest to tak krucha konstrukcja czekają nas ciekawe zmiany, 
-oto jak wygląda przyszłość zbudowana na nawozie wiary, nadzieji i pogardzie,
+Warto przeprowadzić symulację w kontekście tych wszystkich wydarzeń,
+
+Teraźniejszość jest oparta o pojedyncze sojusze, dlatego też, że jest to tak krucha konstrukcja czekają nas ciekawe zmiany, 
+oto jak wygląda przyszłość zbudowana na nawozie wiary, nadzieji, pogardzie i nienawiści
+
 zapraszam do lektury...
 
 
-Jedną z cech tego opowiadania, jest wchodzenie w obszary poza okiem kamer propagandowych tv, bez analizowania przyczyn a skupianie się na rozwiązaniach wymienionych problemów cywilizacyjnych wolnego człowieka.
-Zakładam, że podstawą działań ma być znajomość aktualnego stanu rzeczy a nie strach wywoływany niewiedzą, dobry plan zakłada scenariusz na rozdrożu, których jest tzm więcej im mniej mamy do powiedzenia i wolności.
+Jedną z cech tego opowiadania, jest wchodzenie w obszary poza okiem kamer propagandowych globalnego mainstreamu,
+podjęcie ryzykownych scenariuszy i rozwiązań aktualnych problemów cywilizacyjnych wolnego człowieka.
+
+Zakładam, że podstawą działań ma być znajomość aktualnego stanu rzeczy a nie strach/wiara wywoływane niewiedzą.
+Dobry plan zakłada scenariusz na rozdrożu, których jest tym mniej im mniej mamy do powiedzenia i wolności.
 
 
 
