@@ -81,11 +81,6 @@ Otrzyma ją, jeśli tylko będzie odpowiednio zrównoważony...
 
 
 
-## Człowiek
-
-Systemy Human Centric zadbają o nas lepiej niż byśmy mogli sobie wyobrazić, jak w roku 1984 "niewola czyni wolnym".
-
-
 ### Cenzura
 
 Przesuwanie granicy cenzury owocuje również zwiększaniem się zakresu tematów tabu a co za tym idzie obojętnością.
@@ -210,6 +205,7 @@ http://www.drroyspencer.com/wp-content/uploads/UAH_LT_1979_thru_September_2021_v
 Tak jak ONZ pobiera podatek od ochrony, tak i WHO narzuca swoją narrację poprzez finansowanie od decydentów.
 Potrzebne są jednak kolejne globalne organizacje, których koncepcje są rozwijane na ważnych spotkaniach takich jak World Economic Forum.
 
+
 ### Klimat
 
 Potrzebne są nowe podatki, aby ocalić naturę...
@@ -218,7 +214,9 @@ Nowa organizacja ma za zadanie kontrolowanie i pobieranie podatków z całego gl
 Zastanawiasz się jak pomóc klimatowi? 
 hasła propagandzstów w skrócie: zużywaj mniej zasobów albo gin!
 
+
 ## Ekoterroryzm
+
 działania skierowane są na realizację aktów przestępczych o zróżnicowanym charakterze wymierzone w gospodarkę, przedsiębiorców oraz konkretne podmioty i jednostki. 
 Zjawisko to, opiera się na pobudkach ekologiczno-politycznych i jako takie przybierać może rozmaite formy. 
 Istotnym czynnikiem, pomijanym z powodu trudności dotyczących analizy aktów normatywnych oraz konkretnych przypadków naruszeń porządku prawnego, jest motywacja finansowa, która staje się coraz częstszym faktycznym powodem podejmowania działań o charakterze pseudoekologicznym. Korzyści uzyskiwane w ramach opisywanego procederu określane są mianem ekoharaczu.
@@ -246,15 +244,29 @@ Konsorcjum ma przyczynić się do zmniejszenia kosztów obsługi w obszarze cybe
 
 
 
-
-
 ## Technologia 
+
+
+
+## Człowiek 6G
+
+Systemy Human Centric zadbają o nas lepiej niż byśmy mogli sobie wyobrazić, jak w roku 1984 "niewola czyni wolnym".
+
+6G aby owce były zdrowe, dzięki stałemu dopływowi hormonów i innych ciekawych specifków
+6G by owce się nie rozpierzchły i przestrzegały zasad w obozach
+
+"najlepsze" przed nami, dziś wołają zablokować konta sąsiedniemu krajowi, jutro sąsiadowi na własnym podwórku, nienawiść zbudowana na kampanii poCovidowej podparta strachem wojny przyniosła wspaniałe owoce, piekło zaczyna nam zazdrościć!
+
+Ukrzyżuj! Ukrzyżuj! Ukrzyżuj!
+
 
 ### Niewolnictwo X.0
 
-niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez głębszą integrację, 6g...
+niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez głębszą integrację, 5G i 6G ...
+jesteśmy nowocześni, obroża ? tak, ale w kolorze oczu, ma być styl, zgodnie z trendem, pstryk i fotka, niech zazdroszczą a jak nie?
+będzie ban na koncie!
 
-wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwala zapomnieć o tym że człowiek jest (też) rzeczą w Internecie Rzeczy (IoT - Internet of Things)
+Wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwala zapomnieć o tym że człowiek jest (też) rzeczą w Internecie Rzeczy (IoT - Internet of Things)
 
 Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a najlepiej być bezemisyjna, inaczej będzie poddana utylizacji, zrozumiano?
 
@@ -358,12 +370,19 @@ Niezmiennie technologia jest narzędziem walki i dobrze posługiwać się nią w
 + reorganizacja
 + nowe 
 + ograniczenie działa rządu
++ Cyberwojsko
++ Cyberprewencja
+
+Globalny komunizm potrzebuje lokalnych narzędzi...
 
 
 ### Tarcza antyrakietowa
 
-+ jak jest obecnie
-+ wersja realna i optymistyczna
+a komu to potrzebne?
+Ludzkość ma być eksploatowana i chroniona przed dorośnięciem do wieku emerytalnego, białko ma wiek przydatności, 
+dzięki integracji 6G możemy zmierzyć przydatnośc do użycia i po ewaporacji przeprowadzić proces eutanazji i utylizacji.
+
+
 
 ### historia z '39
 
@@ -384,6 +403,7 @@ Co można by było nazwać bronią przyszłości?
 Niestety prawie nic co wzbudzałoby zainteresowanie na świecie a polski eksport uzbrojenia jest niższy niż Białorusi czy innych sąsiadów.
 
 Możemy spać spokojnie...
+
 
 
 ### Przeprowadzka wojsk amerykańskich a wariant polski
@@ -445,6 +465,8 @@ Bankructwo i przejędzie państwa w różnych częsciach gopodarki przez rosję,
 
 Słowa powyżej były pisane w Sierpniu 2021 roku jeszcze zanim było wiadomo o kolejnej transzy terenów Ukrainy i przed przygranicznymi przepychankami oraz oficjalnym zacieśnieniu kooperacji Białorusi z Rosją.
 
+Domino zatrzymało się na Ukrainie w Marcu, ale to nie koniec, bo w Marcu jak w garncu, będzie się kotłowało ...
+
 
 ### Polityka rządu, państwo położonego w Palestynie
 
@@ -454,6 +476,8 @@ Te ostatnie koncentruje się na prawie, ekonomii, medycynie, środkach przekazu 
 Wszystkie są fundamentami w globalnym oddziaływaniu politycznym. 
 
 Skutek: wyniszczające wojny konwencjonalne, bio- i cybernetyczne prowadzące do emigracji
+
+Emigracja aktualnie trwa, na Marzec 2022 to głównie emigracja lekarzy w ramach tzw. humanitarnej pomocy, ciekawe co tam w Palestynie, czy tam dotarła ta pomoc, czy znowu izraelskie wojny nie pozwalają dortrzeć bo kurz po eksplozjach nie opadł...
 
 
 ## Miasta w Polsce
@@ -551,6 +575,7 @@ Wszystkie te podwyżki (obniżek było jak na lekarstwo) złożyły się na 5-pr
 
 według danych NBP podaż pieniądza rok do roku (M3) wzrosła o prawie 30%, druga przyczyna to tzw. Zielony Ład.
 
+
 ### Mięso
 
 Zakażmy chowu klatkowego i mięso poszybuje nie +20% a +200%.
@@ -587,6 +612,7 @@ Dla jakich grup społecznych?
 
 
 ### Energetyka
+
 Niezależność energetyczna każdej jednostki organizacyjnej:
 
 
@@ -600,6 +626,7 @@ Niezależność energetyczna każdej jednostki organizacyjnej:
 
 
 ###  Przemysł
+
 łańcuch dostaw poza systemem
 
 Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
