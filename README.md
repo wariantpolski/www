@@ -41,7 +41,46 @@ Zakładam, że podstawą działań ma być znajomość aktualnego stanu rzeczy a
 
 
 
-## Zasoby
+## Human Resources 
+
+
+
+### Człowiek 6G
+
+Systemy Human Centric zadbają o nas lepiej niż byśmy mogli sobie wyobrazić, jak w roku 1984 "niewola czyni wolnym".
+
+6G aby owce były zdrowe, dzięki stałemu dopływowi hormonów i innych ciekawych specifków
+6G by owce się nie rozpierzchły i przestrzegały zasad w obozach
+
+"najlepsze" przed nami, dziś wołają zablokować konta sąsiedniemu krajowi, jutro sąsiadowi na własnym podwórku, nienawiść zbudowana na kampanii poCovidowej podparta strachem wojny przyniosła wspaniałe owoce, piekło zaczyna nam zazdrościć!
+
+Ukrzyżuj! Ukrzyżuj! Ukrzyżuj!
+
+
+### Niewolnictwo X.0
+
+niewolnictwo 2.0 to za mało, totalitaryzm globalny chce więcej i więcej, czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez głębszą integrację, 5G i 6G przybywajcie!
+
+### Wolni od wolnej woli i użyteczniejsi
+
+Jesteśmy nowocześni, obroża ? 
+tak, ale w kolorze oczu, ma być styl, zgodnie z trendem, pstryk i fotka, niech zazdroszczą a jak nie?
+będzie ban na koncie!
+
+Wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwala zapomnieć o tym że człowiek jest (też) rzeczą w Internecie Rzeczy (IoT - Internet of Things)
+
+Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a najlepiej być bezemisyjna, inaczej będzie poddana utylizacji, zrozumiano?
+
+
+### Society 5.0
+
+To świat w ktorym nie ma prywatności, offline nie istnieje, wszyscy jesteśmy online, nawet wtedy, gdy nie mampy przy sobie urządzeń telekomunikacyjnych.
+Istniejemy w sieci bo jesteśmy w jej ramach, dopiero opuszczając teren na którym jest sieć 5g/6g mamy możliwość poczucia się offline.
+Obecnie to proste, wystarczy wyłączyć kilka urządzeń.
+
+Chcąc sie poruszać, uwierzytelnić, potwierdzić tożsamość zostajemy wpisani w ten czas i miejsce i już tego nie usuniemy.
+Każdy urzędnik oraz cybeprzestępca ma do tego dostęp.
+
 
 ### Zdrowie Fizyczne
 
@@ -224,6 +263,7 @@ Istotnym czynnikiem, pomijanym z powodu trudności dotyczących analizy aktów n
 
 [Ekoterroryzm - Ekoterroryzm.pl](https://ekoterroryzm.pl/)
 
+## Technologia
 
 
 ### Cyberbezpieczeństwo
@@ -244,32 +284,6 @@ Konsorcjum ma przyczynić się do zmniejszenia kosztów obsługi w obszarze cybe
 
 
 
-## Technologia 
-
-
-
-## Człowiek 6G
-
-Systemy Human Centric zadbają o nas lepiej niż byśmy mogli sobie wyobrazić, jak w roku 1984 "niewola czyni wolnym".
-
-6G aby owce były zdrowe, dzięki stałemu dopływowi hormonów i innych ciekawych specifków
-6G by owce się nie rozpierzchły i przestrzegały zasad w obozach
-
-"najlepsze" przed nami, dziś wołają zablokować konta sąsiedniemu krajowi, jutro sąsiadowi na własnym podwórku, nienawiść zbudowana na kampanii poCovidowej podparta strachem wojny przyniosła wspaniałe owoce, piekło zaczyna nam zazdrościć!
-
-Ukrzyżuj! Ukrzyżuj! Ukrzyżuj!
-
-
-### Niewolnictwo X.0
-
-niewolnictwo 2.0 jest faktem, ale czekamy na wersję 3.0 i 4.0, w których będziemy podlegać maszynom poprzez głębszą integrację, 5G i 6G ...
-jesteśmy nowocześni, obroża ? tak, ale w kolorze oczu, ma być styl, zgodnie z trendem, pstryk i fotka, niech zazdroszczą a jak nie?
-będzie ban na koncie!
-
-Wracamy do kultury wschodu, gdzie kastowość jest sprawdzoną, oficjalną metodą zarządzania, technologia jest środkiem przeciwbólowym, który pozwala zapomnieć o tym że człowiek jest (też) rzeczą w Internecie Rzeczy (IoT - Internet of Things)
-
-Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a najlepiej być bezemisyjna, inaczej będzie poddana utylizacji, zrozumiano?
-
 
 ### Blockchain
 
@@ -289,14 +303,6 @@ My prosty lud róbmy to co umiemy najlepiej, pracą na rzecz systemu, on "zrobi"
 W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontrolą maszyny, tak jak elektrocznie sądy w Lublinie, które chętnie wysyłają komorników t dane są w bazie danych, wyrok dociera na adres zamieszkania, nikt nie polemizuje z tym co jest prawdą, zwłaszcza, że Ci, którzy nie mieszkają już pod adresem nie mają ani wiedzy ani prawa do obronu, tym gorzej dla prawa...
 
 
-### Society 5.0
-
-To świat w ktorym nie ma prywatności, offline nie istnieje, wszyscy jesteśmy online, nawet wtedy, gdy nie mampy przy sobie urządzeń telekomunikacyjnych.
-Istniejemy w sieci bo jesteśmy w jej ramach, dopiero opuszczając teren na którym jest sieć 5g/6g mamy możliwość poczucia się offline.
-Obecnie to proste, wystarczy wyłączyć kilka urządzeń.
-
-Chcąc sie poruszać, uwierzytelnić, potwierdzić tożsamość zostajemy wpisani w ten czas i miejsce i już tego nie usuniemy.
-Każdy urzędnik oraz cybeprzestępca ma do tego dostęp.
 
 
 
