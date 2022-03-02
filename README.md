@@ -78,8 +78,9 @@ Pokolenie Lambda i Beta lubi rzeczy, dlatego rzecz powinna zużywać mało CO2 a
 
 ### Society 5.0
 
-To świat w ktorym nie ma prywatności, offline nie istnieje, wszyscy jesteśmy online, nawet wtedy, gdy nie mampy przy sobie urządzeń telekomunikacyjnych.
+To świat w ktorym nie ma prywatności, offline nie istnieje, wszyscy jesteśmy online, nawet wtedy, gdy nie mamy przy sobie urządzeń telekomunikacyjnych.
 Istniejemy w sieci bo jesteśmy w jej ramach, dopiero opuszczając teren na którym jest sieć 5g/6g mamy możliwość poczucia się offline.
+
 Obecnie to proste, wystarczy wyłączyć kilka urządzeń.
 
 Chcąc sie poruszać, uwierzytelnić, potwierdzić tożsamość zostajemy wpisani w ten czas i miejsce i już tego nie usuniemy.
