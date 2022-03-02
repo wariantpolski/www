@@ -25,6 +25,13 @@ Podsumujmy Polskę 2022:
 + w styczniu Nowy, lepszy ład, otwieramy portfele
 + w lutym otwaramy serca i domostwa,
 + w marcu ? jak się skończy to dopiszę, bo obawiam się, że będzie kumulacja puszek Pandory ...
++ lipiec ? UE wprowadzi obowiązek szczepien oraz używania certyfikatów EU COVID 19
++ maj? Polski rząd może również wprowadzić podobne zasady  
+
+Niespodzianki i spodziewanki na rok 2023?
++ Cyfrowa waluta banku centralnego (CBDC) w użyciu
++ gotówka coraz mniej użyteczna
++ podatek od plastiku już jest, więc czekamy na kontyngent CO2 dla każdego obywatela
 
 
 Sporo grup społecznych a nawet samorządy tracą na obecnej sytuacji, więc w ich interesie jest zmiana.
