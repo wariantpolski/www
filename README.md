@@ -833,7 +833,8 @@ Tego życzę każdemu...
 
 Jestem pisarzem z zawodu, piszę kod programów komputerów, w wolnym czasie robię eksperymenty społeczne i staram się dyskutować o ile cenzura i nienawiść ludzi złej woli mnie nie zatrzymuje. 
 
-To opwiedanie to głos bezradnej jednostki.
+Opowiadanie to głos bezradnej jednostki.
+
 Bezradność dopadła mnie odkąd się urodziłem, byłem zdziwiony, że inni chodzą a ja nie mogę, stopniowo uczyłem się krok po kroku jak działa fizyka tej planety.
 Dziś nadal nie czuję się komfortowo...
 chciałbym mieć broń w kaburze, policjantów a nie przebranych milicjantów biegajacych za zwykłymi ludzmi na ulicach okupowanej Polski przez korporacyjna organizację nacisku zwaną EU.
