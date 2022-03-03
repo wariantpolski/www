@@ -458,6 +458,16 @@ Jeden z przykładów:
 Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka.
 Być może jest to nauka na przyszłość, by od razu przejść do partyzantki i podjąć trud  budowy realnej alternatywy, nie godząc się na destrukcyjne kompromisy.
 
+## Cyber-armia
+
+Telefonowałem do WOC (Wojska Obrony Cyberprzestrzeni)
+W sprawie oferty pracy, płacą nieco powyżej średniej krajowej.
+Jaki skutek może przynieść ta inicjatywa skoro to się nie spina finansowo? 
+A jeśli tak, to czy są tam kompetentni ludzie?
+Wcześniej odwiedziłem inną stronę na której był artykuł linkujący prowadzony przez Wojskowy Instytut Wydawniczy na której to stronie "polska-zbrojna.pl" nie ma nawet certyfikatu podpiętego do domeny,
+
+Kto będzie pracował za 30% możliwej wypłaty?
+obawiam się, że prędzej agent obcego wywiadu (lub kandydat na niego) niż Ekspert z IT
 
 
 ## Zdarzenia zdalnie sterowane
