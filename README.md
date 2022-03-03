@@ -785,6 +785,7 @@ https://www.euractiv.pl/section/bezpieczenstwo-i-obrona/news/tanzania-preyzdent-
 ## Pomysł
 
 inspiracją są ostatnie lata, które są bogate w doświadczenia, każdy z nas, nasi bliscy, mamy swoje przemyślenia, którymi dzielimy się z otoczeniem.
+
 Co będzie dalej, za kilka lat?
 
 Przyszłość do została zaplanowana tak do 2020 jak i do 2030, 2050 roku.
@@ -798,7 +799,22 @@ Temu służy opowiadanie, pobudzonej refleksji do weryfikacji i realizacji.
 
 Tego życzę każdemu...
 
-Dla przeciwwagi powstaje strona forum ludzi wolnych, chcących pisać i realizować własne scenariusze: pro2030.com
+## o Autorze
+
+Jestem pisarzem z zawodu, piszę kod programów komputerów, w wolnym czasie robię eksperymenty społeczne i staram się dyskutować o ile cenzura i nienawiść ludzi złej woli mnie nie zatrzymuje. 
+
+
+## Świat wokół mnie
+
+Mimo, że nie mam wpływu na te plany globalne to mogę działać lokalnie, nie chciałbym by ludzie umierali bezsensu.
+Tak jak dziś Ukraińcy nie decydują o końcu wojny tak i my nie decydujemy o kryzysach i smierci 200 tysięcy Polaków zamordowanych (poprzez paraliż służby zdrowia) przez rząd warszawski w ostatnich 2 latach.
+Propaganda Bioterrorystów zaowocowała pogardą dla drugiego człowieka.
+Kolejna odsłona, cztyli propaganda cyberterrorystów niesie nienawiść,
+zakończmy to!
+
++ Działajmy w sposób zdecentralizowany, teraz tylko partyzantka ma sens
+
+Dla przeciwwagi powstaje dedykowane rozwiązanie da zagrożonych wyginięciem stron, ku Pamięci...
 
 Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Society 5.0 to istotne kwestie jakie warto znać już dziś.
 
@@ -806,7 +822,7 @@ Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Soci
 ## Planowany koniec
 
 Opowiadanie jest w trakcie edycji, ma zawierać więcej danych, cytaty, wplecioną akcję, w tej chwili to szkic.
-Planowanie zakończenie to koniec roku 2021
+Planowanie zakończenie to koniec roku 2022
 
 ## Słowa kluczowe,  hashtagi
 
