@@ -644,6 +644,24 @@ Dla jakich grup społecznych?
 + prywatna infrastruktura 
 
 
+### Cyberprewencja
+
+przykład tego co myśli wywiad o tym co dzieje się w PL:
+
+https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-byly-funkcjonariusz-agencji-wywiadu-wojna-trwa-nie-tylko-w-u,nId,5865396
+
+
+"- W polskim Sejmie nie może być miejsca dla prorosyjskich polityków i partii. Jeżeli obywatele nie potrafią podjąć odpowiednich decyzji, powinno im pomóc ABW" 
+
+
+jeśli partia o poparciu poniżej 10% wybrana w demokratycznych wyborach to temat dla ABW to co te służby w ogóle mogą oprócz zwalczania opozycji?
+czym się różnią od białoruskich czy rosyjskich?
+
+Obserwując i słuchając to co mówią ludzie ze służb obawiam się, że pora ich zastąpić i to nie kolejnymi resortowymi dziećmi a zwyczajnie ochotnikami chcącymi dobra Polaków, bo jak widać ubecja w przebraniu ABW a milicja w przebraniu policji nie ma nic do zaoferowania. 
+
+Przydała by się cyberprewencja przed kłócącymi się o resztki ze stołu darmozjadami.
+Ci "robotnicy" sie są godni zapłaty, ich owoce od 30 lat prowadzą do ekonomicznej zagłady Polski.
+Antypolonizm szaleje wewnątrz i na zewnątrz kraju a oni podważają wybory Polaków...
 
 
 ### Energetyka
@@ -752,7 +770,10 @@ Pisanie scenariuszy dla całych społeczności jest niepotrzebne, tym zajmują s
 + Ukraińcy to jedyny naród, który ginął trzymając flagę Unii Europejskiej.
 + wiadomo, że zawsze można przyjąć postawę - lepiej nie walczyć, bo to przynosi śmierć, ale z takim podejściem bylibyśmy teraz pod rządzami komunistów, albo nazistów po II Wojnie Światowej.
 
+
+
 ### Odpowiedź
+
 A co jeśli nic się nie zmieniło? a strefa EURO jest strefą okupcyjną korporacji
 Dlaczego EU gardzi narodowościami?
 Jeśli EU niszczy niezależność narodową to czymże jest flaga EU?
@@ -828,6 +849,7 @@ Warto przyjrzeć się temu i zaplanować więcej alternatyw niż te dopuszczane 
 Temu służy opowiadanie, pobudzonej refleksji do weryfikacji i realizacji.
 
 Tego życzę każdemu...
+
 
 ## o Autorze
 
