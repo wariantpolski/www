@@ -584,6 +584,13 @@ Jakie niesie to ze sobą skutki?
 + cyberataki
 + upubliczniony aneks WSI
 + nieformalne przejęcie polskich służb przez zewnętrzne organizacje 
++ Dezinformacja
+
+
+### Dezinformacja
+
+Na Marzec 2022 dezinformacja płynie z wielu krajów, głównie z Francji, np. informacje że Polska w ogóle nie wspiera Ukrainy, a na Ukrainie nic się nie dzieje. 
+Wiemy już dziś, że nie tylko Ukraińcy dostają się na terytorium Polski w wyniku konfliktu militarnego
 
 
 ### One Ring to rule them all
@@ -660,8 +667,15 @@ czym się różnią od białoruskich czy rosyjskich?
 Obserwując i słuchając to co mówią ludzie ze służb obawiam się, że pora ich zastąpić i to nie kolejnymi resortowymi dziećmi a zwyczajnie ochotnikami chcącymi dobra Polaków, bo jak widać ubecja w przebraniu ABW a milicja w przebraniu policji nie ma nic do zaoferowania. 
 
 Przydała by się cyberprewencja przed kłócącymi się o resztki ze stołu darmozjadami.
+
+Analiza działań Polski poprzez pryzmat organów wykonawczych nie jest tak optymistyczna, jak sugeruje Pan Rybak, a ostatnie lata to tragedia, począwszy od działań dyplomacji (ich braku),  Działania ABW wyglądają na reaktywne, 
+
+
 Ci "robotnicy" sie są godni zapłaty, ich owoce od 30 lat prowadzą do ekonomicznej zagłady Polski.
-Antypolonizm szaleje wewnątrz i na zewnątrz kraju a oni podważają wybory Polaków...
+
+Nie można ufac rządowi, który najpierw oddał suwerenność organizacji zarządzanej przez korporacje w EU a teraz oddaje niepodległośść w ręce WHO,
+Mamy czas do maja 2022, ale jak widać ABW woli szukać rosysjkich agentów w pariach politycznych.
+
 
 
 ### Energetyka
