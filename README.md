@@ -320,15 +320,15 @@ W kontekście blockchain-u sąd wydaje się zbędny, bo wszystko jest pod kontro
 
 ## Nowy ład, stare metody
 
-Nowy ład zmienia sposób funkcjonowania całego państwa,
-zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary dystrybucji wszystkiego od technologii do miejsca każdego człowieka w społeczeństwie poprzez segregację.
+Nowy ład zmienia sposób funkcjonowania całego państwa, zamiast skupiać się na dystrybucji pieniądza, wchodzi w obszary redystrybucji wszystkiego od technologii do miejsca każdego człowieka w społeczeństwie poprzez segregację.
 
 Skutek?
+
 rządy stwarzają warunki większym korporacjom na umocnienie ich pozycji monopolistycznych.
 
 między innymi firmy francuskie i niemieckie, które nie muszą walczyć o konkurencyjność w warunkach, które zapewnia im rząd Polski.
 
-A dopiero początek...
+A to dopiero początek...
 
 
 Skomplikowane podatki to tylko zasłona dla korzyści, które odnoszą obce korporacje w kluczowych dla gospodarki obszarach,
