@@ -835,7 +835,7 @@ Jestem pisarzem z zawodu, piszę kod programów komputerów, w wolnym czasie rob
 
 Opowiadanie to głos bezradnej jednostki.
 
-Bezradność dopadła mnie odkąd się urodziłem, byłem zdziwiony, że inni chodzą a ja nie mogę, stopniowo uczyłem się krok po kroku jak działa fizyka tej planety.
+Bezradność dopadła mnie odkąd się urodziłem, byłem zdziwiony, że inni chodzą, mówią a ja nie umiem, uczyłem się więc krok po kroku jak działa fizyka tej planety.
 Dziś nadal nie czuję się komfortowo...
 chciałbym mieć broń w kaburze, policjantów a nie przebranych milicjantów biegajacych za zwykłymi ludzmi na ulicach okupowanej Polski przez korporacyjna organizację nacisku zwaną EU.
 
