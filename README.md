@@ -496,8 +496,9 @@ Słowa powyżej były pisane w Sierpniu 2021 roku jeszcze zanim było wiadomo o 
 Domino zatrzymało się na Ukrainie w Marcu, ale to nie koniec, bo w Marcu jak w garncu, będzie się kotłowało ...
 
 Polskę też czeka ten proces, Domino nie zacząłeo się na Białorusi, a finał nie zakończy się na Ukrainie.
-Nasze wstąpienie do NATO było warunkowe. 
-Czy nie było czasem tak, że warunkiem gwarancji bezpieczeństwa tego kraju była także jego neutralność w braku dążenia do wstąpienia do NATO?
+Wstąpienie Polski do NATO było warunkowe. 
+
+Wracając do Ukrainy czy nie było czasem tak, że warunkiem gwarancji bezpieczeństwa tego kraju była jego neutralność w braku dążenia do wstąpienia do NATO?
 Ten warunek był zagrożony i groził powrotem rakiet jądrowych do Ukrainy, czyli potencjalne zerwanie warunków umowy.
 To jedna ze stron, niestety z bandytami trzeba się liczyć, zwłaszcza jak są silniejsi a policjant czeka i się przygląda ...
 
