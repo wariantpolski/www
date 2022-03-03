@@ -503,6 +503,7 @@ Emigracja aktualnie trwa, na Marzec 2022 to głównie emigracja lekarzy w ramach
 Upadek polskich miasteczek? Recenzja książki „Zapaść” – Paweł Jaczewski
 https://www.paweljaczewski.pl/upadek-polskich-miasteczek-recenzja-ksiazki-zapasc/
 
+
 ### Cytaty
 
 "Miasta zapaści zamieszkuje dzisiaj trochę ponad pięć milionów ludzi. Według prognoz jedynie w trzech ośrodkach: Ełku, Bytowie i Pułtusku, będzie ich przybywało. Blisko połowa miast straci do 2030 roku więcej niż jedną dziesiątą mieszkańców.
@@ -729,6 +730,18 @@ Czas jest pewien, nie znamy tylko w nim naszego miejsca, nie znamy scenariuszy i
 Pisanie scenariuszy dla całych społeczności jest niepotrzebne, tym zajmują się komuniści, każda wolna jednostka ma wystarczające zasoby, aby pisać własny, dlatego warto promować scenariusze każdego z nas, aby każdy miał szanse zmierzyć się z wieloma niewadomymi już teraz i ponosić mniejsze stratz, które dotyczą w kontekście lokalnej społeczności wielu, gdyż nie pozwalają na zagospodarowanie straconych zasobów.
 
 
+### Pytania zwolennika wojen
+
++ jaką Ukraińcy mają alternatywę? Wrócić pod ruski mir? Ukraińcy wiele lat się wykrwiawali, aby z niego uciec.
++ Ukraińcy to jedyny naród, który ginął trzymając flagę Unii Europejskiej.
++ wiadomo, że zawsze można przyjąć postawę - lepiej nie walczyć, bo to przynosi śmierć, ale z takim podejściem bylibyśmy teraz pod rządzami komunistów, albo nazistów po II Wojnie Światowej.
+
+### Odpowiedź
+A co jeśli nic się nie zmieniło? a strefa EURO jest strefą okupcyjną korporacji
+Dlaczego EU gardzi narodowościami?
+Jeśli EU niszczy niezależność narodową to czymże jest flaga EU?
+
+
 ### Współpraca
 
 Z jednej strony każdy może zachować niezależność w realizacji własnego scenariusza a z drugiej strony może zweryfikować dotychczasowe rezultaty i plany z tymi, którzy również je mają.
@@ -738,6 +751,7 @@ Silna jednostka to świadoma jednostka, rozumiejąca fizykę środowiska, w któ
 Kooperacja liderów w sferze edukacji jest z pewnością jednym z punktów wspólnych, które w obszarze wetware można wzmocnić w sferze merytorycznej bez wywoływania konfliktów w sferze rezultatów działań.
 
 pro2030.com to jeden z adresów dla piszących własne scenariusze.
+
 
 
 
