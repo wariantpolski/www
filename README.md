@@ -793,6 +793,14 @@ Dlaczego EU gardzi narodowościami?
 Jeśli EU niszczy niezależność narodową to czymże jest flaga EU?
 
 
+## Terroryzm 2022 
+
+https://www.gov.pl/web/sluzby-specjalne/stopien-alarmowy-bravo-na-terenie-woj-lubelskiego-i-podkarpackiego
+
+trudno wróżyć z fusów, nie przeceniam ani nie doceniam przeciwinika tego bliskiego i dalekiego, nawet jeśli Polska nie zostanie zajęta lub co gorsza zniszczona.
+Ukraińskie i Polskie służby na granicy nie dają rady, ABW kontroluje Polaków w poszukiwaniu terrorystów wpuszczonych przez tych pierwszych. To nie jest problem wojny a tego jak działa bezradne wobec wroga a bardzo surowe wobec Polaków państwo polskie, które jak widać nie jest godne zaufania i to one prowokowało do eskalacji wojny poprzez udostępnianie samolotów i lotniska dla Ukrainy. Polacy już przegrali, nawet bez wojny, a rząd dba o to by jak najmniej osób o tym wiedziało i płaciło podatki na te kartonowe instytucje.
+
+
 ### Współpraca
 
 Z jednej strony każdy może zachować niezależność w realizacji własnego scenariusza a z drugiej strony może zweryfikować dotychczasowe rezultaty i plany z tymi, którzy również je mają.
