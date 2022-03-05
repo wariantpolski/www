@@ -883,6 +883,9 @@ Bezradność dopadła mnie odkąd się urodziłem, byłem zdziwiony, że inni ch
 Dziś nadal nie czuję się komfortowo...
 chciałbym mieć broń w kaburze, policjantów a nie przebranych milicjantów biegajacych za zwykłymi ludzmi na ulicach okupowanej Polski przez korporacyjna organizację nacisku zwaną EU.
 
+Nie ufam nikomu, dzięki temu żyję jak chcę, róbmy biznes, uczmy się od korporacji, one kontrolują przepływy i rządy, a nowe szlaki przecierają krwią naiwnych niesionych propagandą rządów.
+Obawiam się, że nawet jak nadejdzie lepszy czas dla PL, to nie będzie to strukturalnie ta sama Polska, jak widać z roku na rok tzw. rząd realizuje plany globalne a nie lokalne, a jeśli nawet to bez konsultacji z Polakami.
+
 "Jeszcze nigdy tak nie było, żeby jakoś nie było"
 
 
