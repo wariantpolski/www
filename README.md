@@ -847,6 +847,51 @@ W przeciwieństwie do niego globalizm skupia się na globalnych strukturach inst
 
 Tak rozumiany globalizm bliski jest kosmopolityzmowi czy internacjonalizmowi. 
 
+## Służby specjalne
+
+W sytuacji braku danych, dezinformacji, tworzenia fałszywych narracji trudno o zaufanie i pewność co do następstw.
+Wielu ludzi zaufoało rządowi w Polsce biorąc na siebie odpowiedzialność spłacania zaciągniętych kredytów na rozwój firmy czy chociażby spłatę pierwszego czy kolejnego mieszkania.
+
+Urzędnicy i politycy zawiedli?
+nie pierwszy raz, są tylko wykonawcami planów, jakich nie znamy, jedynie możemy poczytać o globalnych planach przez konkretne fundacje i organizacje,
+wiecej na stronie: [O projekcie horyzont2030 - horyzont2030.pl](https://www.horyzont2030.pl/)
+
+### lista grzechóœ
+
+Wojskowe Służby Informacyjne zostały zlikwidowane z dniem 30 września 2006 roku. Na ich miejsce powstały: Służby Kontrwywiadu oraz Wywiadu Wojskowego.
+https://www.pb.pl/raport-z-weryfikacji-wsi-upubliczniony-plik-do-pobrania-357208
+
+[Raport z weryfikacji WSI upubliczniony (plik do pobrania) - Puls Biznesu - pb.pl](https://www.pb.pl/raport-z-weryfikacji-wsi-upubliczniony-plik-do-pobrania-357208)
+
+> "Penetracja rosyjska" WSI, wprowadzenie w błąd polskich organów państwowych, nielegalna inwigilacja partii politycznych, sprawa przetargu na KTO (kołowy transporter opancerzony) - to główne sprawy będące przedmiotem doniesień do prokuratury złożonych przez komisję weryfikacyjną WSI.
+> 
+> Jak stwierdza raport, do prokuratury skierowano doniesienia o popełnieniu przestępstwa w następujących sprawach:
+> 
+> \- penetracji rosyjskiej Wojskowych Służb Informacyjnych i zaniechania podjęcia stosowanych działań zmierzających do neutralizacji zagrożenia;
+> 
+> \- przekroczenia uprawnień oraz przejęcia majątku państwowego w celu nielegalnego zdobycia środków na finansowanie służb specjalnych;
+> 
+> \- nielegalnego handlu bronią, a także ukrywania dokumentów;
+> 
+> \- działania na szkodę Skarbu Państwa oraz bezpieczeństwa państwa poprzez uprzywilejowanie firmy Siltec w przetargach organizowanych dla WP;
+> 
+> \- stworzenia rezydentury, której funkcjonariusze podejmowali nielegalne działania przy współudziale byłych, nie zweryfikowanych pracowników Służby Bezpieczeństwa;
+> 
+> \- nieprawidłowości związanych z gospodarowaniem funduszem operacyjnym w krakowskim oddziale WSI oraz przywłaszczania lokali operacyjnych;
+> 
+> \- wprowadzenia w błąd polskich organów państwowych przez udzielanie fałszywych wiadomości mających istotne znaczenie dla Rzeczypospolitej Polskiej oraz niedopełnienia obowiązków;
+> 
+> \- nieprawidłowości związanych ze sprawą przetargu na Kołowy Transporter Opancerzony;
+> 
+> \- nielegalnej inwigilacji partii politycznych;
+> 
+> \- prowadzenia działalności szpiegowskiej przeciwko interesom obronności Rzeczypospolitej Polskiej i jej Siłom Zbrojnym;
+> 
+> \- ujawniania w zamian za korzyści majątkowe poufnych informacji przez pracowników polskich ministerstw oraz nie przekazania przez WSI informacji o zagrożeniu energetycznym państwa właściwym organom;
+> 
+> \- ujawnienia tajemnicy państwowej oraz stosowania bezprawnych gróźb.
+
+
 
 ### Współpraca
 
