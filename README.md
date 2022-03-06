@@ -813,12 +813,39 @@ Polacy już przegrali, nawet bez kinetycznej wojny, a rząd dba o to by jak najm
 To typowe działania dywersyjne na terenie Polsi, aby neutralizować Polaków porpzez dezinformację, ekonomiczne ubożenie, zależność oraz podległość wobec urzędniczej armii.
 Na koniec propagandowo zrzucają winę na Polaków oskarżając ich o wykreowane zagrożenia etykietując i przezywając.
 
-Zagrożenia dla Polaka w Polsce to w pierwszej linii:
+### Zagrożenia dla Polaka w Polsce to w pierwszej linii:
+
 + niekompetentny urzędnik:
  + policjant
  + lekarz
  + inni nie wytwarzający dóbr a jedynie żyjący z podatków pracowitych ludzi spoza tzw. budżetówki
++ media
+ + zagraniczne ale polskojęzyczne
+ + z polskim kapitałem ale działające w obcym interesie 
 
+Reasumując nie mamy szansy jako pojedyncze osoby stworzyć dobrego rozwiazania,
+warto jednak nazwać ten problem przejęcia tożsamości i jej transfomracji do akceptującego zastany stan niewolnika
+
+
+najłatwiej powiedzieć, ze to globalizm a działania antyglobalne i antyglobalistów jako sprzyjające tożsamości i zachowaniu pokoju wewnątrz narodowych Państw
+
+## globalizm
+
+Czym jest w zasadzie?
+
+https://pl.wikipedia.org/wiki/Globalizm
+
+Globalizm jako kierunek polityki czy rodzaj poglądów politycznych przeciwstawiany jest regionalizmowi. Regionalizm jest tu pojmowany jako rodzaj polityki skupiony na celach pewnego regionu (najczęściej państwa), takich jak: obrona suwerenności, zwiększenie jego bogactwa, znaczenia czy relatywnej potęgi w stosunku do innych regionów. Za pewną formę regionalizmu można uznać nacjonalizm.
+
+W przeciwieństwie do niego globalizm skupia się na globalnych strukturach instytucjonalnych i często wiąże się z następującymi poglądami[2]:
+
+    rząd światowy jest dobrem, do którego należy dążyć,
+    globalne zarządzanie (global governance) jest lepsze od rozwiązywania problemów na poziomie narodowym,
+    powinna nastąpić harmonizacja systemów prawnych poszczególnych krajów,
+    suwerenność i autonomia krajów powinny zostać ograniczone na rzecz struktur międzynarodowych,
+    umowy międzynarodowe powinny być zawierane z punktu widzenia globalnych potrzeb, a nie narodowych interesów stron.
+
+Tak rozumiany globalizm bliski jest kosmopolityzmowi czy internacjonalizmowi. 
 
 
 ### Współpraca
@@ -857,6 +884,7 @@ Kiedy został ZABTY, pierwszą rzeczą, którą nakazano, było to, aby ludzie n
 https://www.bbc.com/news/world-latin-america-57762246
 
 
+
 ### 17 marca 2021 zmarł tanzański prezydent John Magufuli (61 lat)
 
 Według oficjalnego komunikatu do zgonu doszło w tanzańskiej stolicy Dar-es-Salaam, a przyczyną był „atak serca”. W kraju zarządzono 14-dniową żałobę narodową, a wszystkie flagi mają zostać opuszczone do połowy masztu.
@@ -864,6 +892,8 @@ Według oficjalnego komunikatu do zgonu doszło w tanzańskiej stolicy Dar-es-Sa
 Nie ma oficjalnego potwierdzenia, że Magufuli rzeczywiście zmarł z powodu COVID-19. Wysokiej rangi przedstawiciele tanzańskich władz zaprzeczali, że prezydent zakaził się koronawirusem. Ale ponieważ twierdzili też ciągle, że „cieszy się dobrym zdrowiem”, to ich zapewnienia są podawane w coraz większą wątpliwość.
 
 https://www.euractiv.pl/section/bezpieczenstwo-i-obrona/news/tanzania-preyzdent-smierc-pandemia-koronawirus-covid-john-magufuli/
+
+
 
 ### W lutym 2021 zmarł wiceprezydent zanzibarskich władz autonomicznych, 77-letni Maalim Seif Sharif Hamad. 
 
