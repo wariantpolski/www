@@ -817,7 +817,9 @@ Tego życzę każdemu...
 
 ## o Autorze
 
-Jestem pisarzem z zawodu, piszę kod programów komputerów, w wolnym czasie robię eksperymenty społeczne i staram się dyskutować o ile cenzura i nienawiść ludzi złej woli mnie nie zatrzymuje. 
+Jestem pisarzem z zawodu.
+Codzienne piszę kod programów dla komputerów.
+W wolnym czasie robię eksperymenty społeczne i staram się dyskutować o ile cenzura i nienawiść ludzi złej woli mnie nie zatrzymuje. 
 
 Opowiadanie to głos bezradnej jednostki.
 
