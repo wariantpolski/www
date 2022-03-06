@@ -238,6 +238,7 @@ To wszystko upraszcza też życie człowieka, nareszcie może się zając nic ni
 Proste życie z dotacjami, fale zapomóg i darmowych pieniędzy, może nawet gwarantowany dochód, życie na kredyt...
 
 ### Fakty
+
 Cykliczność zmian klimatu.
 Fakty szczególnie dla tych, którzy dziwią się porom roku
 
@@ -798,7 +799,26 @@ Jeśli EU niszczy niezależność narodową to czymże jest flaga EU?
 https://www.gov.pl/web/sluzby-specjalne/stopien-alarmowy-bravo-na-terenie-woj-lubelskiego-i-podkarpackiego
 
 trudno wróżyć z fusów, nie przeceniam ani nie doceniam przeciwinika tego bliskiego i dalekiego, nawet jeśli Polska nie zostanie zajęta lub co gorsza zniszczona.
-Ukraińskie i Polskie służby na granicy nie dają rady, ABW kontroluje Polaków w poszukiwaniu terrorystów wpuszczonych przez tych pierwszych. To nie jest problem wojny a tego jak działa bezradne wobec wroga a bardzo surowe wobec Polaków państwo polskie, które jak widać nie jest godne zaufania i to one prowokowało do eskalacji wojny poprzez udostępnianie samolotów i lotniska dla Ukrainy. Polacy już przegrali, nawet bez wojny, a rząd dba o to by jak najmniej osób o tym wiedziało i płaciło podatki na te kartonowe instytucje.
+Ukraińskie i Polskie służby na granicy nie dają rady, ABW kontroluje Polaków w poszukiwaniu terrorystów wpuszczonych przez tych pierwszych. To nie jest problem wojny a tego jak działa bezradne wobec wroga a bardzo surowe wobec Polaków państwo polskie, które jak widać nie jest godne zaufania i to one prowokowało do eskalacji wojny poprzez udostępnianie samolotów i lotniska dla Ukrainy.
+Polacy już przegrali, nawet bez kinetycznej wojny, a rząd dba o to by jak najmniej osób o tym wiedziało i płaciło podatki na te kartonowe instytucje.
+
+## Kto z kim walczy?
+
++ milicja w przebraniu policji goni Polaków bez masek po sklepach i galeriach handlowych
++ administracja działa destrukcyjnie na Polaków na dwa sposoby albo:
+  + tylko pasywnie reaguje, podejmując decyzje dotyczące sytuacji z wczorajszego dnia
+  + z wyprzedzeniem wprowadza Plany, które wprowadzają chaos i ekonomiczny armageddon wiedząc, że sytuacja globalna jest niekorzystna
++ celnicy z granicy wprowadzają zagrożenia teroryzmem po czym ABW biega za terorystami
+
+To typowe działania dywersyjne na terenie Polsi, aby neutralizować Polaków porpzez dezinformację, ekonomiczne ubożenie, zależność oraz podległość wobec urzędniczej armii.
+Na koniec propagandowo zrzucają winę na Polaków oskarżając ich o wykreowane zagrożenia etykietując i przezywając.
+
+Zagrożenia dla Polaka w Polsce to w pierwszej linii:
++ niekompetentny urzędnik:
+ + policjant
+ + lekarz
+ + inni nie wytwarzający dóbr a jedynie żyjący z podatków pracowitych ludzi spoza tzw. budżetówki
+
 
 
 ### Współpraca
