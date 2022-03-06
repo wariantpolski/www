@@ -733,6 +733,8 @@ Niezależność energetyczna każdej jednostki organizacyjnej:
 
 Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
 
+
+
 #### Mobilne Fabryki
 
 + w kontenerach zasilane przez PVA
@@ -749,6 +751,7 @@ Gospodarka lokalna w który działa w partyzancki i zdecentralizowany sposób, n
 + wymiana barterowa
 + lokalne elektrownie
 + lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
+
 
 
 #### Lokalne waluty
@@ -847,6 +850,8 @@ Polacy już przegrali, nawet bez kinetycznej wojny, a rząd dba o to by jak najm
 To typowe działania dywersyjne na terenie Polsi, aby neutralizować Polaków porpzez dezinformację, ekonomiczne ubożenie, zależność oraz podległość wobec urzędniczej armii.
 Na koniec propagandowo zrzucają winę na Polaków oskarżając ich o wykreowane zagrożenia etykietując i przezywając.
 
+
+
 ### Zagrożenia dla Polaka w Polsce to w pierwszej linii:
 
 + niekompetentny urzędnik:
@@ -863,7 +868,8 @@ warto jednak nazwać ten problem przejęcia tożsamości i jej transfomracji do 
 
 najłatwiej powiedzieć, ze to globalizm a działania antyglobalne i antyglobalistów jako sprzyjające tożsamości i zachowaniu pokoju wewnątrz narodowych Państw
 
-## globalizm
+
+## Globalizm
 
 Czym jest w zasadzie?
 
@@ -1035,12 +1041,13 @@ Dziś nadal nie czuję się komfortowo...
 chciałbym mieć broń w kaburze, policjantów a nie przebranych milicjantów biegajacych za zwykłymi ludzmi na ulicach okupowanej Polski przez korporacyjna organizację nacisku zwaną EU.
 
 Nie ufam nikomu, dzięki temu żyję jak chcę, róbmy biznes, uczmy się od korporacji, one kontrolują przepływy i rządy, a nowe szlaki przecierają krwią naiwnych niesionych propagandą rządów.
+
 Obawiam się, że nawet jak nadejdzie lepszy czas dla PL, to nie będzie to strukturalnie ta sama Polska, jak widać z roku na rok tzw. rząd realizuje plany globalne a nie lokalne, a jeśli nawet to bez konsultacji z Polakami.
 
 "Jeszcze nigdy tak nie było, żeby jakoś nie było"
 
 
-### Skąd mam pewność, że ta dystopia ma sens?
+### Mój warsztat, narzędzia badawcze
 
 Jako inżynier dokonuję doświadczeń w celu zbadania warunków panujących w określonym technicznie środowisku.
 Jako programista/DevOps, działam w środowisku, gdzie słowo staje się ciałem.
@@ -1053,6 +1060,11 @@ Dzięki narzędzi jakim jest indukcja, czyli wnioskowanie zakładające słuszno
 Najpierw zakładam, że przyczyna może leżeć w konkretnym elemencie systemu i staram się opierając o tę tezę naprawić to co uznałem za wadliwe idąc od szczegółu do ogółu.
 
 
+### Technokracja globalna
+
+Skąd mam pewność, że ta dystopia ma sens?
+
++ bo obecny świat technologią stoi.
 
 Świat w którym żyjemy opiero się o infrastrukturę IT, to znaczy, ze też człowiek podlega tym trendom i zmianom.
 Infrastruktura IT jest cyfrowym środowiskiem działania człowieka, bez którego nie może komunikowac się na odlgegłość z innymi ludźmi,
@@ -1072,7 +1084,10 @@ Będziemy zarzadzani jako rzeczy w ekosystemie informatycznym.
 
 Następstwa czysto technicznego podejścia do zarządzania, co aktualnie stara się robić w sposób bardzo nieefektywny rząd danego kraju, administracja.
 
-Dlatego powstają duże, znaczące instytucje i orgazniacje zawłaszczające sobie pole decyzyjne, jak Unia Europejska czy WHO,
+
+### Deglobalizacja i Decentralizacja
+
+Dlatego powstają duże, znaczące instytucje i organziacje zawłaszczające sobie pole decyzyjne, jak Unia Europejska czy WHO,
 które wymuszają na skutek chociażby lokalnych konfliktów federalizację świata, pierwszy etap działań wojennych USA było rozbicie porzadku tam panującego, naturalnego dla danego regionu poprzez hasła demokracji.
 
 Federalizacja jest odzwierciedleniem modularyzacji w świecie technologii, w infrastrukturzy sieciowej są dostępne mikrousługi, które stanowią małe autonomiczne wyspecjalizowane elementy, dzięki temu cały ekosyst jest wtorzony z setek, tysięcy małych jednostek pozwalających na łatwą skalowalność i odporność na przeciążenia systemu.
@@ -1086,9 +1101,7 @@ To ogranicza koszty, przyśpiesza rozbudowę i reagowanie w przypadku potrzeby a
 
 
 
-
-
-## Świat wokół mnie
+### Świat wokół mnie
 
 Mimo, że nie mam wpływu na te plany globalne to mogę działać lokalnie, nie chciałbym by ludzie umierali bezsensu.
 Tak jak dziś Ukraińcy nie decydują o końcu wojny tak i my nie decydujemy o kryzysach i smierci 200 tysięcy Polaków zamordowanych (poprzez paraliż służby zdrowia) przez rząd warszawski w ostatnich 2 latach.
