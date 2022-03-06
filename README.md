@@ -646,9 +646,28 @@ Dwie dekady to jedno pokolenie, więc daje szansę przygotowania dzieci do nadch
 
 
 
-Patrz
+## Energetyka
+
+Ropa jest i pozostanie podstawą gospodarki globalnej
+
+Alternatywne źródła energii czy chcemy czy nie są do dnia dzisiejszego od niej zależne.
+
+Elektryczna infrastruktura jest bardziej modularna i autonomiczna, więc rozliczanie z KWh czy MWh stają się po prostu bardziej praktyczne w wieku elektryfikacji.
+
+Ten kontekst może jedynie zmienić sposób patrzenia na ropę jako jedno ze źródeł, co dziś mamy, ale co będzie ewoluowało a jest jeszce hamowane przez polityczne decyzje typu licencje CO2.
 
 
+## Pieniądz
+
+USD, System z Bretton Woods traci na rok na znaczeniu, gotówka oczywiście również.
+
+
+## Rządy krajów, administracja
+
+Federalizacja krajów, landyzacja zacznie się od Ukrainy po Polskę
+To pomoże kontrolowac obszar przez globalistów.
+Granice, kontrole, Patrole robotów, dronów, itd
+ograniczenia w ruchu, itd, na początku w imię tzw. zielonego ładu a potem już powód nie będzie miał znaczenia. 
 
 
 
