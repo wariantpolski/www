@@ -1042,8 +1042,17 @@ Obawiam się, że nawet jak nadejdzie lepszy czas dla PL, to nie będzie to stru
 
 ### Skąd mam pewność, że ta dystopia ma sens?
 
-Jestem programistą, działam w środowisku, gdzie słowo ciałem się staje.
-Gdzie na podstawie napisanych instrukcji i algorytmów obserwuje rezultaty moich zamierzeń.
+Jako inżynier dokonuję doświadczeń w celu zbadania warunków panujących w określonym technicznie środowisku.
+Jako programista/DevOps, działam w środowisku, gdzie słowo staje się ciałem.
+Gdzie wielokrotonie w ciągu dnia uruchamiam i testuję programy i infrastrukturę obserwując rezultaty instrukcji i algorytmów.
+
+Ta wiedza praktycza jest podstawą moich wniosków do dalszych eksperymentów, służących zbadaniu także rzeczywistości w której poruszam się na codzień jako człowiek, obywatel, istota rozumna.
+
+Dzięki narzędzi jakim jest indukcja, czyli wnioskowanie zakładające słuszność postawionej wcześniej tezy w oparciu o jednostkowe eksperymenty czy obserwacje konkretnych zjawisk w kontrektym kontekście i określonych warunkach, co ma często miejsce w informatyce przy szukaniu usterek.
+
+Najpierw zakładam, że przyczyna może leżeć w konkretnym elemencie systemu i staram się opierając o tę tezę naprawić to co uznałem za wadliwe idąc od szczegółu do ogółu.
+
+
 
 Świat w którym żyjemy opiero się o infrastrukturę IT, to znaczy, ze też człowiek podlega tym trendom i zmianom.
 Infrastruktura IT jest cyfrowym środowiskiem działania człowieka, bez którego nie może komunikowac się na odlgegłość z innymi ludźmi,
@@ -1061,16 +1070,18 @@ To znaczy, że tam gdzie sięga technologia będziemy mieli mniej polityczne a b
 używać morlanych czy społecznych kwantyfikatorów a czysto logiczny pragmatyzm.
 Będziemy zarzadzani jako rzeczy w ekosystemie informatycznym.
 
-Następstwa czysto technicznego podejścia do zarządzania, co aktualnie stara się robić w sposób bardzo nieefektywny rząd danego kraju, adminsitracja.
+Następstwa czysto technicznego podejścia do zarządzania, co aktualnie stara się robić w sposób bardzo nieefektywny rząd danego kraju, administracja.
 
 Dlatego powstają duże, znaczące instytucje i orgazniacje zawłaszczające sobie pole decyzyjne, jak Unia Europejska czy WHO,
 które wymuszają na skutek chociażby lokalnych konfliktów federalizację świata, pierwszy etap działań wojennych USA było rozbicie porzadku tam panującego, naturalnego dla danego regionu poprzez hasła demokracji.
 
 Federalizacja jest odzwierciedleniem modularyzacji w świecie technologii, w infrastrukturzy sieciowej są dostępne mikrousługi, które stanowią małe autonomiczne wyspecjalizowane elementy, dzięki temu cały ekosyst jest wtorzony z setek, tysięcy małych jednostek pozwalających na łatwą skalowalność i odporność na przeciążenia systemu.
 
+
 Ta hipermodularyzacja zapewnia odporność w przypadku przeciążenia oraz łatwość we wchodzeniu w nowe funkcjonalnośći delegując jednostce tylko określone zadania.
 To ogranicza koszty, przyśpiesza rozbudowę i reagowanie w przypadku potrzeby aktualizacji systemu.
 
++ [HiperModularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
 
 
 
@@ -1096,6 +1107,8 @@ Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Soci
 
 Opowiadanie jest w trakcie edycji, ma zawierać więcej danych, cytaty, wplecioną akcję, w tej chwili to szkic.
 Planowanie zakończenie to koniec roku 2022
+
+
 
 ## Słowa kluczowe,  hashtagi
 
