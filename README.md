@@ -276,6 +276,8 @@ Istotnym czynnikiem, pomijanym z powodu trudności dotyczących analizy aktów n
 
 [Ekoterroryzm - Ekoterroryzm.pl](https://ekoterroryzm.pl/)
 
+
+
 ## Technologia
 
 
@@ -359,6 +361,7 @@ Te zmiany i inne przedstawione dalej pogłębiają kryzys ekonomiczny Polski, wz
 
 
 ### Urzędnicy
+
 Gdz nadchodzi kryzys ekonomiczny są jeszcze bardziej potrzebni i kosztowni, bo kto bierze na poważnie rząd, który prowadzi do destrukcji?
 Dlatego dla wielu urzędników to czas na wzbogacenie się, wejście w rolę pana życia maluczkich/podatników, czekają ich zmiany na lepsze:
 + zmiana modelu i form zatrudniania, wyższe pensje 
@@ -373,6 +376,7 @@ Niezmiennie od czasu, miejsca i ustroju politycznego jedna zasada jest stała: w
 Oferta silniejszego, niezależnie od tego czy to korporacje z USA/Chin/Niemiec jest taka, by grać tak jak nam zagrają.
 To co obiecują w zamian to miejsce niewolnika w szeregu, inaczej czeka nas los wroga.
 
+
 ### Oferta
 
 na rok 2022 jest taka jak zawsze: dostosuj się lub zgin 
@@ -381,6 +385,19 @@ Alternatywą jest obrona, a więc wojna...
 
 Niezmiennie technologia jest narzędziem walki i dobrze posługiwać się nią w stopni pozwalającej na odparcie ataków na poziomie socjotechnicznym, mając na uwadze, że człowiek jest najsłabszym ogniwem.
 
+
+
+
+## Kto z kim walczy?
+
++ milicja w przebraniu policji goni Polaków bez masek po sklepach i galeriach handlowych
++ administracja działa destrukcyjnie na Polaków na dwa sposoby albo:
+  + tylko pasywnie reaguje, podejmując decyzje dotyczące sytuacji z wczorajszego dnia
+  + z wyprzedzeniem wprowadza Plany, które wprowadzają chaos i ekonomiczny armageddon wiedząc, że sytuacja globalna jest niekorzystna
++ celnicy z granicy wprowadzają zagrożenia teroryzmem po czym ABW biega za terorystami
+
+To typowe działania dywersyjne na terenie Polsi, aby neutralizować Polaków poprzez dezinformację, ekonomiczne ubożenie, zależność oraz podległość wobec urzędniczej armii.
+Na koniec propagandowo zrzucają winę na Polaków oskarżając ich o wykreowane zagrożenia etykietując i przezywając.
 
 
 
@@ -537,6 +554,34 @@ Skutek: wyniszczające wojny konwencjonalne, bio- i cybernetyczne prowadzące do
 Emigracja aktualnie trwa, na Marzec 2022 to głównie emigracja lekarzy w ramach tzw. humanitarnej pomocy, ciekawe co tam w Palestynie, czy tam dotarła ta pomoc, czy znowu izraelskie wojny nie pozwalają dortrzeć bo kurz po eksplozjach nie opadł...
 
 
+### Pytania zwolennika wojen
+
++ jaką Ukraińcy mają alternatywę? Wrócić pod ruski mir? Ukraińcy wiele lat się wykrwiawali, aby z niego uciec.
++ Ukraińcy to jedyny naród, który ginął trzymając flagę Unii Europejskiej.
++ wiadomo, że zawsze można przyjąć postawę - lepiej nie walczyć, bo to przynosi śmierć, ale z takim podejściem bylibyśmy teraz pod rządzami komunistów, albo nazistów po II Wojnie Światowej.
+
+
+
+### Odpowiedź
+
+A co jeśli nic się nie zmieniło? a strefa EURO jest strefą okupcyjną korporacji
+Dlaczego EU gardzi narodowościami?
+Jeśli EU niszczy niezależność narodową to czymże jest flaga EU?
+
+
+
+### Terroryzm 2022 
+
+https://www.gov.pl/web/sluzby-specjalne/stopien-alarmowy-bravo-na-terenie-woj-lubelskiego-i-podkarpackiego
+
+trudno wróżyć z fusów, nie przeceniam ani nie doceniam przeciwinika tego bliskiego i dalekiego, nawet jeśli Polska nie zostanie zajęta lub co gorsza zniszczona.
+Ukraińskie i Polskie służby na granicy nie dają rady, ABW kontroluje Polaków w poszukiwaniu terrorystów wpuszczonych przez tych pierwszych. To nie jest problem wojny a tego jak działa bezradne wobec wroga a bardzo surowe wobec Polaków państwo polskie, które jak widać nie jest godne zaufania i to one prowokowało do eskalacji wojny poprzez udostępnianie samolotów i lotniska dla Ukrainy.
+Polacy już przegrali, nawet bez kinetycznej wojny, a rząd dba o to by jak najmniej osób o tym wiedziało i płaciło podatki na te kartonowe instytucje.
+
+
+
+
+
 ## Miasta w Polsce
 
 Upadek polskich miasteczek? Recenzja książki „Zapaść” – Paweł Jaczewski
@@ -557,7 +602,7 @@ Nie wyślę przecież cierpiącego, bólowego albo naprawdę chorego człowieka,
 
 
 
-## Kryzys
+# Kryzysy
 
 Ewolucja dotyczy nie tylko natury, człowieka, także kryzysy ewoluują.
 Wojny ekonomiczne, cyberataki, bioataki, ...
@@ -630,7 +675,7 @@ Wobec takiego scenariusza będziemy rozważać produkcję sztucznego mięsa...
 https://next.gazeta.pl/next/7,151003,27461253,inflacja-w-polsce-najwyzsza-od-dekady-co-drozeje-coz-wlasciwie.html
 
 
-#### nieurodzaj 
+#### Nieurodzaj 
 
 Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza gdy nie mają wyboru
 + Propozycja rządu do importu żywności z innych krajów, głównie Turcji, Ukrainy i Białorusi
@@ -671,119 +716,9 @@ ograniczenia w ruchu, itd, na początku w imię tzw. zielonego ładu a potem ju�
 
 
 
-## Rozwiązania
+## Fizyka tego świata
 
-
-
-
-### Grupy Społeczne
-Dla jakich grup społecznych?
-
-+ aktywisci
-+ lobbysci
-+ hakerzy
-+ drony
-+ prywatna infrastruktura 
-
-
-### Cyberprewencja
-
-przykład tego co myśli wywiad o tym co dzieje się w PL:
-
-https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-byly-funkcjonariusz-agencji-wywiadu-wojna-trwa-nie-tylko-w-u,nId,5865396
-
-
-"- W polskim Sejmie nie może być miejsca dla prorosyjskich polityków i partii. Jeżeli obywatele nie potrafią podjąć odpowiednich decyzji, powinno im pomóc ABW" 
-
-
-jeśli partia o poparciu poniżej 10% wybrana w demokratycznych wyborach to temat dla ABW to co te służby w ogóle mogą oprócz zwalczania opozycji?
-czym się różnią od białoruskich czy rosyjskich?
-
-Obserwując i słuchając to co mówią ludzie ze służb obawiam się, że pora ich zastąpić i to nie kolejnymi resortowymi dziećmi a zwyczajnie ochotnikami chcącymi dobra Polaków, bo jak widać ubecja w przebraniu ABW a milicja w przebraniu policji nie ma nic do zaoferowania. 
-
-Przydała by się cyberprewencja przed kłócącymi się o resztki ze stołu darmozjadami.
-
-Analiza działań Polski poprzez pryzmat organów wykonawczych nie jest tak optymistyczna, jak sugeruje Pan Rybak, a ostatnie lata to tragedia, począwszy od działań dyplomacji (ich braku),  Działania ABW wyglądają na reaktywne, 
-
-
-Ci "robotnicy" sie są godni zapłaty, ich owoce od 30 lat prowadzą do ekonomicznej zagłady Polski.
-
-Nie można ufac rządowi, który najpierw oddał suwerenność organizacji zarządzanej przez korporacje w EU a teraz oddaje niepodległośść w ręce WHO,
-Mamy czas do maja 2022, ale jak widać ABW woli szukać rosysjkich agentów w pariach politycznych.
-
-
-
-### Energetyka
-
-Niezależność energetyczna każdej jednostki organizacyjnej:
-
-
-#### Farmy fotowoltaiczne poza systemem
-
-+ PVA + blockchain + private5g
-+ PVA + crypto + IoT + LoRaWAN
-
-
-
-
-
-###  Przemysł
-
-łańcuch dostaw poza systemem
-
-Wymiana handlowa noszona na fali industry 4.0 i society 5.0 nie potrzebuje granic, transport i produkcja potrzebują jedynie surowców i półproduktów, co pozwala w przypadku fabryk mobilnych zrealizować wiele rozwiązań lokalnie, skrócić łancuchy dostaw do minimum.
-
-
-
-#### Mobilne Fabryki
-
-+ w kontenerach zasilane przez PVA
-+ w przyczepach/transporterach jako  niezależne moduły tworzące infrstrukturę dla produkcji lokalnie i tymczasowo w celu dorażnego uzupełnienia zasobów
-
-
-
-
-### Transfery
-
-Gospodarka lokalna w który działa w partyzancki i zdecentralizowany sposób, niezlażnie od systemu.
-
-+ lokalne waluty
-+ wymiana barterowa
-+ lokalne elektrownie
-+ lokalna telekomunicajca dla potrzeb industry 4.0 staje się podstawą dla society 5.0
-
-
-
-#### Lokalne waluty
-
-Nowe kanały płatności dostępne dla lokalnej społeczności jest dostępny od wielu lat, jednak teraz jest potrzebny bardziej niż wcześniej, z każdym kryzysem są dostępne coraz lepsze rozwiązania, wystarczy po nie sięgnąć
-
-
-
-### Komunikacja
-
-#### Budowa Society 5.0 przez prywatne organizacje
-
-+ separacja lokalnych społeczeństw od systemu
-
-#### Rozliczenia
-
-+ barter i rozliczenia poza systemem
-
-#### Automatyzacja marketingu
-
-+ rozwój spersonalizowanych kanałów komunikacji dzięki AI
-
-#### Data center
-
-+ lokalne centra danych, offline, niezależne sieci od globalnego innternetu
-
-
-
-
-
-## Teoria i Praktyka
-
+Kluczem do poznania zasad panujacych na świecie jest zrozumienie fizyki i przyjęcie jako pewnik, że silniejszy zawsze wygrywa.
 Rozumiejąc fizykę otoczenia łatwiej jest się w nim poruszać, mogąc planować kolejne kroki, będąc pewnym ich rezultatu.
 
 
@@ -803,8 +738,6 @@ Cykl pracy i życia człowieka będzie udoskonalany, tak aby żadna energia się
 operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludzkie.
 
 
-## Wetware
-
 ### Scenariusze 
 
 To opowiadanie jest tłem dla scenariusza, który może napisać czytelnik, mając na uwadze fizykę otoczenia, nawet jeśli nie świadomie, to pewne jest że jutro nadejdzie, bo dzieje się to od zawsze.
@@ -816,155 +749,7 @@ Czas jest pewien, nie znamy tylko w nim naszego miejsca, nie znamy scenariuszy i
 Pisanie scenariuszy dla całych społeczności jest niepotrzebne, tym zajmują się komuniści, każda wolna jednostka ma wystarczające zasoby, aby pisać własny, dlatego warto promować scenariusze każdego z nas, aby każdy miał szanse zmierzyć się z wieloma niewadomymi już teraz i ponosić mniejsze stratz, które dotyczą w kontekście lokalnej społeczności wielu, gdyż nie pozwalają na zagospodarowanie straconych zasobów.
 
 
-### Pytania zwolennika wojen
-
-+ jaką Ukraińcy mają alternatywę? Wrócić pod ruski mir? Ukraińcy wiele lat się wykrwiawali, aby z niego uciec.
-+ Ukraińcy to jedyny naród, który ginął trzymając flagę Unii Europejskiej.
-+ wiadomo, że zawsze można przyjąć postawę - lepiej nie walczyć, bo to przynosi śmierć, ale z takim podejściem bylibyśmy teraz pod rządzami komunistów, albo nazistów po II Wojnie Światowej.
-
-
-
-### Odpowiedź
-
-A co jeśli nic się nie zmieniło? a strefa EURO jest strefą okupcyjną korporacji
-Dlaczego EU gardzi narodowościami?
-Jeśli EU niszczy niezależność narodową to czymże jest flaga EU?
-
-
-## Terroryzm 2022 
-
-https://www.gov.pl/web/sluzby-specjalne/stopien-alarmowy-bravo-na-terenie-woj-lubelskiego-i-podkarpackiego
-
-trudno wróżyć z fusów, nie przeceniam ani nie doceniam przeciwinika tego bliskiego i dalekiego, nawet jeśli Polska nie zostanie zajęta lub co gorsza zniszczona.
-Ukraińskie i Polskie służby na granicy nie dają rady, ABW kontroluje Polaków w poszukiwaniu terrorystów wpuszczonych przez tych pierwszych. To nie jest problem wojny a tego jak działa bezradne wobec wroga a bardzo surowe wobec Polaków państwo polskie, które jak widać nie jest godne zaufania i to one prowokowało do eskalacji wojny poprzez udostępnianie samolotów i lotniska dla Ukrainy.
-Polacy już przegrali, nawet bez kinetycznej wojny, a rząd dba o to by jak najmniej osób o tym wiedziało i płaciło podatki na te kartonowe instytucje.
-
-## Kto z kim walczy?
-
-+ milicja w przebraniu policji goni Polaków bez masek po sklepach i galeriach handlowych
-+ administracja działa destrukcyjnie na Polaków na dwa sposoby albo:
-  + tylko pasywnie reaguje, podejmując decyzje dotyczące sytuacji z wczorajszego dnia
-  + z wyprzedzeniem wprowadza Plany, które wprowadzają chaos i ekonomiczny armageddon wiedząc, że sytuacja globalna jest niekorzystna
-+ celnicy z granicy wprowadzają zagrożenia teroryzmem po czym ABW biega za terorystami
-
-To typowe działania dywersyjne na terenie Polsi, aby neutralizować Polaków porpzez dezinformację, ekonomiczne ubożenie, zależność oraz podległość wobec urzędniczej armii.
-Na koniec propagandowo zrzucają winę na Polaków oskarżając ich o wykreowane zagrożenia etykietując i przezywając.
-
-
-
-### Zagrożenia dla Polaka w Polsce to w pierwszej linii:
-
-+ niekompetentny urzędnik:
- + policjant
- + lekarz
- + inni nie wytwarzający dóbr a jedynie żyjący z podatków pracowitych ludzi spoza tzw. budżetówki
-+ media
- + zagraniczne ale polskojęzyczne
- + z polskim kapitałem ale działające w obcym interesie 
-
-Reasumując nie mamy szansy jako pojedyncze osoby stworzyć dobrego rozwiazania,
-warto jednak nazwać ten problem przejęcia tożsamości i jej transfomracji do akceptującego zastany stan niewolnika
-
-
-najłatwiej powiedzieć, ze to globalizm a działania antyglobalne i antyglobalistów jako sprzyjające tożsamości i zachowaniu pokoju wewnątrz narodowych Państw
-
-
-## Globalizm
-
-Czym jest w zasadzie?
-
-https://pl.wikipedia.org/wiki/Globalizm
-
-Globalizm jako kierunek polityki czy rodzaj poglądów politycznych przeciwstawiany jest regionalizmowi. Regionalizm jest tu pojmowany jako rodzaj polityki skupiony na celach pewnego regionu (najczęściej państwa), takich jak: obrona suwerenności, zwiększenie jego bogactwa, znaczenia czy relatywnej potęgi w stosunku do innych regionów. Za pewną formę regionalizmu można uznać nacjonalizm.
-
-W przeciwieństwie do niego globalizm skupia się na globalnych strukturach instytucjonalnych i często wiąże się z następującymi poglądami[2]:
-
-    rząd światowy jest dobrem, do którego należy dążyć,
-    globalne zarządzanie (global governance) jest lepsze od rozwiązywania problemów na poziomie narodowym,
-    powinna nastąpić harmonizacja systemów prawnych poszczególnych krajów,
-    suwerenność i autonomia krajów powinny zostać ograniczone na rzecz struktur międzynarodowych,
-    umowy międzynarodowe powinny być zawierane z punktu widzenia globalnych potrzeb, a nie narodowych interesów stron.
-
-Tak rozumiany globalizm bliski jest kosmopolityzmowi czy internacjonalizmowi. 
-
-## Służby specjalne
-
-W sytuacji braku danych, dezinformacji, tworzenia fałszywych narracji trudno o zaufanie i pewność co do następstw.
-Wielu ludzi zaufoało rządowi w Polsce biorąc na siebie odpowiedzialność spłacania zaciągniętych kredytów na rozwój firmy czy chociażby spłatę pierwszego czy kolejnego mieszkania.
-
-Urzędnicy i politycy zawiedli?
-nie pierwszy raz, są tylko wykonawcami planów, jakich nie znamy, jedynie możemy poczytać o globalnych planach przez konkretne fundacje i organizacje,
-wiecej na stronie: [O projekcie horyzont2030 - horyzont2030.pl](https://www.horyzont2030.pl/)
-
-### Służby specjalne kilkadziesiąt lat temu
-
-Wojskowe Służby Informacyjne zostały zlikwidowane z dniem 30 września 2006 roku. Na ich miejsce powstały: Służby Kontrwywiadu oraz Wywiadu Wojskowego.
-https://www.pb.pl/raport-z-weryfikacji-wsi-upubliczniony-plik-do-pobrania-357208
-
-[Raport z weryfikacji WSI upubliczniony (plik do pobrania) - Puls Biznesu - pb.pl](https://www.pb.pl/raport-z-weryfikacji-wsi-upubliczniony-plik-do-pobrania-357208)
-
-"Penetracja rosyjska" WSI, wprowadzenie w błąd polskich organów państwowych, nielegalna inwigilacja partii politycznych, sprawa przetargu na KTO (kołowy transporter opancerzony) - to główne sprawy będące przedmiotem doniesień do prokuratury złożonych przez komisję weryfikacyjną WSI.
- 
- Jak stwierdza raport, do prokuratury skierowano doniesienia o popełnieniu przestępstwa w następujących sprawach:
- 
-+ penetracji rosyjskiej Wojskowych Służb Informacyjnych i zaniechania podjęcia stosowanych działań zmierzających do neutralizacji zagrożenia;
- 
-+ przekroczenia uprawnień oraz przejęcia majątku państwowego w celu nielegalnego zdobycia środków na finansowanie służb specjalnych;
- 
-+ nielegalnego handlu bronią, a także ukrywania dokumentów;
- 
-+ działania na szkodę Skarbu Państwa oraz bezpieczeństwa państwa poprzez uprzywilejowanie firmy Siltec w przetargach organizowanych dla WP;
- 
-+ stworzenia rezydentury, której funkcjonariusze podejmowali nielegalne działania przy współudziale byłych, nie zweryfikowanych pracowników Służby Bezpieczeństwa;
- 
-+ nieprawidłowości związanych z gospodarowaniem funduszem operacyjnym w krakowskim oddziale WSI oraz przywłaszczania lokali operacyjnych;
- 
-+ wprowadzenia w błąd polskich organów państwowych przez udzielanie fałszywych wiadomości mających istotne znaczenie dla Rzeczypospolitej Polskiej oraz niedopełnienia obowiązków;
- 
-+ nieprawidłowości związanych ze sprawą przetargu na Kołowy Transporter Opancerzony;
- 
-+ nielegalnej inwigilacji partii politycznych;
- 
-+ prowadzenia działalności szpiegowskiej przeciwko interesom obronności Rzeczypospolitej Polskiej i jej Siłom Zbrojnym;
- 
-+ ujawniania w zamian za korzyści majątkowe poufnych informacji przez pracowników polskich ministerstw oraz nie przekazania przez WSI informacji o zagrożeniu energetycznym państwa właściwym organom;
- 
-+ ujawnienia tajemnicy państwowej oraz stosowania bezprawnych gróźb.
-
-### Służby specjalne dziś 
-
-Czy coś się zmieniło?
-tak, poziom infiltracji i inwigilacji dzięki rozwiązaniom typu "Pegazus"
-Niestety mogą być nie tylko bardziej skuteczni, w pozyskiwaniu danych, ale też same służby mogą być skuteczniej rozpracowywane i wykorzystywane przez obce wywiady w tym te dostarczające im rozwiązań technologicznych.
-
-
-### Służby specjalne jutro
-
-+ nie ma recepty na idealne służby
-To co można zrobić w  sytuacji, gdy przekraczane są uprawnienia urzędników Państwa to minimalizacji dystansu od obywateli
-aby nie mieli okazji pomyśleć o łapówkach i nielegalnej współpracy
-
-Zmniejszenie ich kompetencji w pryzpadku, gdy nie ma kontroli nad tym co robią
-Gdy ich działania nie służą Polakom, którzy płacą na ich utrzymanie
-
-Kolejne rozwiązania są otwarte w cyberprzestrzeni i oto od wolnych i niezlaeżnych obywateli zależy, czy będą dawali się rozgrywać
-poddawać fałszywej dezinformacji przez rząd kontrolowany przez inne służby z całego świata.
-
-Każda świadoma zagrożeń jednostka będzie mniej ufna temu co jest jej oferowane.
-Korzystne z punktu widzenia Polaków sa inicjatywy szkoleń, warsztatów a nawet usług dotyczacych prewencji w cyberprzestrzeni
-
-
-
-### Współpraca
-
-Z jednej strony każdy może zachować niezależność w realizacji własnego scenariusza a z drugiej strony może zweryfikować dotychczasowe rezultaty i plany z tymi, którzy również je mają.
-
-Silna jednostka to świadoma jednostka, rozumiejąca fizykę środowiska, w którym działa.
-
-Kooperacja liderów w sferze edukacji jest z pewnością jednym z punktów wspólnych, które w obszarze wetware można wzmocnić w sferze merytorycznej bez wywoływania konfliktów w sferze rezultatów działań.
-
-pro2030.com to jeden z adresów dla piszących własne scenariusze.
-
+w opracowaniu [www.socjotech.pl](http://www.socjotech.pl) znajdują się konkretne rozwiązania
 
 
 
