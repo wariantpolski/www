@@ -482,6 +482,28 @@ obawiam się, że prędzej agent obcego wywiadu (lub kandydat na niego) niż Eks
 
 
 
+
+### Osłabianie pozycji rządu poprzez szereg zdarzeń polityczno ekonomicznych
+
++ cyberataki
++ upubliczniony aneks WSI
++ nieformalne przejęcie polskich służb przez zewnętrzne organizacje 
++ Dezinformacja
+
+
+### Dezinformacja
+
+Na Marzec 2022 dezinformacja płynie z wielu krajów, głównie z Francji, np. informacje że Polska w ogóle nie wspiera Ukrainy, a na Ukrainie nic się nie dzieje. 
+Wiemy już dziś, że nie tylko Ukraińcy dostają się na terytorium Polski w wyniku konfliktu militarnego
+
+
+### One Ring to rule them all
+
++ wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
++ zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
+
+
+
 ## Państwa w Europie i poza nią
 
 ### Białoruś
@@ -580,27 +602,6 @@ Jakie niesie to ze sobą skutki?
 + Chęć zminimalizowania ryzyka w czasaie kryzysu, skutkuje zminimalizowaniem inwestycji a maksymalizowaniem metod przechowania wartości.
 
 
-### Osłabianie pozycji rządu poprzez szereg zdarzeń polityczno ekonomicznych
-
-+ cyberataki
-+ upubliczniony aneks WSI
-+ nieformalne przejęcie polskich służb przez zewnętrzne organizacje 
-+ Dezinformacja
-
-
-### Dezinformacja
-
-Na Marzec 2022 dezinformacja płynie z wielu krajów, głównie z Francji, np. informacje że Polska w ogóle nie wspiera Ukrainy, a na Ukrainie nic się nie dzieje. 
-Wiemy już dziś, że nie tylko Ukraińcy dostają się na terytorium Polski w wyniku konfliktu militarnego
-
-
-### One Ring to rule them all
-
-+ wprowadzenie nowych służb specjalnych podlegających zewnętrznym organizacjom
-+ zmiana prawa ograniczająca możliwości rządu PL na rzecz zewnętrznych organów kontroli związanych z cybersecurity
-
-
-
 
 
 ### Żywność
@@ -637,9 +638,23 @@ Nowe sposoby żywienia, muszą kosztować, ludzie chętnie zapłaca, zwłaszcza 
 
 
 
+# 2040
+
+Zanim dowiemy się jak możemy dziś radzić sobie w świecie rządzonym przez globalistów i lokalne marionetki w rządach i samorządach,
+warto spojrzeć na perspektywę 20 letnią.
+Dwie dekady to jedno pokolenie, więc daje szansę przygotowania dzieci do nadchodzących wojen na polu informacyjnym, biologicznym, tożsamościowym.
+
+
+
+Patrz
+
+
+
 
 
 ## Rozwiązania
+
+
 
 
 ### Grupy Społeczne
@@ -1004,6 +1019,43 @@ Nie ufam nikomu, dzięki temu żyję jak chcę, róbmy biznes, uczmy się od kor
 Obawiam się, że nawet jak nadejdzie lepszy czas dla PL, to nie będzie to strukturalnie ta sama Polska, jak widać z roku na rok tzw. rząd realizuje plany globalne a nie lokalne, a jeśli nawet to bez konsultacji z Polakami.
 
 "Jeszcze nigdy tak nie było, żeby jakoś nie było"
+
+
+### Skąd mam pewność, że ta dystopia ma sens?
+
+Jestem programistą, działam w środowisku, gdzie słowo ciałem się staje.
+Gdzie na podstawie napisanych instrukcji i algorytmów obserwuje rezultaty moich zamierzeń.
+
+Świat w którym żyjemy opiero się o infrastrukturę IT, to znaczy, ze też człowiek podlega tym trendom i zmianom.
+Infrastruktura IT jest cyfrowym środowiskiem działania człowieka, bez którego nie może komunikowac się na odlgegłość z innymi ludźmi,
+wydaje się banał, ale nie było to takie łatwe i realne dziesiątki lat temu, pomijając koszty osiągnięcia tego poziomu.
+
+Środowisko w jakim wychowuje się człowiek determinuje jego tempo uczenia się, nabywania wiedzy a także określa ramy w których wykorzystuje swoje naturalne predyspozycje.
+Dla przykładu, gdy osoba sprawna fizycznie leci w kosmos, musi bardzo ciężko ćwiczyć by w stanie nieważkości zachować ten sam poziom sprawności fizycznej.
+
+Wobec uzależnienia człowieka od technologii można przyjąć, że cała struktura komunikacji wraz z infrastrukturą życia człowieka będzie spójna i logiczna, gdyż
+jest dyktowana podsatwami logicznymi a nie politycznymi.
+To znaczy, że wszlekie decyzje, które wczesniej były podejmowane przez człowieka i oparte o jego ograniczone zmysły i wiedzę, teraz mają szansę wejść na wyższy poziom zarządzania.
+Techniczna strona ekosystemu człwoeika to nie tylko praca, ale rodzina, zycie w społeczeństwie.
+
+To znaczy, że tam gdzie sięga technologia będziemy mieli mniej polityczne a bardziej logiczne i efektywne podejście do zarządzania, co za tym idzie, nie będziemy
+używać morlanych czy społecznych kwantyfikatorów a czysto logiczny pragmatyzm.
+Będziemy zarzadzani jako rzeczy w ekosystemie informatycznym.
+
+Następstwa czysto technicznego podejścia do zarządzania, co aktualnie stara się robić w sposób bardzo nieefektywny rząd danego kraju, adminsitracja.
+
+Dlatego powstają duże, znaczące instytucje i orgazniacje zawłaszczające sobie pole decyzyjne, jak Unia Europejska czy WHO,
+które wymuszają na skutek chociażby lokalnych konfliktów federalizację świata, pierwszy etap działań wojennych USA było rozbicie porzadku tam panującego, naturalnego dla danego regionu poprzez hasła demokracji.
+
+Federalizacja jest odzwierciedleniem modularyzacji w świecie technologii, w infrastrukturzy sieciowej są dostępne mikrousługi, które stanowią małe autonomiczne wyspecjalizowane elementy, dzięki temu cały ekosyst jest wtorzony z setek, tysięcy małych jednostek pozwalających na łatwą skalowalność i odporność na przeciążenia systemu.
+
+Ta hipermodularyzacja zapewnia odporność w przypadku przeciążenia oraz łatwość we wchodzeniu w nowe funkcjonalnośći delegując jednostce tylko określone zadania.
+To ogranicza koszty, przyśpiesza rozbudowę i reagowanie w przypadku potrzeby aktualizacji systemu.
+
+
+
+
+
 
 
 ## Świat wokół mnie
