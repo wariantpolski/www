@@ -887,6 +887,17 @@ To ogranicza koszty, przyśpiesza rozbudowę i reagowanie w przypadku potrzeby a
 + [HiperModularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
 
 
+### Komuna 
+
+Polacy mają swoją mapę mentalną, historyczną, kulturową i na tej podstawie dokonują istotnych wyborów.
+Gdzie Piramida Masłowa nie ma zastosowania a liczy się rachunek a nie struktura społeczna.
+
+Tutaj z pomocą od lat przyhchodzą metody sojotechnicze zawłaszczone przez globalnych graczy w mediach do kształtowania człowieka na miarę potrzeb czasów, do których nas przygotowują.
+
+Nie chciałbym by tematy technokracji wczesniej omówione zasłoniły nam te prymitywne ale skuteczne bo ogłupiające ludzi metody.
+Człowiek to jednak białko i nawet wzbogacony o krzem będzie wykazywał wady organizmów biologicznych.
+Formowanie człowieka wymaga stałej kontroli i jest ono już dziś dzięki technologii łatwiejsze a będzie jeszcze skuteczniejsze w sytemach human centric.
+
 
 
 ### Świat wokół mnie
