@@ -900,19 +900,6 @@ Formowanie człowieka wymaga stałej kontroli i jest ono już dziś dzięki tech
 
 
 
-### Świat wokół mnie
-
-Mimo, że nie mam wpływu na te plany globalne to mogę działać lokalnie, nie chciałbym by ludzie umierali bezsensu.
-Tak jak dziś Ukraińcy nie decydują o końcu wojny tak i my nie decydujemy o kryzysach i smierci 200 tysięcy Polaków zamordowanych (poprzez paraliż służby zdrowia) przez rząd warszawski w ostatnich 2 latach.
-Propaganda Bioterrorystów zaowocowała pogardą dla drugiego człowieka.
-Kolejna odsłona, cztyli propaganda cyberterrorystów niesie nienawiść,
-zakończmy to!
-
-+ Działajmy w sposób zdecentralizowany, teraz tylko partyzantka ma sens
-
-Dla przeciwwagi powstaje dedykowane rozwiązanie da zagrożonych wyginięciem stron, ku Pamięci...
-
-Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Society 5.0 to istotne kwestie jakie warto znać już dziś.
 
 
 ## Planowany koniec
