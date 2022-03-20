@@ -476,6 +476,7 @@ Jeden z przykładów:
 Tak kończą Ci, którzy myśleli, że przetrwają bez potrzeby podjęcia ryzyka.
 Być może jest to nauka na przyszłość, by od razu przejść do partyzantki i podjąć trud  budowy realnej alternatywy, nie godząc się na destrukcyjne kompromisy.
 
+
 ## Cyber-armia
 
 Telefonowałem do WOC (Wojska Obrony Cyberprzestrzeni)
@@ -508,11 +509,22 @@ obawiam się, że prędzej agent obcego wywiadu (lub kandydat na niego) niż Eks
 + Dezinformacja
 
 
-### Dezinformacja
+### Informacja, Propaganda, Dezinformacja
+
+Tak jak i polityka jest odwrotnością logiki tak i propaganda jest dezinformacją nakierowaną na polityczne cele.
+Dezinformacja w rękach korporacji i rządów jest silna, więc zawsze zdolna do zainfekowania części społeczeństwa.
+Przyzwyczailiśmy się już do coraz cięższych gatunkowo i moralnie tematów poruszanych w filmach, programach tv, 
+przyjęliśmy kolejne njusy z tv o kolejnych wojnach jak o naturalnym porządku zdarzeń, więc głodni oczekujemy na kolejne nowości z kolejnych frontów.
+
+Jak zabawa to na całego!
+
+Nienawiść propagowana codziennie w mass mediach to dobry środek przeciwbólowy na przekraczanie kolejnych granic człowieczeństwa.
+
 
 Na Marzec 2022 dezinformacja płynie z wielu krajów, głównie z Francji, np. informacje że Polska w ogóle nie wspiera Ukrainy, a na Ukrainie nic się nie dzieje. 
 Wiemy już dziś, że nie tylko Ukraińcy dostają się na terytorium Polski w wyniku konfliktu militarnego
 
+przy
 
 ### One Ring to rule them all
 
@@ -522,6 +534,7 @@ Wiemy już dziś, że nie tylko Ukraińcy dostają się na terytorium Polski w w
 
 
 ## Państwa w Europie i poza nią
+
 
 ### Białoruś
 
@@ -716,7 +729,8 @@ ograniczenia w ruchu, itd, na początku w imię tzw. zielonego ładu a potem ju�
 
 
 
-## Fizyka tego świata
+
+# Fizyka tego świata
 
 Kluczem do poznania zasad panujacych na świecie jest zrozumienie fizyki i przyjęcie jako pewnik, że silniejszy zawsze wygrywa.
 Rozumiejąc fizykę otoczenia łatwiej jest się w nim poruszać, mogąc planować kolejne kroki, będąc pewnym ich rezultatu.
