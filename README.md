@@ -878,8 +878,11 @@ Dlatego powstają duże, znaczące instytucje i organizacje zawłaszczające sob
 które wymuszają na skutek chociażby lokalnych konfliktów federalizację krajów.
 Pierwszy etap działań wojennych USA było rozbicie porzadku tam panującego, naturalnego dla danego regionu poprzez hasła demokracji.
 
-Federalizacja jest odzwierciedleniem modularyzacji w świecie technologii, w infrastrukturzy sieciowej są dostępne mikrousługi, które stanowią małe autonomiczne wyspecjalizowane elementy, dzięki temu cały ekosyst jest wtorzony z setek, tysięcy małych jednostek pozwalających na łatwą skalowalność i odporność na przeciążenia systemu.
+#### Federalizacja
 
+Federalizacja jest odzwierciedleniem modularyzacji w świecie technologii, w infrastrukturze sieciowej są dostępne mikrousługi, które stanowią małe autonomiczne wyspecjalizowane elementy, ekosystem składa się z setek, tysięcy małych jednostek pozwalających na łatwą skalowalność i odporność na przeciążenia systemu a w przypadu rozpadu utworzenie innej struktury w oparciu o te same elementy przebudowując zależności.
+
+#### Hiper Modularyzacja
 
 Ta hipermodularyzacja zapewnia odporność w przypadku przeciążenia oraz łatwość we wchodzeniu w nowe funkcjonalnośći delegując jednostce tylko określone zadania.
 To ogranicza koszty, przyśpiesza rozbudowę i reagowanie w przypadku potrzeby aktualizacji systemu.
