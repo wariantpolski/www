@@ -760,16 +760,17 @@ operujące na umyśle, pozwalające przeprogramować nieoptymalne jednostki ludz
 
 ### Scenariusze 
 
-To opowiadanie jest tłem dla scenariusza, który może napisać czytelnik, mając na uwadze fizykę otoczenia, nawet jeśli nie świadomie, to pewne jest że jutro nadejdzie, bo dzieje się to od zawsze.
+To opowiadanie jest tłem dla scenariusza pisanego indywidualnie przez każdego z nas.
+Mając na uwadze historię i fizykę otoczenia możemy tworzyć strategie i realizować własne plany.
+Nawet gdy jutro nie nadejdzie dla jednego z nas, inny będzie mógł kontynuować ochronę strategicznych filarów wolności.
 
-Dlatego warto budować tak, aby nawet jak jutro nie nadejdzie dla jednego z nas, inny mógł kontynuoować obronę człowieczeństwa, wolności i stworzonych dzieł za życia.
+Nie znamy scenariuszy innych wolnych ludzi, dlatego tak ważne jest ich materializowanie i dzielenie się nimi, by znaleźć więcej wspólnych mianowników, wzmacniając strategicznie swoje pozycji w społecznościach.
 
-Czas jest pewien, nie znamy tylko w nim naszego miejsca, nie znamy scenariuszy innych, dlatego tak ważne jest ich materializowanie, dzielenie się nimim z tymi, którzy mają te same waertości, bo one prowadzą często do tych samych logicznych wniosków.
-
-Pisanie scenariuszy dla całych społeczności jest niepotrzebne, tym zajmują się komuniści, każda wolna jednostka ma wystarczające zasoby, aby pisać własny, dlatego warto promować scenariusze każdego z nas, aby każdy miał szanse zmierzyć się z wieloma niewadomymi już teraz i ponosić mniejsze stratz, które dotyczą w kontekście lokalnej społeczności wielu, gdyż nie pozwalają na zagospodarowanie straconych zasobów.
-
-
-w opracowaniu [www.socjotech.pl](http://www.socjotech.pl) znajdują się konkretne rozwiązania
+Pisanie scenariuszy odgórnie dla całych społeczności jest charakterystyczne dla komunistów.
+Wychodzę z założenia, że każdy jest sobie najlepszym sterem i okrętem, czyli, że każda wolna jednostka ma wystarczające zasoby, aby pisać własny plan, na tyle na ile jest świadoma.
+Dlatego warto promować scenariusze każdego z nas, by mieć szansę zmierzyć się z wieloma niewadomymi już teraz i ponosić mniejsze straty w przyszłości.
+Warto badać kolejne konteksty naszej rzeczywistości i możliwości podporządkowania jej sobie, gdyż jak wiemy natura nie znosi próżni, jesli nie wolni ludzie, to znajdą się bandyci, którzy wykorzystają każdą wolną przestrzeń.
+Konieczne są plany, strategie i narzędzia do  ich realziacji, dlatego jest opracowywane środowisko do efektywniejszej współpracy: [www.socjotech.pl](http://www.socjotech.pl) tam znajdują się konkretne rozwiązania
 
 
 
