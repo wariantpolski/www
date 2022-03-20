@@ -631,6 +631,12 @@ Pozew wniosły rodziny poległych i ranni w wyniku zamachów w Afganistanie. Kil
 
 Jeden z banków pobierał od niektórych klientów, znacznie wyższe opłaty za realizację transakcji, które posiadały cechy transakcji podejrzanych i w ogóle nie powinny zostać zrealizowane.
 
+### Wojna o pieniądz - CBDC
+
+Kontrola nad cyfrową walutą CBDC to coś więcej niż kontrola łańcuchów dostaw, czyli dwóch stron handlu.
+Czysta kontrola zapisów i zależności, to kontrola pozbawiona wpływu stron trzecich związanych z popytem i podażą na jego wartość.
+To kontrola nad człowiekiem od ustalania indywidualnych limitów emisji CO2 do kontroli zdrowia, struktury wydatków czy zachowania zgodnego z linią partii. 
+
 
 ### Scenariusz 
 
