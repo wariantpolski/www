@@ -208,7 +208,7 @@ Finalnie starania okazują się kosztowniejsze i bezskuteczne, ale walczymy, wal
 W tle powstają pomysły emigracji na inną planetę, a równocześnie powstają ekspedycje ds. eksploracji otchłani ziemskich, szaleńtwa nie ma końca.
 
 
-### Rozwiązania
+### Planowane "Rozwiązania"
 
 Koszty transformacji są ogromne.
 Co jest przewidziane w "Fit For 55".
