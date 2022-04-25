@@ -633,6 +633,13 @@ Jeden z banków pobierał od niektórych klientów, znacznie wyższe opłaty za 
 
 ### Wojna o pieniądz - CBDC
 
+
+Schemat jest znany od lat: inflacja i zmiana systemu,
+kiedyś nazwali to Bretton Woods, a dziś?
+Dziś mamy CBDC, nowy lek na znane symptopmy, przyczyny jak zawsze zabezpieczone i poczekamy kolejne lata lat do kolejnego kryzysu i do jeszcze nowszych rozwiązań...
+
+
+
 Kontrola nad cyfrową walutą CBDC to coś więcej niż kontrola łańcuchów dostaw, czyli dwóch stron handlu.
 Czysta kontrola zapisów i zależności, to kontrola pozbawiona wpływu stron trzecich związanych z popytem i podażą na jego wartość.
 To kontrola nad człowiekiem od ustalania indywidualnych limitów emisji CO2 do kontroli zdrowia, struktury wydatków czy zachowania zgodnego z linią partii. 
