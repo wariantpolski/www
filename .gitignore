@@ -1,3 +1,11 @@
+server/
+find_output_dns.txt
+../../whoisarch/bash/cache/*
+data.dat
+domeny.txt
+input
+output
+.idea
 # Logs
 logs
 *.log
